@@ -1,0 +1,8372 @@
+[
+  {
+    "lat": 19.18614,
+    "lon": -96.12206,
+    "description": "pool1",
+    "captured": true
+  },
+  {
+    "lat": 19.186857,
+    "lon": -96.124044,
+    "description": "pool3",
+    "captured": true
+  },
+  {
+    "lat": 19.188572,
+    "lon": -96.123994,
+    "description": "pool4",
+    "captured": true
+  },
+  {
+    "lat": 19.188861,
+    "lon": -96.126554,
+    "description": "pool5",
+    "captured": true
+  },
+  {
+    "lat": 19.189215,
+    "lon": -96.127117,
+    "description": "pool6",
+    "captured": true
+  },
+  {
+    "lat": 19.188843,
+    "lon": -96.127614,
+    "description": "pool7",
+    "captured": true
+  },
+  {
+    "lat": 19.189442,
+    "lon": -96.128253,
+    "description": "pool8",
+    "captured": true
+  },
+  {
+    "lat": 19.194026,
+    "lon": -96.126717,
+    "description": "pool9",
+    "captured": true
+  },
+  {
+    "lat": 19.19474,
+    "lon": -96.127973,
+    "description": "pool10",
+    "captured": true
+  },
+  {
+    "lat": 19.196716,
+    "lon": -96.12987,
+    "description": "pool11",
+    "captured": true
+  },
+  {
+    "lat": 19.198780142973515,
+    "lon": -96.1299192568918,
+    "description": "pool12",
+    "captured": true
+  },
+  {
+    "lat": 19.198700813652845,
+    "lon": -96.13073618901296,
+    "description": "pool13",
+    "captured": true
+  },
+  {
+    "lat": 19.200723,
+    "lon": -96.132245,
+    "description": "pool14",
+    "captured": true
+  },
+  {
+    "lat": 19.201205,
+    "lon": -96.131661,
+    "description": "pool15",
+    "captured": true
+  },
+  {
+    "lat": 19.201518,
+    "lon": -96.134584,
+    "description": "pool16",
+    "captured": true
+  },
+  {
+    "lat": 19.200614,
+    "lon": -96.139438,
+    "description": "pool17",
+    "captured": true
+  },
+  {
+    "lat": 19.197769,
+    "lon": -96.141338,
+    "description": "pool18",
+    "captured": true
+  },
+  {
+    "lat": 19.201033368962385,
+    "lon": -96.14208881999288,
+    "description": "poll19",
+    "captured": true
+  },
+  {
+    "lat": 19.189727,
+    "lon": -96.129868,
+    "description": "pool20",
+    "captured": true
+  },
+  {
+    "lat": 19.189439,
+    "lon": -96.128255,
+    "description": "pool21",
+    "captured": true
+  },
+  {
+    "lat": 19.185572,
+    "lon": -96.130165,
+    "description": "pool22",
+    "captured": true
+  },
+  {
+    "lat": 19.185413,
+    "lon": -96.130277,
+    "description": "pool23",
+    "captured": true
+  },
+  {
+    "lat": 19.183531,
+    "lon": -96.129863,
+    "description": "pool24",
+    "captured": true
+  },
+  {
+    "lat": 19.188060224675965,
+    "lon": -96.13338618903606,
+    "description": "pool25",
+    "captured": true
+  },
+  {
+    "lat": 19.183935,
+    "lon": -96.128852,
+    "description": "pool26",
+    "captured": true
+  },
+  {
+    "lat": 19.187517477498947,
+    "lon": -96.13340325850928,
+    "description": "pool27",
+    "captured": true
+  },
+  {
+    "lat": 19.186989,
+    "lon": -96.133485,
+    "description": "pool28",
+    "captured": true
+  },
+  {
+    "lat": 19.187193,
+    "lon": -96.133227,
+    "description": "pool29",
+    "captured": true
+  },
+  {
+    "lat": 19.186977,
+    "lon": -96.132988,
+    "description": "pool30",
+    "captured": true
+  },
+  {
+    "lat": 19.040569,
+    "lon": -96.060889,
+    "description": "pool31",
+    "captured": true
+  },
+  {
+    "lat": 19.048955,
+    "lon": -96.037372,
+    "description": "pool32",
+    "captured": true
+  },
+  {
+    "lat": 19.055621,
+    "lon": -96.041961,
+    "description": "pool33",
+    "captured": true
+  },
+  {
+    "lat": 19.057193,
+    "lon": -96.042382,
+    "description": "pool34",
+    "captured": true
+  },
+  {
+    "lat": 19.05757,
+    "lon": -96.042129,
+    "description": "pool35",
+    "captured": true
+  },
+  {
+    "lat": 19.057766,
+    "lon": -96.040907,
+    "description": "pool36",
+    "captured": true
+  },
+  {
+    "lat": 19.057903,
+    "lon": -96.043468,
+    "description": "pool37",
+    "captured": true
+  },
+  {
+    "lat": 19.058301,
+    "lon": -96.045786,
+    "description": "pool38",
+    "captured": true
+  },
+  {
+    "lat": 19.057194,
+    "lon": -96.060943,
+    "description": "pool39",
+    "captured": true
+  },
+  {
+    "lat": 19.057181,
+    "lon": -96.061706,
+    "description": "pool41",
+    "captured": true
+  },
+  {
+    "lat": 19.057868,
+    "lon": -96.061023,
+    "description": "pool42",
+    "captured": true
+  },
+  {
+    "lat": 19.057806,
+    "lon": -96.06184,
+    "description": "pool43",
+    "captured": true
+  },
+  {
+    "lat": 19.057824,
+    "lon": -96.061833,
+    "description": "pool44",
+    "captured": true
+  },
+  {
+    "lat": 19.058531,
+    "lon": -96.061027,
+    "description": "pool45",
+    "captured": true
+  },
+  {
+    "lat": 19.058479,
+    "lon": -96.061849,
+    "description": "pool46",
+    "captured": true
+  },
+  {
+    "lat": 19.059202,
+    "lon": -96.061032,
+    "description": "pool47",
+    "captured": true
+  },
+  {
+    "lat": 19.059162,
+    "lon": -96.061889,
+    "description": "pool48",
+    "captured": true
+  },
+  {
+    "lat": 19.059877,
+    "lon": -96.061136,
+    "description": "pool50",
+    "captured": true
+  },
+  {
+    "lat": 19.059836,
+    "lon": -96.061901,
+    "description": "pool51",
+    "captured": true
+  },
+  {
+    "lat": 19.060536,
+    "lon": -96.06115,
+    "description": "pool52",
+    "captured": true
+  },
+  {
+    "lat": 19.060506,
+    "lon": -96.061911,
+    "description": "pool53",
+    "captured": true
+  },
+  {
+    "lat": 19.06126,
+    "lon": -96.061124,
+    "description": "pool54",
+    "captured": true
+  },
+  {
+    "lat": 19.06122,
+    "lon": -96.061911,
+    "description": "pool55",
+    "captured": true
+  },
+  {
+    "lat": 19.062004,
+    "lon": -96.06123,
+    "description": "pool56",
+    "captured": true
+  },
+  {
+    "lat": 19.061972,
+    "lon": -96.062014,
+    "description": "pool57",
+    "captured": true
+  },
+  {
+    "lat": 19.06276,
+    "lon": -96.061278,
+    "description": "pool58",
+    "captured": true
+  },
+  {
+    "lat": 19.062712,
+    "lon": -96.062055,
+    "description": "pool59",
+    "captured": true
+  },
+  {
+    "lat": 19.063536,
+    "lon": -96.061258,
+    "description": "pool60",
+    "captured": true
+  },
+  {
+    "lat": 19.063463,
+    "lon": -96.06208,
+    "description": "pool61",
+    "captured": true
+  },
+  {
+    "lat": 19.064307,
+    "lon": -96.061951,
+    "description": "pool62",
+    "captured": true
+  },
+  {
+    "lat": 19.063337,
+    "lon": -96.062618,
+    "description": "pool63",
+    "captured": true
+  },
+  {
+    "lat": 19.057946138402595,
+    "lon": -96.06572429979046,
+    "description": "pool64",
+    "captured": true
+  },
+  {
+    "lat": 19.057928,
+    "lon": -96.064208,
+    "description": "pool65",
+    "captured": true
+  },
+  {
+    "lat": 19.058591,
+    "lon": -96.063384,
+    "description": "pool66",
+    "captured": true
+  },
+  {
+    "lat": 19.063613,
+    "lon": -96.065405,
+    "description": "pool67",
+    "captured": true
+  },
+  {
+    "lat": 19.065013,
+    "lon": -96.063826,
+    "description": "pool68",
+    "captured": true
+  },
+  {
+    "lat": 19.064773,
+    "lon": -96.064134,
+    "description": "pool69",
+    "captured": true
+  },
+  {
+    "lat": 19.063795,
+    "lon": -96.066432,
+    "description": "pool70",
+    "captured": true
+  },
+  {
+    "lat": 19.06356,
+    "lon": -96.06626,
+    "description": "pool71",
+    "captured": true
+  },
+  {
+    "lat": 19.064918,
+    "lon": -96.067326,
+    "description": "pool72",
+    "captured": true
+  },
+  {
+    "lat": 19.06501,
+    "lon": -96.067566,
+    "description": "pool74",
+    "captured": true
+  },
+  {
+    "lat": 19.064922,
+    "lon": -96.067943,
+    "description": "pool75",
+    "captured": true
+  },
+  {
+    "lat": 19.065163,
+    "lon": -96.067332,
+    "description": "pool76",
+    "captured": true
+  },
+  {
+    "lat": 19.065956,
+    "lon": -96.067197,
+    "description": "pool77",
+    "captured": true
+  },
+  {
+    "lat": 19.066056,
+    "lon": -96.066925,
+    "description": "pool78",
+    "captured": true
+  },
+  {
+    "lat": 19.066473,
+    "lon": -96.066038,
+    "description": "pool79",
+    "captured": true
+  },
+  {
+    "lat": 19.066577,
+    "lon": -96.067472,
+    "description": "pool80",
+    "captured": true
+  },
+  {
+    "lat": 19.06568,
+    "lon": -96.068473,
+    "description": "pool81",
+    "captured": true
+  },
+  {
+    "lat": 19.065526,
+    "lon": -96.069094,
+    "description": "pool82",
+    "captured": true
+  },
+  {
+    "lat": 19.065797,
+    "lon": -96.068565,
+    "description": "pool83",
+    "captured": true
+  },
+  {
+    "lat": 19.065608,
+    "lon": -96.069186,
+    "description": "pool84",
+    "captured": true
+  },
+  {
+    "lat": 19.06569,
+    "lon": -96.069237,
+    "description": "pool85",
+    "captured": true
+  },
+  {
+    "lat": 19.06607,
+    "lon": -96.068179,
+    "description": "pool86",
+    "captured": true
+  },
+  {
+    "lat": 19.066015,
+    "lon": -96.068103,
+    "description": "pool87",
+    "captured": true
+  },
+  {
+    "lat": 19.066311,
+    "lon": -96.068544,
+    "description": "pool88",
+    "captured": true
+  },
+  {
+    "lat": 19.066057,
+    "lon": -96.069616,
+    "description": "pool89",
+    "captured": true
+  },
+  {
+    "lat": 19.065506,
+    "lon": -96.070147,
+    "description": "pool90",
+    "captured": true
+  },
+  {
+    "lat": 19.065763,
+    "lon": -96.070319,
+    "description": "pool91",
+    "captured": true
+  },
+  {
+    "lat": 19.0669709063909,
+    "lon": -96.07016105236384,
+    "description": "pool92",
+    "captured": true
+  },
+  {
+    "lat": 19.065763,
+    "lon": -96.07032,
+    "description": "pool93",
+    "captured": true
+  },
+  {
+    "lat": 19.064263,
+    "lon": -96.070144,
+    "description": "pool94",
+    "captured": true
+  },
+  {
+    "lat": 19.065504,
+    "lon": -96.070145,
+    "description": "pool95",
+    "captured": true
+  },
+  {
+    "lat": 19.064233,
+    "lon": -96.070247,
+    "description": "pool96",
+    "captured": true
+  },
+  {
+    "lat": 19.063931,
+    "lon": -96.07067,
+    "description": "pool97",
+    "captured": true
+  },
+  {
+    "lat": 19.063959126663775,
+    "lon": -96.07075968555466,
+    "description": "pool98",
+    "captured": true
+  },
+  {
+    "lat": 19.063906,
+    "lon": -96.070717,
+    "description": "pool99",
+    "captured": true
+  },
+  {
+    "lat": 19.063509,
+    "lon": -96.07098,
+    "description": "100",
+    "captured": true
+  },
+  {
+    "lat": 19.063734,
+    "lon": -96.071128,
+    "description": "101",
+    "captured": true
+  },
+  {
+    "lat": 19.062509,
+    "lon": -96.072412,
+    "description": "pool102",
+    "captured": true
+  },
+  {
+    "lat": 19.062649,
+    "lon": -96.072989,
+    "description": "pool103",
+    "captured": true
+  },
+  {
+    "lat": 19.062615,
+    "lon": -96.07312,
+    "description": "pool104",
+    "captured": true
+  },
+  {
+    "lat": 19.062824,
+    "lon": -96.07352,
+    "description": "pool105",
+    "captured": true
+  },
+  {
+    "lat": 19.062979,
+    "lon": -96.073613,
+    "description": "pool106",
+    "captured": true
+  },
+  {
+    "lat": 19.062788,
+    "lon": -96.074071,
+    "description": "pool107",
+    "captured": true
+  },
+  {
+    "lat": 19.063642,
+    "lon": -96.073212,
+    "description": "pool108",
+    "captured": true
+  },
+  {
+    "lat": 19.064662,
+    "lon": -96.075122,
+    "description": "pool109",
+    "captured": true
+  },
+  {
+    "lat": 19.064334,
+    "lon": -96.075462,
+    "description": "pool110",
+    "captured": true
+  },
+  {
+    "lat": 19.064306,
+    "lon": -96.075626,
+    "description": "pool111",
+    "captured": true
+  },
+  {
+    "lat": 19.065036,
+    "lon": -96.07551,
+    "description": "pool112",
+    "captured": true
+  },
+  {
+    "lat": 19.06525295914401,
+    "lon": -96.07607562549694,
+    "description": "pool113",
+    "captured": true
+  },
+  {
+    "lat": 19.065014,
+    "lon": -96.075572,
+    "description": "pool114",
+    "captured": true
+  },
+  {
+    "lat": 19.066007,
+    "lon": -96.073974,
+    "description": "pool115",
+    "captured": true
+  },
+  {
+    "lat": 19.067032,
+    "lon": -96.074257,
+    "description": "pool116",
+    "captured": true
+  },
+  {
+    "lat": 19.067188,
+    "lon": -96.074581,
+    "description": "pool117",
+    "captured": true
+  },
+  {
+    "lat": 19.067449,
+    "lon": -96.07421,
+    "description": "pool118",
+    "captured": true
+  },
+  {
+    "lat": 19.067403,
+    "lon": -96.074043,
+    "description": "119",
+    "captured": true
+  },
+  {
+    "lat": 19.067494,
+    "lon": -96.074862,
+    "description": "pool120",
+    "captured": true
+  },
+  {
+    "lat": 19.067787,
+    "lon": -96.074475,
+    "description": "pool121",
+    "captured": true
+  },
+  {
+    "lat": 19.067248,
+    "lon": -96.073352,
+    "description": "pool122",
+    "captured": true
+  },
+  {
+    "lat": 19.0673130669473,
+    "lon": -96.07341414650031,
+    "description": "pool123",
+    "captured": true
+  },
+  {
+    "lat": 19.067136880827718,
+    "lon": -96.07389560300658,
+    "description": "pool124",
+    "captured": true
+  },
+  {
+    "lat": 19.068103,
+    "lon": -96.074042,
+    "description": "pool125",
+    "captured": true
+  },
+  {
+    "lat": 19.059463,
+    "lon": -96.080495,
+    "description": "pool126",
+    "captured": true
+  },
+  {
+    "lat": 19.059706,
+    "lon": -96.079557,
+    "description": "pool127",
+    "captured": true
+  },
+  {
+    "lat": 19.058813,
+    "lon": -96.079308,
+    "description": "pool128",
+    "captured": true
+  },
+  {
+    "lat": 19.059871,
+    "lon": -96.078647,
+    "description": "pool129",
+    "captured": true
+  },
+  {
+    "lat": 19.060431,
+    "lon": -96.077833,
+    "description": "pool130",
+    "captured": true
+  },
+  {
+    "lat": 19.059459,
+    "lon": -96.080499,
+    "description": "pool131",
+    "captured": true
+  },
+  {
+    "lat": 19.059836,
+    "lon": -96.081058,
+    "description": "pool132",
+    "captured": true
+  },
+  {
+    "lat": 19.06027,
+    "lon": -96.081252,
+    "description": "pool133",
+    "captured": true
+  },
+  {
+    "lat": 19.059951,
+    "lon": -96.081768,
+    "description": "pool134",
+    "captured": true
+  },
+  {
+    "lat": 19.060675,
+    "lon": -96.082454,
+    "description": "pool135",
+    "captured": true
+  },
+  {
+    "lat": 19.060932,
+    "lon": -96.081864,
+    "description": "pool136",
+    "captured": true
+  },
+  {
+    "lat": 19.061275,
+    "lon": -96.082667,
+    "description": "pool137",
+    "captured": true
+  },
+  {
+    "lat": 19.061306,
+    "lon": -96.082608,
+    "description": "pool138",
+    "captured": true
+  },
+  {
+    "lat": 19.061548,
+    "lon": -96.08227,
+    "description": "pool139",
+    "captured": true
+  },
+  {
+    "lat": 19.061633,
+    "lon": -96.082177,
+    "description": "pool140",
+    "captured": true
+  },
+  {
+    "lat": 19.06168,
+    "lon": -96.082075,
+    "description": "pool141",
+    "captured": true
+  },
+  {
+    "lat": 19.062218,
+    "lon": -96.0818,
+    "description": "pool142",
+    "captured": true
+  },
+  {
+    "lat": 19.062321,
+    "lon": -96.08309,
+    "description": "pool143",
+    "captured": true
+  },
+  {
+    "lat": 19.061881,
+    "lon": -96.084307,
+    "description": "pool144",
+    "captured": true
+  },
+  {
+    "lat": 19.062176,
+    "lon": -96.08468,
+    "description": "pool145",
+    "captured": true
+  },
+  {
+    "lat": 19.063679,
+    "lon": -96.083118,
+    "description": "pool146",
+    "captured": true
+  },
+  {
+    "lat": 19.06371,
+    "lon": -96.081723,
+    "description": "pool147",
+    "captured": true
+  },
+  {
+    "lat": 19.064464,
+    "lon": -96.083266,
+    "description": "pool148",
+    "captured": true
+  },
+  {
+    "lat": 19.064472,
+    "lon": -96.083366,
+    "description": "pool149",
+    "captured": true
+  },
+  {
+    "lat": 19.064584630264484,
+    "lon": -96.08472810977793,
+    "description": "pool150",
+    "captured": true
+  },
+  {
+    "lat": 19.065081309583995,
+    "lon": -96.08520257794893,
+    "description": "pool151",
+    "captured": true
+  },
+  {
+    "lat": 19.0665168108071,
+    "lon": -96.08512000207776,
+    "description": "pool152",
+    "captured": true
+  },
+  {
+    "lat": 19.066716,
+    "lon": -96.08609,
+    "description": "pool153",
+    "captured": true
+  },
+  {
+    "lat": 19.067908,
+    "lon": -96.08584,
+    "description": "pool154",
+    "captured": true
+  },
+  {
+    "lat": 19.068056,
+    "lon": -96.085626,
+    "description": "pool155",
+    "captured": true
+  },
+  {
+    "lat": 19.068244,
+    "lon": -96.085347,
+    "description": "pool156",
+    "captured": true
+  },
+  {
+    "lat": 19.068469836745912,
+    "lon": -96.08502877638328,
+    "description": "pool157",
+    "captured": true
+  },
+  {
+    "lat": 19.068604,
+    "lon": -96.084836,
+    "description": "pool158",
+    "captured": true
+  },
+  {
+    "lat": 19.068843,
+    "lon": -96.084447,
+    "description": "pool159",
+    "captured": true
+  },
+  {
+    "lat": 19.069211,
+    "lon": -96.083916,
+    "description": "pool160",
+    "captured": true
+  },
+  {
+    "lat": 19.06925328875688,
+    "lon": -96.08505501162117,
+    "description": "pool161",
+    "captured": true
+  },
+  {
+    "lat": 19.069371,
+    "lon": -96.084982,
+    "description": "pool162",
+    "captured": true
+  },
+  {
+    "lat": 19.069554,
+    "lon": -96.085059,
+    "description": "pool163",
+    "captured": true
+  },
+  {
+    "lat": 19.069665,
+    "lon": -96.08518,
+    "description": "pool164",
+    "captured": true
+  },
+  {
+    "lat": 19.069942,
+    "lon": -96.08569,
+    "description": "pool165",
+    "captured": true
+  },
+  {
+    "lat": 19.069612,
+    "lon": -96.086356,
+    "description": "pool166",
+    "captured": true
+  },
+  {
+    "lat": 19.069276,
+    "lon": -96.086573,
+    "description": "pool167",
+    "captured": true
+  },
+  {
+    "lat": 19.068958521019333,
+    "lon": -96.08648121467999,
+    "description": "pool168",
+    "captured": true
+  },
+  {
+    "lat": 19.06888627277492,
+    "lon": -96.08638532571007,
+    "description": "pool169",
+    "captured": true
+  },
+  {
+    "lat": 19.068802,
+    "lon": -96.086453,
+    "description": "pool170",
+    "captured": true
+  },
+  {
+    "lat": 19.068671,
+    "lon": -96.086415,
+    "description": "pool171",
+    "captured": true
+  },
+  {
+    "lat": 19.068526,
+    "lon": -96.086365,
+    "description": "pool172",
+    "captured": true
+  },
+  {
+    "lat": 19.068309,
+    "lon": -96.086359,
+    "description": "pool173",
+    "captured": true
+  },
+  {
+    "lat": 19.068102,
+    "lon": -96.086281,
+    "description": "pool174",
+    "captured": true
+  },
+  {
+    "lat": 19.068397,
+    "lon": -96.086813,
+    "description": "pool175",
+    "captured": true
+  },
+  {
+    "lat": 19.068626,
+    "lon": -96.086884,
+    "description": "pool176",
+    "captured": true
+  },
+  {
+    "lat": 19.068762,
+    "lon": -96.086995,
+    "description": "pool177",
+    "captured": true
+  },
+  {
+    "lat": 19.069312,
+    "lon": -96.087284,
+    "description": "pool178",
+    "captured": true
+  },
+  {
+    "lat": 19.067519,
+    "lon": -96.087554,
+    "description": "pool179",
+    "captured": true
+  },
+  {
+    "lat": 19.065789,
+    "lon": -96.087713,
+    "description": "pool180",
+    "captured": true
+  },
+  {
+    "lat": 19.064353,
+    "lon": -96.088573,
+    "description": "pool181",
+    "captured": true
+  },
+  {
+    "lat": 19.068723,
+    "lon": -96.085657,
+    "description": "pool182",
+    "captured": true
+  },
+  {
+    "lat": 19.068574,
+    "lon": -96.085818,
+    "description": "pool183",
+    "captured": true
+  },
+  {
+    "lat": 19.068735,
+    "lon": -96.085846,
+    "description": "pool184",
+    "captured": true
+  },
+  {
+    "lat": 19.068899,
+    "lon": -96.085833,
+    "description": "pool185",
+    "captured": true
+  },
+  {
+    "lat": 19.068106,
+    "lon": -96.08628,
+    "description": "pool186",
+    "captured": true
+  },
+  {
+    "lat": 19.068312,
+    "lon": -96.086361,
+    "description": "pool187",
+    "captured": true
+  },
+  {
+    "lat": 19.069831,
+    "lon": -96.086016,
+    "description": "pool188",
+    "captured": true
+  },
+  {
+    "lat": 19.070242,
+    "lon": -96.085137,
+    "description": "pool189",
+    "captured": true
+  },
+  {
+    "lat": 19.06994,
+    "lon": -96.085688,
+    "description": "pool190",
+    "captured": true
+  },
+  {
+    "lat": 19.070454,
+    "lon": -96.08545,
+    "description": "pool191",
+    "captured": true
+  },
+  {
+    "lat": 19.070623,
+    "lon": -96.085615,
+    "description": "pool192",
+    "captured": true
+  },
+  {
+    "lat": 19.070581,
+    "lon": -96.085721,
+    "description": "pool193",
+    "captured": true
+  },
+  {
+    "lat": 19.064697,
+    "lon": -96.098828,
+    "description": "pool194",
+    "captured": true
+  },
+  {
+    "lat": 19.064604,
+    "lon": -96.099137,
+    "description": "pool195",
+    "captured": true
+  },
+  {
+    "lat": 19.064928,
+    "lon": -96.098493,
+    "description": "pool196",
+    "captured": true
+  },
+  {
+    "lat": 19.066178,
+    "lon": -96.098238,
+    "description": "pool197",
+    "captured": true
+  },
+  {
+    "lat": 19.066605,
+    "lon": -96.098132,
+    "description": "pool198",
+    "captured": true
+  },
+  {
+    "lat": 19.066469,
+    "lon": -96.09846,
+    "description": "pool199",
+    "captured": true
+  },
+  {
+    "lat": 19.06626094059553,
+    "lon": -96.09915067753194,
+    "description": "pool200",
+    "captured": true
+  },
+  {
+    "lat": 19.066329,
+    "lon": -96.0993,
+    "description": "pool201",
+    "captured": true
+  },
+  {
+    "lat": 19.066244,
+    "lon": -96.099451,
+    "description": "pool202",
+    "captured": true
+  },
+  {
+    "lat": 19.066468,
+    "lon": -96.098457,
+    "description": "pool203",
+    "captured": true
+  },
+  {
+    "lat": 19.066607,
+    "lon": -96.098133,
+    "description": "pool204",
+    "captured": true
+  },
+  {
+    "lat": 19.066601,
+    "lon": -96.098356,
+    "description": "pool205",
+    "captured": true
+  },
+  {
+    "lat": 19.065516,
+    "lon": -96.099611,
+    "description": "pool206",
+    "captured": true
+  },
+  {
+    "lat": 19.066374,
+    "lon": -96.099935,
+    "description": "pool210",
+    "captured": true
+  },
+  {
+    "lat": 19.056725,
+    "lon": -96.066687,
+    "description": "pool207",
+    "captured": true
+  },
+  {
+    "lat": 19.056724,
+    "lon": -96.068759,
+    "description": "pool208",
+    "captured": true
+  },
+  {
+    "lat": 19.056321,
+    "lon": -96.070096,
+    "description": "pool209",
+    "captured": true
+  },
+  {
+    "lat": 19.055465,
+    "lon": -96.070993,
+    "description": "pool211",
+    "captured": true
+  },
+  {
+    "lat": 19.055762,
+    "lon": -96.068454,
+    "description": "pool212",
+    "captured": true
+  },
+  {
+    "lat": 19.055762,
+    "lon": -96.068454,
+    "description": "pool213",
+    "captured": true
+  },
+  {
+    "lat": 19.055057,
+    "lon": -96.06612,
+    "description": "pool214",
+    "captured": true
+  },
+  {
+    "lat": 19.053838,
+    "lon": -96.06705,
+    "description": "pool215",
+    "captured": true
+  },
+  {
+    "lat": 19.052538,
+    "lon": -96.067166,
+    "description": "pool216",
+    "captured": true
+  },
+  {
+    "lat": 19.052533,
+    "lon": -96.071048,
+    "description": "pool217",
+    "captured": true
+  },
+  {
+    "lat": 19.052108,
+    "lon": -96.072677,
+    "description": "pool218",
+    "captured": true
+  },
+  {
+    "lat": 19.051496,
+    "lon": -96.07668,
+    "description": "pool219",
+    "captured": true
+  },
+  {
+    "lat": 19.051204,
+    "lon": -96.077092,
+    "description": "pool220",
+    "captured": true
+  },
+  {
+    "lat": 19.051962,
+    "lon": -96.077597,
+    "description": "pool221",
+    "captured": true
+  },
+  {
+    "lat": 19.052045,
+    "lon": -96.077658,
+    "description": "pool222",
+    "captured": true
+  },
+  {
+    "lat": 19.052085,
+    "lon": -96.077631,
+    "description": "pool223",
+    "captured": true
+  },
+  {
+    "lat": 19.052139,
+    "lon": -96.077671,
+    "description": "pool224",
+    "captured": true
+  },
+  {
+    "lat": 19.05219,
+    "lon": -96.07776,
+    "description": "pool225",
+    "captured": true
+  },
+  {
+    "lat": 19.052222,
+    "lon": -96.077738,
+    "description": "pool226",
+    "captured": true
+  },
+  {
+    "lat": 19.052199,
+    "lon": -96.077117,
+    "description": "pool227",
+    "captured": true
+  },
+  {
+    "lat": 19.052184,
+    "lon": -96.077153,
+    "description": "pool228",
+    "captured": true
+  },
+  {
+    "lat": 19.052235,
+    "lon": -96.077192,
+    "description": "pool229",
+    "captured": true
+  },
+  {
+    "lat": 19.05228,
+    "lon": -96.077187,
+    "description": "pool230",
+    "captured": true
+  },
+  {
+    "lat": 19.052326,
+    "lon": -96.077216,
+    "description": "pool231",
+    "captured": true
+  },
+  {
+    "lat": 19.052329,
+    "lon": -96.077266,
+    "description": "pool232",
+    "captured": true
+  },
+  {
+    "lat": 19.0524,
+    "lon": -96.07727,
+    "description": "pool233",
+    "captured": true
+  },
+  {
+    "lat": 19.052382,
+    "lon": -96.077306,
+    "description": "pool234",
+    "captured": true
+  },
+  {
+    "lat": 19.052503,
+    "lon": -96.076787,
+    "description": "pool235",
+    "captured": true
+  },
+  {
+    "lat": 19.052575,
+    "lon": -96.076839,
+    "description": "pool236",
+    "captured": true
+  },
+  {
+    "lat": 19.05262,
+    "lon": -96.076833,
+    "description": "pool237",
+    "captured": true
+  },
+  {
+    "lat": 19.052647,
+    "lon": -96.076891,
+    "description": "pool238",
+    "captured": true
+  },
+  {
+    "lat": 19.052693,
+    "lon": -96.076886,
+    "description": "pool239",
+    "captured": true
+  },
+  {
+    "lat": 19.052768,
+    "lon": -96.076937,
+    "description": "pool240",
+    "captured": true
+  },
+  {
+    "lat": 19.05273,
+    "lon": -96.076348,
+    "description": "pool241",
+    "captured": true
+  },
+  {
+    "lat": 19.052795718141862,
+    "lon": -96.07640184216392,
+    "description": "pool242",
+    "captured": true
+  },
+  {
+    "lat": 19.052877,
+    "lon": -96.07645,
+    "description": "pool243",
+    "captured": true
+  },
+  {
+    "lat": 19.052947,
+    "lon": -96.076508,
+    "description": "pool244",
+    "captured": true
+  },
+  {
+    "lat": 19.052936,
+    "lon": -96.07646,
+    "description": "pool245",
+    "captured": true
+  },
+  {
+    "lat": 19.053111,
+    "lon": -96.076026,
+    "description": "pool246",
+    "captured": true
+  },
+  {
+    "lat": 19.053036,
+    "lon": -96.075977,
+    "description": "pool247",
+    "captured": true
+  },
+  {
+    "lat": 19.053329,
+    "lon": -96.075528,
+    "description": "pool248",
+    "captured": true
+  },
+  {
+    "lat": 19.052483,
+    "lon": -96.078359,
+    "description": "pool249",
+    "captured": true
+  },
+  {
+    "lat": 19.053061,
+    "lon": -96.07515,
+    "description": "pool250",
+    "captured": true
+  },
+  {
+    "lat": 19.052517,
+    "lon": -96.07832,
+    "description": "pool251",
+    "captured": true
+  },
+  {
+    "lat": 19.052366,
+    "lon": -96.07821,
+    "description": "pool252",
+    "captured": true
+  },
+  {
+    "lat": 19.052601,
+    "lon": -96.078432,
+    "description": "pool253",
+    "captured": true
+  },
+  {
+    "lat": 19.052829,
+    "lon": -96.078561,
+    "description": "pool254",
+    "captured": true
+  },
+  {
+    "lat": 19.052731,
+    "lon": -96.078491,
+    "description": "pool255",
+    "captured": true
+  },
+  {
+    "lat": 19.052587,
+    "lon": -96.077771,
+    "description": "pool256",
+    "captured": true
+  },
+  {
+    "lat": 19.05267,
+    "lon": -96.07784,
+    "description": "pool257",
+    "captured": true
+  },
+  {
+    "lat": 19.052712,
+    "lon": -96.077865,
+    "description": "pool258",
+    "captured": true
+  },
+  {
+    "lat": 19.052793,
+    "lon": -96.077926,
+    "description": "pool259",
+    "captured": true
+  },
+  {
+    "lat": 19.052884,
+    "lon": -96.077996,
+    "description": "pool260",
+    "captured": true
+  },
+  {
+    "lat": 19.052959,
+    "lon": -96.07805,
+    "description": "pool261",
+    "captured": true
+  },
+  {
+    "lat": 19.053035,
+    "lon": -96.078105,
+    "description": "pool262",
+    "captured": true
+  },
+  {
+    "lat": 19.052589,
+    "lon": -96.077776,
+    "description": "263",
+    "captured": true
+  },
+  {
+    "lat": 19.052589,
+    "lon": -96.077776,
+    "description": "pool264",
+    "captured": true
+  },
+  {
+    "lat": 19.052671,
+    "lon": -96.077841,
+    "description": "pool265",
+    "captured": true
+  },
+  {
+    "lat": 19.052712,
+    "lon": -96.077867,
+    "description": "pool266",
+    "captured": true
+  },
+  {
+    "lat": 19.052792,
+    "lon": -96.077928,
+    "description": "pool267",
+    "captured": true
+  },
+  {
+    "lat": 19.052882,
+    "lon": -96.077994,
+    "description": "pool268",
+    "captured": true
+  },
+  {
+    "lat": 19.05296,
+    "lon": -96.078051,
+    "description": "pool269",
+    "captured": true
+  },
+  {
+    "lat": 19.053033,
+    "lon": -96.078106,
+    "description": "pool270",
+    "captured": true
+  },
+  {
+    "lat": 19.053109,
+    "lon": -96.07815,
+    "description": "pool271",
+    "captured": true
+  },
+  {
+    "lat": 19.053367,
+    "lon": -96.077795,
+    "description": "pool272",
+    "captured": true
+  },
+  {
+    "lat": 19.053282,
+    "lon": -96.077727,
+    "description": "pool273",
+    "captured": true
+  },
+  {
+    "lat": 19.053275,
+    "lon": -96.077677,
+    "description": "pool274",
+    "captured": true
+  },
+  {
+    "lat": 19.05312,
+    "lon": -96.07761,
+    "description": "pool275",
+    "captured": true
+  },
+  {
+    "lat": 19.053204,
+    "lon": -96.077675,
+    "description": "pool276",
+    "captured": true
+  },
+  {
+    "lat": 19.052987,
+    "lon": -96.077466,
+    "description": "pool277",
+    "captured": true
+  },
+  {
+    "lat": 19.052934,
+    "lon": -96.07743,
+    "description": "pool278",
+    "captured": true
+  },
+  {
+    "lat": 19.053467,
+    "lon": -96.07722,
+    "description": "pool279",
+    "captured": true
+  },
+  {
+    "lat": 19.05354,
+    "lon": -96.077274,
+    "description": "pool280",
+    "captured": true
+  },
+  {
+    "lat": 19.053552,
+    "lon": -96.077321,
+    "description": "pool281",
+    "captured": true
+  },
+  {
+    "lat": 19.053658,
+    "lon": -96.077443,
+    "description": "pool282",
+    "captured": true
+  },
+  {
+    "lat": 19.053921,
+    "lon": -96.077021,
+    "description": "pool283",
+    "captured": true
+  },
+  {
+    "lat": 19.053746,
+    "lon": -96.076861,
+    "description": "pool284",
+    "captured": true
+  },
+  {
+    "lat": 19.053666,
+    "lon": -96.076755,
+    "description": "pool285",
+    "captured": true
+  },
+  {
+    "lat": 19.053735,
+    "lon": -96.076811,
+    "description": "pool286",
+    "captured": true
+  },
+  {
+    "lat": 19.053603,
+    "lon": -96.076753,
+    "description": "pool288",
+    "captured": true
+  },
+  {
+    "lat": 19.053509,
+    "lon": -96.076699,
+    "description": "pool289",
+    "captured": true
+  },
+  {
+    "lat": 19.053443,
+    "lon": -96.076667,
+    "description": "pool290",
+    "captured": true
+  },
+  {
+    "lat": 19.053486,
+    "lon": -96.076606,
+    "description": "pool291",
+    "captured": true
+  },
+  {
+    "lat": 19.053679,
+    "lon": -96.076245,
+    "description": "pool292",
+    "captured": true
+  },
+  {
+    "lat": 19.053942,
+    "lon": -96.076402,
+    "description": "pool293",
+    "captured": true
+  },
+  {
+    "lat": 19.054016,
+    "lon": -96.07646,
+    "description": "pool294",
+    "captured": true
+  },
+  {
+    "lat": 19.054676,
+    "lon": -96.075163,
+    "description": "pool295",
+    "captured": true
+  },
+  {
+    "lat": 19.054999,
+    "lon": -96.075265,
+    "description": "pool296",
+    "captured": true
+  },
+  {
+    "lat": 19.067193,
+    "lon": -96.099029,
+    "description": "pool297",
+    "captured": true
+  },
+  {
+    "lat": 19.067286,
+    "lon": -96.098686,
+    "description": "pool298",
+    "captured": true
+  },
+  {
+    "lat": 19.067282,
+    "lon": -96.098419,
+    "description": "pool299",
+    "captured": true
+  },
+  {
+    "lat": 19.067688,
+    "lon": -96.099965,
+    "description": "pool300",
+    "captured": true
+  },
+  {
+    "lat": 19.068358,
+    "lon": -96.100341,
+    "description": "pool301",
+    "captured": true
+  },
+  {
+    "lat": 19.06841218626704,
+    "lon": -96.09993559001607,
+    "description": "pool302",
+    "captured": true
+  },
+  {
+    "lat": 19.068747721685913,
+    "lon": -96.09988879865192,
+    "description": "pool303",
+    "captured": true
+  },
+  {
+    "lat": 19.068676,
+    "lon": -96.099497,
+    "description": "pool304",
+    "captured": true
+  },
+  {
+    "lat": 19.068085,
+    "lon": -96.098664,
+    "description": "pool305",
+    "captured": true
+  },
+  {
+    "lat": 19.068043,
+    "lon": -96.098386,
+    "description": "pool306",
+    "captured": true
+  },
+  {
+    "lat": 19.068109,
+    "lon": -96.098244,
+    "description": "pool308",
+    "captured": true
+  },
+  {
+    "lat": 19.067906,
+    "lon": -96.097701,
+    "description": "pool309",
+    "captured": true
+  },
+  {
+    "lat": 19.06816,
+    "lon": -96.097821,
+    "description": "pool310",
+    "captured": true
+  },
+  {
+    "lat": 19.068162,
+    "lon": -96.097681,
+    "description": "pool311",
+    "captured": true
+  },
+  {
+    "lat": 19.068128,
+    "lon": -96.097559,
+    "description": "pool312",
+    "captured": true
+  },
+  {
+    "lat": 19.067978,
+    "lon": -96.096967,
+    "description": "pool313",
+    "captured": true
+  },
+  {
+    "lat": 19.068193,
+    "lon": -96.096739,
+    "description": "pool314",
+    "captured": true
+  },
+  {
+    "lat": 19.069267,
+    "lon": -96.100006,
+    "description": "pool315",
+    "captured": true
+  },
+  {
+    "lat": 19.069389,
+    "lon": -96.099333,
+    "description": "pool316",
+    "captured": true
+  },
+  {
+    "lat": 19.069329,
+    "lon": -96.099821,
+    "description": "pool317",
+    "captured": true
+  },
+  {
+    "lat": 19.069388,
+    "lon": -96.099332,
+    "description": "pool318",
+    "captured": true
+  },
+  {
+    "lat": 19.069997,
+    "lon": -96.100179,
+    "description": "pool319",
+    "captured": true
+  },
+  {
+    "lat": 19.070174076587918,
+    "lon": -96.09970094696746,
+    "description": "pool321",
+    "captured": true
+  },
+  {
+    "lat": 19.069841,
+    "lon": -96.099297,
+    "description": "pool322",
+    "captured": true
+  },
+  {
+    "lat": 19.070454,
+    "lon": -96.099609,
+    "description": "pool323",
+    "captured": true
+  },
+  {
+    "lat": 19.070683,
+    "lon": -96.099632,
+    "description": "pool324",
+    "captured": true
+  },
+  {
+    "lat": 19.070581,
+    "lon": -96.100088,
+    "description": "pool325",
+    "captured": true
+  },
+  {
+    "lat": 19.071027,
+    "lon": -96.099198,
+    "description": "pool326",
+    "captured": true
+  },
+  {
+    "lat": 19.071073074546568,
+    "lon": -96.0990448964374,
+    "description": "pool327",
+    "captured": true
+  },
+  {
+    "lat": 19.071489945949256,
+    "lon": -96.09899053246558,
+    "description": "pool328",
+    "captured": true
+  },
+  {
+    "lat": 19.071714,
+    "lon": -96.099466,
+    "description": "pool329",
+    "captured": true
+  },
+  {
+    "lat": 19.071644,
+    "lon": -96.099645,
+    "description": "pool330",
+    "captured": true
+  },
+  {
+    "lat": 19.071702,
+    "lon": -96.099853,
+    "description": "pool331",
+    "captured": true
+  },
+  {
+    "lat": 19.072696,
+    "lon": -96.099406,
+    "description": "pool332",
+    "captured": true
+  },
+  {
+    "lat": 19.072795,
+    "lon": -96.099359,
+    "description": "pool333",
+    "captured": true
+  },
+  {
+    "lat": 19.073757,
+    "lon": -96.099438,
+    "description": "pool334",
+    "captured": true
+  },
+  {
+    "lat": 19.072919,
+    "lon": -96.099386,
+    "description": "pool335",
+    "captured": true
+  },
+  {
+    "lat": 19.073607403893295,
+    "lon": -96.09882259943235,
+    "description": "pool336",
+    "captured": true
+  },
+  {
+    "lat": 19.07359219416583,
+    "lon": -96.0987186638356,
+    "description": "pool337",
+    "captured": true
+  },
+  {
+    "lat": 19.073438,
+    "lon": -96.098737,
+    "description": "pool338",
+    "captured": true
+  },
+  {
+    "lat": 19.072977,
+    "lon": -96.098224,
+    "description": "pool339",
+    "captured": true
+  },
+  {
+    "lat": 19.0730575753336,
+    "lon": -96.09830432550916,
+    "description": "pool340",
+    "captured": true
+  },
+  {
+    "lat": 19.07311524572983,
+    "lon": -96.09786846655355,
+    "description": "poool341",
+    "captured": true
+  },
+  {
+    "lat": 19.07343643724923,
+    "lon": -96.09743456455477,
+    "description": "pool342",
+    "captured": true
+  },
+  {
+    "lat": 19.073422,
+    "lon": -96.096569,
+    "description": "pool343",
+    "captured": true
+  },
+  {
+    "lat": 19.072791,
+    "lon": -96.096595,
+    "description": "pool344",
+    "captured": true
+  },
+  {
+    "lat": 19.072834,
+    "lon": -96.096719,
+    "description": "pool345",
+    "captured": true
+  },
+  {
+    "lat": 19.072786102877785,
+    "lon": -96.09659290427449,
+    "description": "pool346",
+    "captured": true
+  },
+  {
+    "lat": 19.072903,
+    "lon": -96.095634,
+    "description": "pool347",
+    "captured": true
+  },
+  {
+    "lat": 19.072886,
+    "lon": -96.095469,
+    "description": "pool348",
+    "captured": true
+  },
+  {
+    "lat": 19.072837,
+    "lon": -96.09518,
+    "description": "pool349",
+    "captured": true
+  },
+  {
+    "lat": 19.073409,
+    "lon": -96.095732,
+    "description": "pool350",
+    "captured": true
+  },
+  {
+    "lat": 19.073336,
+    "lon": -96.095177,
+    "description": "pool351",
+    "captured": true
+  },
+  {
+    "lat": 19.073296998688992,
+    "lon": -96.09507939379783,
+    "description": "pool352",
+    "captured": true
+  },
+  {
+    "lat": 19.073174,
+    "lon": -96.094806,
+    "description": "pool353",
+    "captured": true
+  },
+  {
+    "lat": 19.07300611185852,
+    "lon": -96.09481921952687,
+    "description": "pool354",
+    "captured": true
+  },
+  {
+    "lat": 19.07239096069538,
+    "lon": -96.09496623352754,
+    "description": "pool355",
+    "captured": true
+  },
+  {
+    "lat": 19.072513273103084,
+    "lon": -96.09585873857299,
+    "description": "pool356",
+    "captured": true
+  },
+  {
+    "lat": 19.072478490236055,
+    "lon": -96.09605042727372,
+    "description": "pool357",
+    "captured": true
+  },
+  {
+    "lat": 19.06875481852989,
+    "lon": -96.09779006447175,
+    "description": "pool358",
+    "captured": true
+  },
+  {
+    "lat": 19.068734538298653,
+    "lon": -96.09844184125905,
+    "description": "pool359",
+    "captured": true
+  },
+  {
+    "lat": 19.069148503906472,
+    "lon": -96.0977282419187,
+    "description": "pool360",
+    "captured": true
+  },
+  {
+    "lat": 19.06933347042314,
+    "lon": -96.09658201222366,
+    "description": "pool361",
+    "captured": true
+  },
+  {
+    "lat": 19.069160455229188,
+    "lon": -96.09658134167142,
+    "description": "pool362",
+    "captured": true
+  },
+  {
+    "lat": 19.06965681986902,
+    "lon": -96.09656922022954,
+    "description": "pool363",
+    "captured": true
+  },
+  {
+    "lat": 19.070218964181837,
+    "lon": -96.09711123784858,
+    "description": "364",
+    "captured": true
+  },
+  {
+    "lat": 19.070590911697032,
+    "lon": -96.09679734919771,
+    "description": "pool365",
+    "captured": true
+  },
+  {
+    "lat": 19.070763858869327,
+    "lon": -96.09788035921875,
+    "description": "pool366",
+    "captured": true
+  },
+  {
+    "lat": 19.070983173615836,
+    "lon": -96.09751434091669,
+    "description": "pool367",
+    "captured": true
+  },
+  {
+    "lat": 19.0691435341506,
+    "lon": -96.09773074351148,
+    "description": "pool368",
+    "captured": true
+  },
+  {
+    "lat": 19.07213755383623,
+    "lon": -96.09796021374399,
+    "description": "pool369",
+    "captured": true
+  },
+  {
+    "lat": 19.07209636045402,
+    "lon": -96.09758269282429,
+    "description": "pool370",
+    "captured": true
+  },
+  {
+    "lat": 19.071918790964087,
+    "lon": -96.0963045897714,
+    "description": "pool371",
+    "captured": true
+  },
+  {
+    "lat": 19.071934000845136,
+    "lon": -96.09611817624946,
+    "description": "pool372",
+    "captured": true
+  },
+  {
+    "lat": 19.072017979046073,
+    "lon": -96.09655373215872,
+    "description": "pool373",
+    "captured": true
+  },
+  {
+    "lat": 19.071474069460894,
+    "lon": -96.0956837120785,
+    "description": "pool374",
+    "captured": true
+  },
+  {
+    "lat": 19.071801082472987,
+    "lon": -96.09551741512396,
+    "description": "pool375",
+    "captured": true
+  },
+  {
+    "lat": 19.071771930176386,
+    "lon": -96.09516336354274,
+    "description": "pool376",
+    "captured": true
+  },
+  {
+    "lat": 19.071408927442636,
+    "lon": -96.09508729411058,
+    "description": "pool377",
+    "captured": true
+  },
+  {
+    "lat": 19.071232745676816,
+    "lon": -96.09510338736426,
+    "description": "pool378",
+    "captured": true
+  },
+  {
+    "lat": 19.07078474649176,
+    "lon": -96.09526391345108,
+    "description": "pool379",
+    "captured": true
+  },
+  {
+    "lat": 19.071081340949824,
+    "lon": -96.0956166239278,
+    "description": "pool380",
+    "captured": true
+  },
+  {
+    "lat": 19.070607370398218,
+    "lon": -96.09474126391193,
+    "description": "pool381",
+    "captured": true
+  },
+  {
+    "lat": 19.07068342039413,
+    "lon": -96.09474260501311,
+    "description": "pool382",
+    "captured": true
+  },
+  {
+    "lat": 19.07078522851584,
+    "lon": -96.09526396248278,
+    "description": "pool383",
+    "captured": true
+  },
+  {
+    "lat": 19.070188,
+    "lon": -96.095804,
+    "description": "pool384",
+    "captured": true
+  },
+  {
+    "lat": 19.069583,
+    "lon": -96.095885,
+    "description": "pool385",
+    "captured": true
+  },
+  {
+    "lat": 19.069462920791782,
+    "lon": -96.09522221659947,
+    "description": "pool386",
+    "captured": true
+  },
+  {
+    "lat": 19.068144,
+    "lon": -96.096016,
+    "description": "pool387",
+    "captured": true
+  },
+  {
+    "lat": 19.068068,
+    "lon": -96.095874,
+    "description": "pool388",
+    "captured": true
+  },
+  {
+    "lat": 19.068103,
+    "lon": -96.095621,
+    "description": "pool389",
+    "captured": true
+  },
+  {
+    "lat": 19.068046,
+    "lon": -96.095534,
+    "description": "pool390",
+    "captured": true
+  },
+  {
+    "lat": 19.068063,
+    "lon": -96.095397,
+    "description": "pool391",
+    "captured": true
+  },
+  {
+    "lat": 19.068068,
+    "lon": -96.095092,
+    "description": "pool392",
+    "captured": true
+  },
+  {
+    "lat": 19.06945941933383,
+    "lon": -96.095221353225,
+    "description": "pool393",
+    "captured": true
+  },
+  {
+    "lat": 19.06958046639597,
+    "lon": -96.09588251774231,
+    "description": "pool394",
+    "captured": true
+  },
+  {
+    "lat": 19.070039678555474,
+    "lon": -96.09486253727609,
+    "description": "pool395",
+    "captured": true
+  },
+  {
+    "lat": 19.070094814992746,
+    "lon": -96.09502414036525,
+    "description": "pool396",
+    "captured": true
+  },
+  {
+    "lat": 19.069585672225063,
+    "lon": -96.09482729896447,
+    "description": "pool397",
+    "captured": true
+  },
+  {
+    "lat": 19.069874431452977,
+    "lon": -96.09380356929286,
+    "description": "pool398",
+    "captured": true
+  },
+  {
+    "lat": 19.069486316056466,
+    "lon": -96.09379372938709,
+    "description": "pool400",
+    "captured": true
+  },
+  {
+    "lat": 19.069948,
+    "lon": -96.093909,
+    "description": "pool399",
+    "captured": true
+  },
+  {
+    "lat": 19.069513536376864,
+    "lon": -96.093420233202,
+    "description": "pool401",
+    "captured": true
+  },
+  {
+    "lat": 19.069555660775393,
+    "lon": -96.09326945285251,
+    "description": "pool402",
+    "captured": true
+  },
+  {
+    "lat": 19.071605777963658,
+    "lon": -96.09339833641455,
+    "description": "pool403",
+    "captured": true
+  },
+  {
+    "lat": 19.07117837960757,
+    "lon": -96.0937580822705,
+    "description": "pool404",
+    "captured": true
+  },
+  {
+    "lat": 19.072165337740756,
+    "lon": -96.09349532119167,
+    "description": "pool405",
+    "captured": true
+  },
+  {
+    "lat": 19.072171732703676,
+    "lon": -96.09303069645098,
+    "description": "pool406",
+    "captured": true
+  },
+  {
+    "lat": 19.07286564111628,
+    "lon": -96.09245338389603,
+    "description": "pool407",
+    "captured": true
+  },
+  {
+    "lat": 19.072433061889104,
+    "lon": -96.09236662068004,
+    "description": "pool408",
+    "captured": true
+  },
+  {
+    "lat": 19.071713205310736,
+    "lon": -96.09232554591165,
+    "description": "pool409",
+    "captured": true
+  },
+  {
+    "lat": 19.071388569423334,
+    "lon": -96.09219902746764,
+    "description": "pool410",
+    "captured": true
+  },
+  {
+    "lat": 19.071014025096115,
+    "lon": -96.09207889753684,
+    "description": "pool411",
+    "captured": true
+  },
+  {
+    "lat": 19.071057642507377,
+    "lon": -96.09149016791564,
+    "description": "pool412",
+    "captured": true
+  },
+  {
+    "lat": 19.071409367175136,
+    "lon": -96.09156798128184,
+    "description": "pool413",
+    "captured": true
+  },
+  {
+    "lat": 19.070853859044625,
+    "lon": -96.0913356651584,
+    "description": "pool414",
+    "captured": true
+  },
+  {
+    "lat": 19.070125892291966,
+    "lon": -96.09220401723071,
+    "description": "pool415",
+    "captured": true
+  },
+  {
+    "lat": 19.068523620946507,
+    "lon": -96.09358811307379,
+    "description": "pool416",
+    "captured": true
+  },
+  {
+    "lat": 19.068048531338604,
+    "lon": -96.0936999165423,
+    "description": "pool417",
+    "captured": true
+  },
+  {
+    "lat": 19.068179631182144,
+    "lon": -96.09406079012469,
+    "description": "pool418",
+    "captured": true
+  },
+  {
+    "lat": 19.06813486539357,
+    "lon": -96.09416792446945,
+    "description": "pool419",
+    "captured": true
+  },
+  {
+    "lat": 19.068593448865798,
+    "lon": -96.09397569590298,
+    "description": "pool420",
+    "captured": true
+  },
+  {
+    "lat": 19.068682174932366,
+    "lon": -96.09396228485824,
+    "description": "pool421",
+    "captured": true
+  },
+  {
+    "lat": 19.06877216846565,
+    "lon": -96.09394887381349,
+    "description": "pool422",
+    "captured": true
+  },
+  {
+    "lat": 19.078073,
+    "lon": -96.094883,
+    "description": "pool423",
+    "captured": true
+  },
+  {
+    "lat": 19.077809,
+    "lon": -96.094463,
+    "description": "pool424",
+    "captured": true
+  },
+  {
+    "lat": 19.07747789635585,
+    "lon": -96.09472404992755,
+    "description": "pool425",
+    "captured": true
+  },
+  {
+    "lat": 19.076773,
+    "lon": -96.093918,
+    "description": "pool426",
+    "captured": true
+  },
+  {
+    "lat": 19.076728,
+    "lon": -96.094343,
+    "description": "pool427",
+    "captured": true
+  },
+  {
+    "lat": 19.076917,
+    "lon": -96.094499,
+    "description": "pool428",
+    "captured": true
+  },
+  {
+    "lat": 19.077046,
+    "lon": -96.09454,
+    "description": "pool429",
+    "captured": true
+  },
+  {
+    "lat": 19.077115,
+    "lon": -96.094694,
+    "description": "pool430",
+    "captured": true
+  },
+  {
+    "lat": 19.07726676229214,
+    "lon": -96.09467695425506,
+    "description": "pool431",
+    "captured": true
+  },
+  {
+    "lat": 19.077286,
+    "lon": -96.095149,
+    "description": "pool432",
+    "captured": true
+  },
+  {
+    "lat": 19.076184,
+    "lon": -96.094843,
+    "description": "pool433",
+    "captured": true
+  },
+  {
+    "lat": 19.07716,
+    "lon": -96.095919,
+    "description": "pool434",
+    "captured": true
+  },
+  {
+    "lat": 19.07717721475724,
+    "lon": -96.0962421204296,
+    "description": "pool435",
+    "captured": true
+  },
+  {
+    "lat": 19.077675,
+    "lon": -96.096283,
+    "description": "pool436",
+    "captured": true
+  },
+  {
+    "lat": 19.077717,
+    "lon": -96.096584,
+    "description": "pool437",
+    "captured": true
+  },
+  {
+    "lat": 19.077202,
+    "lon": -96.096735,
+    "description": "pool438",
+    "captured": true
+  },
+  {
+    "lat": 19.077127,
+    "lon": -96.096815,
+    "description": "pool439",
+    "captured": true
+  },
+  {
+    "lat": 19.077161,
+    "lon": -96.097144,
+    "description": "pool440",
+    "captured": true
+  },
+  {
+    "lat": 19.076616,
+    "lon": -96.096769,
+    "description": "pool441",
+    "captured": true
+  },
+  {
+    "lat": 19.076085,
+    "lon": -96.096944,
+    "description": "pool442",
+    "captured": true
+  },
+  {
+    "lat": 19.076086,
+    "lon": -96.097132,
+    "description": "pool443",
+    "captured": true
+  },
+  {
+    "lat": 19.076521,
+    "lon": -96.09741,
+    "description": "pool444",
+    "captured": true
+  },
+  {
+    "lat": 19.076497,
+    "lon": -96.097786,
+    "description": "pool445",
+    "captured": true
+  },
+  {
+    "lat": 19.076477,
+    "lon": -96.097649,
+    "description": "pool446",
+    "captured": true
+  },
+  {
+    "lat": 19.076556,
+    "lon": -96.097629,
+    "description": "pool447",
+    "captured": true
+  },
+  {
+    "lat": 19.077050992262997,
+    "lon": -96.09733696846332,
+    "description": "pool448",
+    "captured": true
+  },
+  {
+    "lat": 19.07702529273668,
+    "lon": -96.09787132661941,
+    "description": "pool449",
+    "captured": true
+  },
+  {
+    "lat": 19.077292,
+    "lon": -96.09844,
+    "description": "pool450",
+    "captured": true
+  },
+  {
+    "lat": 19.077361,
+    "lon": -96.098429,
+    "description": "pool451",
+    "captured": true
+  },
+  {
+    "lat": 19.076274,
+    "lon": -96.098461,
+    "description": "pool452",
+    "captured": true
+  },
+  {
+    "lat": 19.076296246214223,
+    "lon": -96.09855822186323,
+    "description": "pool453",
+    "captured": true
+  },
+  {
+    "lat": 19.07652159521696,
+    "lon": -96.09923884739085,
+    "description": "pool454",
+    "captured": true
+  },
+  {
+    "lat": 19.07707994306964,
+    "lon": -96.09916298306376,
+    "description": "pool455",
+    "captured": true
+  },
+  {
+    "lat": 19.077288762887907,
+    "lon": -96.09904349674989,
+    "description": "pool456",
+    "captured": true
+  },
+  {
+    "lat": 19.07657728284371,
+    "lon": -96.09959747300115,
+    "description": "pool457",
+    "captured": true
+  },
+  {
+    "lat": 19.077598,
+    "lon": -96.101916,
+    "description": "pool458",
+    "captured": true
+  },
+  {
+    "lat": 19.07749,
+    "lon": -96.102128,
+    "description": "pool459",
+    "captured": true
+  },
+  {
+    "lat": 19.077342,
+    "lon": -96.103671,
+    "description": "pool460",
+    "captured": true
+  },
+  {
+    "lat": 19.07755,
+    "lon": -96.104145,
+    "description": "pool461",
+    "captured": true
+  },
+  {
+    "lat": 19.077573,
+    "lon": -96.104326,
+    "description": "pool462",
+    "captured": true
+  },
+  {
+    "lat": 19.07709,
+    "lon": -96.104463,
+    "description": "pool463",
+    "captured": true
+  },
+  {
+    "lat": 19.077603,
+    "lon": -96.104676,
+    "description": "pool464",
+    "captured": true
+  },
+  {
+    "lat": 19.077183,
+    "lon": -96.104995,
+    "description": "pool465",
+    "captured": true
+  },
+  {
+    "lat": 19.07718976008093,
+    "lon": -96.10523306345411,
+    "description": "pool466",
+    "captured": true
+  },
+  {
+    "lat": 19.07716018474019,
+    "lon": -96.10486417316761,
+    "description": "pool467",
+    "captured": true
+  },
+  {
+    "lat": 19.077453476362184,
+    "lon": -96.10702289679587,
+    "description": "pool468",
+    "captured": true
+  },
+  {
+    "lat": 19.077491117638235,
+    "lon": -96.10747334123494,
+    "description": "pool469",
+    "captured": true
+  },
+  {
+    "lat": 19.07778,
+    "lon": -96.109315,
+    "description": "pool470",
+    "captured": true
+  },
+  {
+    "lat": 19.077818,
+    "lon": -96.109673,
+    "description": "pool471",
+    "captured": true
+  },
+  {
+    "lat": 19.082853137535054,
+    "lon": -96.10305692751108,
+    "description": "pool472",
+    "captured": true
+  },
+  {
+    "lat": 19.083799679315305,
+    "lon": -96.1035905801015,
+    "description": "pool473",
+    "captured": true
+  },
+  {
+    "lat": 19.083969510729784,
+    "lon": -96.10369384514789,
+    "description": "pool474",
+    "captured": true
+  },
+  {
+    "lat": 19.08506969745501,
+    "lon": -96.10235517678922,
+    "description": "pool475",
+    "captured": true
+  },
+  {
+    "lat": 19.086388549712606,
+    "lon": -96.10212871587919,
+    "description": "pool476",
+    "captured": true
+  },
+  {
+    "lat": 19.08640756040306,
+    "lon": -96.10193693793727,
+    "description": "pool477",
+    "captured": true
+  },
+  {
+    "lat": 19.084772007522695,
+    "lon": -96.10505037071468,
+    "description": "pool478",
+    "captured": true
+  },
+  {
+    "lat": 19.08631103245568,
+    "lon": -96.10488924907867,
+    "description": "pool479",
+    "captured": true
+  },
+  {
+    "lat": 19.087603440761264,
+    "lon": -96.10447286811407,
+    "description": "pool480",
+    "captured": true
+  },
+  {
+    "lat": 19.08782210512537,
+    "lon": -96.10385836707127,
+    "description": "pool481",
+    "captured": true
+  },
+  {
+    "lat": 19.087563651908972,
+    "lon": -96.10515699314078,
+    "description": "pool482",
+    "captured": true
+  },
+  {
+    "lat": 19.087462671759734,
+    "lon": -96.10513626007778,
+    "description": "pool483",
+    "captured": true
+  },
+  {
+    "lat": 19.088007124008165,
+    "lon": -96.10520158754522,
+    "description": "pool484",
+    "captured": true
+  },
+  {
+    "lat": 19.088690003892598,
+    "lon": -96.10483482140997,
+    "description": "pool485",
+    "captured": true
+  },
+  {
+    "lat": 19.08949498646811,
+    "lon": -96.10545321849355,
+    "description": "pool486",
+    "captured": true
+  },
+  {
+    "lat": 19.090277216392675,
+    "lon": -96.10486117034817,
+    "description": "pool487",
+    "captured": true
+  },
+  {
+    "lat": 19.09046672620163,
+    "lon": -96.10585778028273,
+    "description": "pool488",
+    "captured": true
+  },
+  {
+    "lat": 19.089396399490873,
+    "lon": -96.10388609411241,
+    "description": "pool489",
+    "captured": true
+  },
+  {
+    "lat": 19.089462473836488,
+    "lon": -96.10391654282127,
+    "description": "pool490",
+    "captured": true
+  },
+  {
+    "lat": 19.08954240244513,
+    "lon": -96.10393571423053,
+    "description": "pool491",
+    "captured": true
+  },
+  {
+    "lat": 19.089657499573796,
+    "lon": -96.10396052428959,
+    "description": "pool492",
+    "captured": true
+  },
+  {
+    "lat": 19.088955403273403,
+    "lon": -96.1038502690107,
+    "description": "pool493",
+    "captured": true
+  },
+  {
+    "lat": 19.091082650192334,
+    "lon": -96.10353193527007,
+    "description": "pool494",
+    "captured": true
+  },
+  {
+    "lat": 19.09101428832897,
+    "lon": -96.10239743681674,
+    "description": "pool495",
+    "captured": true
+  },
+  {
+    "lat": 19.091389532119795,
+    "lon": -96.1016697837498,
+    "description": "pool496",
+    "captured": true
+  },
+  {
+    "lat": 19.09141439179597,
+    "lon": -96.10153147394985,
+    "description": "pool497",
+    "captured": true
+  },
+  {
+    "lat": 19.093492753732235,
+    "lon": -96.09888851040898,
+    "description": "pool498",
+    "captured": true
+  },
+  {
+    "lat": 19.093796911471117,
+    "lon": -96.0985961496261,
+    "description": "pool499",
+    "captured": true
+  },
+  {
+    "lat": 19.090532037206128,
+    "lon": -96.09637030602106,
+    "description": "pool500",
+    "captured": true
+  },
+  {
+    "lat": 19.0907596150274,
+    "lon": -96.09594288595301,
+    "description": "pool501",
+    "captured": true
+  },
+  {
+    "lat": 19.0904295517275,
+    "lon": -96.09664302554211,
+    "description": "pool502",
+    "captured": true
+  },
+  {
+    "lat": 19.081467888808483,
+    "lon": -96.0967520785265,
+    "description": "pool503",
+    "captured": true
+  },
+  {
+    "lat": 19.081106721336692,
+    "lon": -96.0963237922812,
+    "description": "pool504",
+    "captured": true
+  },
+  {
+    "lat": 19.08132840110814,
+    "lon": -96.09601366654263,
+    "description": "pool505",
+    "captured": true
+  },
+  {
+    "lat": 19.081885884327804,
+    "lon": -96.0960927470856,
+    "description": "pool506",
+    "captured": true
+  },
+  {
+    "lat": 19.081848582590574,
+    "lon": -96.09604312696747,
+    "description": "pool507",
+    "captured": true
+  },
+  {
+    "lat": 19.081857108702682,
+    "lon": -96.09593373716162,
+    "description": "pool508",
+    "captured": true
+  },
+  {
+    "lat": 19.081884818563992,
+    "lon": -96.09590328845279,
+    "description": "pool509",
+    "captured": true
+  },
+  {
+    "lat": 19.081822394174985,
+    "lon": -96.09564969751864,
+    "description": "pool510",
+    "captured": true
+  },
+  {
+    "lat": 19.081693436655424,
+    "lon": -96.09539483054833,
+    "description": "pool511",
+    "captured": true
+  },
+  {
+    "lat": 19.081040048872797,
+    "lon": -96.0957696612214,
+    "description": "pool512",
+    "captured": true
+  },
+  {
+    "lat": 19.08201899833423,
+    "lon": -96.09481887084507,
+    "description": "pool513",
+    "captured": true
+  },
+  {
+    "lat": 19.082108677686357,
+    "lon": -96.09510195689762,
+    "description": "pool514",
+    "captured": true
+  },
+  {
+    "lat": 19.080337154330074,
+    "lon": -96.09385032027474,
+    "description": "pool515",
+    "captured": true
+  },
+  {
+    "lat": 19.08036493669325,
+    "lon": -96.09374885173835,
+    "description": "pool516",
+    "captured": true
+  },
+  {
+    "lat": 19.08054955485931,
+    "lon": -96.09341884191906,
+    "description": "pool517",
+    "captured": true
+  },
+  {
+    "lat": 19.079972,
+    "lon": -96.093439,
+    "description": "pool518",
+    "captured": true
+  },
+  {
+    "lat": 19.079990722585304,
+    "lon": -96.0932429219563,
+    "description": "pool519",
+    "captured": true
+  },
+  {
+    "lat": 19.07936489981841,
+    "lon": -96.09288882380262,
+    "description": "pool520",
+    "captured": true
+  },
+  {
+    "lat": 19.07974005961624,
+    "lon": -96.09287407165326,
+    "description": "pool521",
+    "captured": true
+  },
+  {
+    "lat": 19.079383911315098,
+    "lon": -96.09261121517342,
+    "description": "pool522",
+    "captured": true
+  },
+  {
+    "lat": 19.079243226188,
+    "lon": -96.09267692929336,
+    "description": "pool523",
+    "captured": true
+  },
+  {
+    "lat": 19.079269842302285,
+    "lon": -96.09250660902329,
+    "description": "pool524",
+    "captured": true
+  },
+  {
+    "lat": 19.07925838074485,
+    "lon": -96.09236005757197,
+    "description": "pool525",
+    "captured": true
+  },
+  {
+    "lat": 19.07918075778786,
+    "lon": -96.09234171678548,
+    "description": "pool526",
+    "captured": true
+  },
+  {
+    "lat": 19.07908278701352,
+    "lon": -96.09222449523696,
+    "description": "pool527",
+    "captured": true
+  },
+  {
+    "lat": 19.079929073743624,
+    "lon": -96.09275993079558,
+    "description": "pool528",
+    "captured": true
+  },
+  {
+    "lat": 19.080031101736065,
+    "lon": -96.09260302157037,
+    "description": "pool529",
+    "captured": true
+  },
+  {
+    "lat": 19.08051939777167,
+    "lon": -96.09236841381099,
+    "description": "pool530",
+    "captured": true
+  },
+  {
+    "lat": 19.079908688742034,
+    "lon": -96.09160546326197,
+    "description": "pool531",
+    "captured": true
+  },
+  {
+    "lat": 19.080185616676708,
+    "lon": -96.0917448639615,
+    "description": "pool532",
+    "captured": true
+  },
+  {
+    "lat": 19.080171277377545,
+    "lon": -96.09185960875496,
+    "description": "pool533",
+    "captured": true
+  },
+  {
+    "lat": 19.08053572676476,
+    "lon": -96.09127586271705,
+    "description": "pool534",
+    "captured": true
+  },
+  {
+    "lat": 19.080467285842413,
+    "lon": -96.09117259767143,
+    "description": "pool535",
+    "captured": true
+  },
+  {
+    "lat": 19.080404548305417,
+    "lon": -96.09116723325346,
+    "description": "pool536",
+    "captured": true
+  },
+  {
+    "lat": 19.079880610704606,
+    "lon": -96.09119641529496,
+    "description": "pool537",
+    "captured": true
+  },
+  {
+    "lat": 19.07979620547446,
+    "lon": -96.09121555350696,
+    "description": "pool538",
+    "captured": true
+  },
+  {
+    "lat": 19.07951432418826,
+    "lon": -96.09147517718407,
+    "description": "pool539",
+    "captured": true
+  },
+  {
+    "lat": 19.079425599395172,
+    "lon": -96.0915738008082,
+    "description": "pool540",
+    "captured": true
+  },
+  {
+    "lat": 19.079267866312357,
+    "lon": -96.09154250677364,
+    "description": "pool541",
+    "captured": true
+  },
+  {
+    "lat": 19.079142396707407,
+    "lon": -96.09160793975505,
+    "description": "pool542",
+    "captured": true
+  },
+  {
+    "lat": 19.07896869314538,
+    "lon": -96.09167276522328,
+    "description": "pool543",
+    "captured": true
+  },
+  {
+    "lat": 19.078879167385256,
+    "lon": -96.09174945086039,
+    "description": "pool544",
+    "captured": true
+  },
+  {
+    "lat": 19.078930324968404,
+    "lon": -96.09204717156908,
+    "description": "pool545",
+    "captured": true
+  },
+  {
+    "lat": 19.07845364054389,
+    "lon": -96.09084217220217,
+    "description": "pool546",
+    "captured": true
+  },
+  {
+    "lat": 19.07829521044856,
+    "lon": -96.09104065566653,
+    "description": "pool547",
+    "captured": true
+  },
+  {
+    "lat": 19.078421954536953,
+    "lon": -96.0905605402595,
+    "description": "pool548",
+    "captured": true
+  },
+  {
+    "lat": 19.078179873243855,
+    "lon": -96.09042777091508,
+    "description": "pool549",
+    "captured": true
+  },
+  {
+    "lat": 19.078295301784955,
+    "lon": -96.09104163228288,
+    "description": "pool550",
+    "captured": true
+  },
+  {
+    "lat": 19.07815334829091,
+    "lon": -96.0912951010313,
+    "description": "pool551",
+    "captured": true
+  },
+  {
+    "lat": 19.077953092262135,
+    "lon": -96.09113416849263,
+    "description": "pool552",
+    "captured": true
+  },
+  {
+    "lat": 19.07787958049463,
+    "lon": -96.09084985434097,
+    "description": "pool553",
+    "captured": true
+  },
+  {
+    "lat": 19.07781367336499,
+    "lon": -96.09082303225121,
+    "description": "pool554",
+    "captured": true
+  },
+  {
+    "lat": 19.07777565000905,
+    "lon": -96.0907130616831,
+    "description": "pool555",
+    "captured": true
+  },
+  {
+    "lat": 19.07746737803089,
+    "lon": -96.08988997294446,
+    "description": "pool556",
+    "captured": true
+  },
+  {
+    "lat": 19.07894669911508,
+    "lon": -96.08865028757315,
+    "description": "pool557",
+    "captured": true
+  },
+  {
+    "lat": 19.078866815144412,
+    "lon": -96.08860244204315,
+    "description": "pool558",
+    "captured": true
+  },
+  {
+    "lat": 19.079192379764546,
+    "lon": -96.0883520504361,
+    "description": "pool559",
+    "captured": true
+  },
+  {
+    "lat": 19.079109481426617,
+    "lon": -96.08818937563407,
+    "description": "pool560",
+    "captured": true
+  },
+  {
+    "lat": 19.079061249647282,
+    "lon": -96.08817342712408,
+    "description": "pool561",
+    "captured": true
+  },
+  {
+    "lat": 19.078704032594413,
+    "lon": -96.08798682955707,
+    "description": "pool562",
+    "captured": true
+  },
+  {
+    "lat": 19.08111460275071,
+    "lon": -96.08905621891057,
+    "description": "pool563",
+    "captured": true
+  },
+  {
+    "lat": 19.08143423880811,
+    "lon": -96.08745625501072,
+    "description": "pool564",
+    "captured": true
+  },
+  {
+    "lat": 19.080379981693984,
+    "lon": -96.08855636436348,
+    "description": "pool565",
+    "captured": true
+  },
+  {
+    "lat": 19.080043046158323,
+    "lon": -96.08819535670679,
+    "description": "pool566",
+    "captured": true
+  },
+  {
+    "lat": 19.079939086121747,
+    "lon": -96.08812518220499,
+    "description": "pool567",
+    "captured": true
+  },
+  {
+    "lat": 19.079934605084233,
+    "lon": -96.08805785261542,
+    "description": "pool568",
+    "captured": true
+  },
+  {
+    "lat": 19.079774183860952,
+    "lon": -96.08802276536453,
+    "description": "pool569",
+    "captured": true
+  },
+  {
+    "lat": 19.07973564689591,
+    "lon": -96.08797724676877,
+    "description": "pool570",
+    "captured": true
+  },
+  {
+    "lat": 19.07963527150299,
+    "lon": -96.08783974267739,
+    "description": "pool571",
+    "captured": true
+  },
+  {
+    "lat": 19.07958597999314,
+    "lon": -96.08787672653645,
+    "description": "pool572",
+    "captured": true
+  },
+  {
+    "lat": 19.079596734505635,
+    "lon": -96.08774017074916,
+    "description": "pool573",
+    "captured": true
+  },
+  {
+    "lat": 19.07921863878881,
+    "lon": -96.08757194063847,
+    "description": "pool574",
+    "captured": true
+  },
+  {
+    "lat": 19.079318766076018,
+    "lon": -96.08686249635949,
+    "description": "pool575",
+    "captured": true
+  },
+  {
+    "lat": 19.0796527012992,
+    "lon": -96.08709000084883,
+    "description": "pool576",
+    "captured": true
+  },
+  {
+    "lat": 19.07949300491841,
+    "lon": -96.08700081740031,
+    "description": "pool577",
+    "captured": true
+  },
+  {
+    "lat": 19.079317635843115,
+    "lon": -96.08686437524545,
+    "description": "pool578",
+    "captured": true
+  },
+  {
+    "lat": 19.08007960043139,
+    "lon": -96.08673899423195,
+    "description": "pool579",
+    "captured": true
+  },
+  {
+    "lat": 19.078119573999476,
+    "lon": -96.08683863211778,
+    "description": "pool580",
+    "captured": true
+  },
+  {
+    "lat": 19.07793412677786,
+    "lon": -96.0867111986326,
+    "description": "pool581",
+    "captured": true
+  },
+  {
+    "lat": 19.07793412677786,
+    "lon": -96.08657474330778,
+    "description": "pool582",
+    "captured": true
+  },
+  {
+    "lat": 19.077708633125738,
+    "lon": -96.08627622944464,
+    "description": "pool583",
+    "captured": true
+  },
+  {
+    "lat": 19.077519345118816,
+    "lon": -96.08706760177716,
+    "description": "pool584",
+    "captured": true
+  },
+  {
+    "lat": 19.077300667150396,
+    "lon": -96.08738338703743,
+    "description": "pool585",
+    "captured": true
+  },
+  {
+    "lat": 19.076894678189095,
+    "lon": -96.08753985721201,
+    "description": "pool586",
+    "captured": true
+  },
+  {
+    "lat": 19.07723076183433,
+    "lon": -96.08757684107105,
+    "description": "pool587",
+    "captured": true
+  },
+  {
+    "lat": 19.07642605393366,
+    "lon": -96.08705392298569,
+    "description": "pool588",
+    "captured": true
+  },
+  {
+    "lat": 19.07647548469736,
+    "lon": -96.0871578585836,
+    "description": "pool589",
+    "captured": true
+  },
+  {
+    "lat": 19.07608997072963,
+    "lon": -96.0868260025996,
+    "description": "pool590",
+    "captured": true
+  },
+  {
+    "lat": 19.076121657182583,
+    "lon": -96.0870372265566,
+    "description": "pool591",
+    "captured": true
+  },
+  {
+    "lat": 19.07584763454408,
+    "lon": -96.08734140922084,
+    "description": "pool592",
+    "captured": true
+  },
+  {
+    "lat": 19.076016031277035,
+    "lon": -96.08761206441059,
+    "description": "pool593",
+    "captured": true
+  },
+  {
+    "lat": 19.075760238703822,
+    "lon": -96.08763349127979,
+    "description": "pool594",
+    "captured": true
+  },
+  {
+    "lat": 19.075311180507335,
+    "lon": -96.08734152786828,
+    "description": "pool595",
+    "captured": true
+  },
+  {
+    "lat": 19.075232597708496,
+    "lon": -96.0872181462553,
+    "description": "pool596",
+    "captured": true
+  },
+  {
+    "lat": 19.075122,
+    "lon": -96.087331,
+    "description": "pool597",
+    "captured": true
+  },
+  {
+    "lat": 19.075645706309498,
+    "lon": -96.08809517397759,
+    "description": "pool598",
+    "captured": true
+  },
+  {
+    "lat": 19.07628354056732,
+    "lon": -96.08843231280231,
+    "description": "pool599",
+    "captured": true
+  },
+  {
+    "lat": 19.076465589737268,
+    "lon": -96.08801221351212,
+    "description": "pool600",
+    "captured": true
+  },
+  {
+    "lat": 19.07555520652184,
+    "lon": -96.08668509963739,
+    "description": "pool601",
+    "captured": true
+  },
+  {
+    "lat": 19.07566007565075,
+    "lon": -96.08636754706893,
+    "description": "pool602",
+    "captured": true
+  },
+  {
+    "lat": 19.0751952708624,
+    "lon": -96.08604578085301,
+    "description": "pool603",
+    "captured": true
+  },
+  {
+    "lat": 19.07522695748647,
+    "lon": -96.08613831706276,
+    "description": "pool604",
+    "captured": true
+  },
+  {
+    "lat": 19.075632180450235,
+    "lon": -96.08588455280292,
+    "description": "pool605",
+    "captured": true
+  },
+  {
+    "lat": 19.075755776914836,
+    "lon": -96.08589172963241,
+    "description": "pool606",
+    "captured": true
+  },
+  {
+    "lat": 19.075641977734325,
+    "lon": -96.08581517678441,
+    "description": "pool607",
+    "captured": true
+  },
+  {
+    "lat": 19.075800241474077,
+    "lon": -96.08571629602238,
+    "description": "pool608",
+    "captured": true
+  },
+  {
+    "lat": 19.07580350253665,
+    "lon": -96.08549040574054,
+    "description": "pool609",
+    "captured": true
+  },
+  {
+    "lat": 19.07537926267727,
+    "lon": -96.0856691740126,
+    "description": "pool610",
+    "captured": true
+  },
+  {
+    "lat": 19.074873324841057,
+    "lon": -96.0857315401365,
+    "description": "pool611",
+    "captured": true
+  },
+  {
+    "lat": 19.075121581721522,
+    "lon": -96.08539584049274,
+    "description": "pool612",
+    "captured": true
+  },
+  {
+    "lat": 19.074330304311918,
+    "lon": -96.08510475036789,
+    "description": "pool613",
+    "captured": true
+  },
+  {
+    "lat": 19.074208626984035,
+    "lon": -96.08510206815892,
+    "description": "pool614",
+    "captured": true
+  },
+  {
+    "lat": 19.073499395630716,
+    "lon": -96.0862793622177,
+    "description": "pool615",
+    "captured": true
+  },
+  {
+    "lat": 19.0731113222482,
+    "lon": -96.0860593556715,
+    "description": "pool616",
+    "captured": true
+  },
+  {
+    "lat": 19.073470715877647,
+    "lon": -96.0855358918146,
+    "description": "pool617",
+    "captured": true
+  },
+  {
+    "lat": 19.07359081232689,
+    "lon": -96.08538795637834,
+    "description": "pool618",
+    "captured": true
+  },
+  {
+    "lat": 19.07584489545731,
+    "lon": -96.084309920062,
+    "description": "pool619",
+    "captured": true
+  },
+  {
+    "lat": 19.07617887259819,
+    "lon": -96.08449213310496,
+    "description": "pool620",
+    "captured": true
+  },
+  {
+    "lat": 19.076818123841903,
+    "lon": -96.08505809785957,
+    "description": "pool621",
+    "captured": true
+  },
+  {
+    "lat": 19.076110907427488,
+    "lon": -96.08233000815082,
+    "description": "pool622",
+    "captured": true
+  },
+  {
+    "lat": 19.076781477583747,
+    "lon": -96.08172583809811,
+    "description": "pool623",
+    "captured": true
+  },
+  {
+    "lat": 19.077125889555205,
+    "lon": -96.08255822040931,
+    "description": "pool624",
+    "captured": true
+  },
+  {
+    "lat": 19.07753931290902,
+    "lon": -96.08295139740682,
+    "description": "pool625",
+    "captured": true
+  },
+  {
+    "lat": 19.076795697114022,
+    "lon": -96.08313084965094,
+    "description": "pool626",
+    "captured": true
+  },
+  {
+    "lat": 19.076836139462163,
+    "lon": -96.08320125014481,
+    "description": "pool627",
+    "captured": true
+  },
+  {
+    "lat": 19.076377731548934,
+    "lon": -96.08286747483385,
+    "description": "pool628",
+    "captured": true
+  },
+  {
+    "lat": 19.076532978319978,
+    "lon": -96.08301379742895,
+    "description": "pool629",
+    "captured": true
+  },
+  {
+    "lat": 19.076840862242314,
+    "lon": -96.08338512552406,
+    "description": "pool630",
+    "captured": true
+  },
+  {
+    "lat": 19.076247271956664,
+    "lon": -96.0836211742428,
+    "description": "pool631",
+    "captured": true
+  },
+  {
+    "lat": 19.07580892700216,
+    "lon": -96.08318634766302,
+    "description": "pool632",
+    "captured": true
+  },
+  {
+    "lat": 19.076032013418562,
+    "lon": -96.0837440300066,
+    "description": "pool633",
+    "captured": true
+  },
+  {
+    "lat": 19.09466843515491,
+    "lon": -96.09930331735335,
+    "description": "pool634",
+    "captured": true
+  },
+  {
+    "lat": 19.094400789296653,
+    "lon": -96.09928358417905,
+    "description": "pool635",
+    "captured": true
+  },
+  {
+    "lat": 19.09417636262469,
+    "lon": -96.09961884426814,
+    "description": "pool636",
+    "captured": true
+  },
+  {
+    "lat": 19.09496870906371,
+    "lon": -96.0997459104894,
+    "description": "pool637",
+    "captured": true
+  },
+  {
+    "lat": 19.095179081081376,
+    "lon": -96.10020369740805,
+    "description": "pool638",
+    "captured": true
+  },
+  {
+    "lat": 19.09381178893767,
+    "lon": -96.10031477388526,
+    "description": "pool639",
+    "captured": true
+  },
+  {
+    "lat": 19.09300913547892,
+    "lon": -96.10130489303754,
+    "description": "pool640",
+    "captured": true
+  },
+  {
+    "lat": 19.093801867262595,
+    "lon": -96.10137730331493,
+    "description": "pool641",
+    "captured": true
+  },
+  {
+    "lat": 19.09395025738816,
+    "lon": -96.10142710475996,
+    "description": "pool642",
+    "captured": true
+  },
+  {
+    "lat": 19.094451,
+    "lon": -96.101382,
+    "description": "pool643",
+    "captured": true
+  },
+  {
+    "lat": 19.09340073125479,
+    "lon": -96.10067101201552,
+    "description": "pool644",
+    "captured": true
+  },
+  {
+    "lat": 19.094838438816886,
+    "lon": -96.10078146826622,
+    "description": "pool645",
+    "captured": true
+  },
+  {
+    "lat": 19.094826781060128,
+    "lon": -96.1013925689349,
+    "description": "pool646",
+    "captured": true
+  },
+  {
+    "lat": 19.095058299641707,
+    "lon": -96.10151946083018,
+    "description": "pool647",
+    "captured": true
+  },
+  {
+    "lat": 19.095363372209622,
+    "lon": -96.10047586987388,
+    "description": "pool648",
+    "captured": true
+  },
+  {
+    "lat": 19.09582094392565,
+    "lon": -96.10105984019116,
+    "description": "pool649",
+    "captured": true
+  },
+  {
+    "lat": 19.093424740058076,
+    "lon": -96.10236446892912,
+    "description": "pool650",
+    "captured": true
+  },
+  {
+    "lat": 19.093844658126525,
+    "lon": -96.10239277757488,
+    "description": "pool651",
+    "captured": true
+  },
+  {
+    "lat": 19.094114692317028,
+    "lon": -96.10238988937901,
+    "description": "pool652",
+    "captured": true
+  },
+  {
+    "lat": 19.09423835831724,
+    "lon": -96.102474288442,
+    "description": "pool653",
+    "captured": true
+  },
+  {
+    "lat": 19.093917206719986,
+    "lon": -96.10169358480856,
+    "description": "pool654",
+    "captured": true
+  },
+  {
+    "lat": 19.0937917482148,
+    "lon": -96.1016651356862,
+    "description": "pool655",
+    "captured": true
+  },
+  {
+    "lat": 19.09379802114232,
+    "lon": -96.10137779955045,
+    "description": "pool656",
+    "captured": true
+  },
+  {
+    "lat": 19.094649206816708,
+    "lon": -96.1024856588974,
+    "description": "pool657",
+    "captured": true
+  },
+  {
+    "lat": 19.09483291292955,
+    "lon": -96.10249893515449,
+    "description": "pool658",
+    "captured": true
+  },
+  {
+    "lat": 19.095229551129744,
+    "lon": -96.10257960848205,
+    "description": "pool659",
+    "captured": true
+  },
+  {
+    "lat": 19.095472347335928,
+    "lon": -96.10266650080762,
+    "description": "pool660",
+    "captured": true
+  },
+  {
+    "lat": 19.095651740822507,
+    "lon": -96.10188306815726,
+    "description": "pool661",
+    "captured": true
+  },
+  {
+    "lat": 19.09583929955005,
+    "lon": -96.10166654400548,
+    "description": "pool662",
+    "captured": true
+  },
+  {
+    "lat": 19.09608120737365,
+    "lon": -96.10129552084831,
+    "description": "pool663",
+    "captured": true
+  },
+  {
+    "lat": 19.096317786483286,
+    "lon": -96.1020138848311,
+    "description": "pool664",
+    "captured": true
+  },
+  {
+    "lat": 19.09604497450557,
+    "lon": -96.10229694505249,
+    "description": "pool665",
+    "captured": true
+  },
+  {
+    "lat": 19.095919110787705,
+    "lon": -96.10257777187581,
+    "description": "pool666",
+    "captured": true
+  },
+  {
+    "lat": 19.095794426944675,
+    "lon": -96.10264994659306,
+    "description": "pool667",
+    "captured": true
+  },
+  {
+    "lat": 19.092465646261672,
+    "lon": -96.10252803802354,
+    "description": "pool668",
+    "captured": true
+  },
+  {
+    "lat": 19.093158090339664,
+    "lon": -96.10258175390662,
+    "description": "pool669",
+    "captured": true
+  },
+  {
+    "lat": 19.093329901365575,
+    "lon": -96.1026599016062,
+    "description": "pool670",
+    "captured": true
+  },
+  {
+    "lat": 19.09369300524249,
+    "lon": -96.10273749055867,
+    "description": "pool671",
+    "captured": true
+  },
+  {
+    "lat": 19.09424825579994,
+    "lon": -96.10274745656727,
+    "description": "pool672",
+    "captured": true
+  },
+  {
+    "lat": 19.094342449841257,
+    "lon": -96.10269721876075,
+    "description": "pool673",
+    "captured": true
+  },
+  {
+    "lat": 19.09498807043496,
+    "lon": -96.10283989527792,
+    "description": "pool674",
+    "captured": true
+  },
+  {
+    "lat": 19.095533067347652,
+    "lon": -96.10306688064836,
+    "description": "pool675",
+    "captured": true
+  },
+  {
+    "lat": 19.096235667646447,
+    "lon": -96.10267271715534,
+    "description": "pool676",
+    "captured": true
+  },
+  {
+    "lat": 19.096410555518275,
+    "lon": -96.10251580792826,
+    "description": "pool677",
+    "captured": true
+  },
+  {
+    "lat": 19.096501167637243,
+    "lon": -96.10245545822625,
+    "description": "pool678",
+    "captured": true
+  },
+  {
+    "lat": 19.096588611453267,
+    "lon": -96.1023749919569,
+    "description": "pool679",
+    "captured": true
+  },
+  {
+    "lat": 19.096850208148446,
+    "lon": -96.10187974023786,
+    "description": "pool680",
+    "captured": true
+  },
+  {
+    "lat": 19.09647396579033,
+    "lon": -96.10330601537518,
+    "description": "pool681",
+    "captured": true
+  },
+  {
+    "lat": 19.098188606987392,
+    "lon": -96.1035180538964,
+    "description": "pool682",
+    "captured": true
+  },
+  {
+    "lat": 19.09814058751287,
+    "lon": -96.10406982765541,
+    "description": "pool683",
+    "captured": true
+  },
+  {
+    "lat": 19.094404366776455,
+    "lon": -96.10729849544062,
+    "description": "pool684",
+    "captured": true
+  },
+  {
+    "lat": 19.094419600972195,
+    "lon": -96.10745591391765,
+    "description": "pool685",
+    "captured": true
+  },
+  {
+    "lat": 19.094381186315918,
+    "lon": -96.10787080288408,
+    "description": "pool686",
+    "captured": true
+  },
+  {
+    "lat": 19.094342094577954,
+    "lon": -96.10807401513024,
+    "description": "pool687",
+    "captured": true
+  },
+  {
+    "lat": 19.09427352132104,
+    "lon": -96.10834434237478,
+    "description": "pool688",
+    "captured": true
+  },
+  {
+    "lat": 19.09404366641062,
+    "lon": -96.10892340629982,
+    "description": "pool689",
+    "captured": true
+  },
+  {
+    "lat": 19.093981875014027,
+    "lon": -96.10904939952881,
+    "description": "pool690",
+    "captured": true
+  },
+  {
+    "lat": 19.093125680825246,
+    "lon": -96.11003115536874,
+    "description": "pool691",
+    "captured": true
+  },
+  {
+    "lat": 19.0926861562003,
+    "lon": -96.11018665490381,
+    "description": "pool692",
+    "captured": true
+  },
+  {
+    "lat": 19.092148560362123,
+    "lon": -96.11069347555691,
+    "description": "pool693",
+    "captured": true
+  },
+  {
+    "lat": 19.092861740268045,
+    "lon": -96.10909602665204,
+    "description": "pool694",
+    "captured": true
+  },
+  {
+    "lat": 19.0928106955574,
+    "lon": -96.10865836878642,
+    "description": "pool695",
+    "captured": true
+  },
+  {
+    "lat": 19.093977874813675,
+    "lon": -96.10795447602023,
+    "description": "pool696",
+    "captured": true
+  },
+  {
+    "lat": 19.094045042830952,
+    "lon": -96.10742071643362,
+    "description": "pool697",
+    "captured": true
+  },
+  {
+    "lat": 19.09265482118804,
+    "lon": -96.10678765209502,
+    "description": "pool698",
+    "captured": true
+  },
+  {
+    "lat": 19.0928198507018,
+    "lon": -96.1067007327155,
+    "description": "pool699",
+    "captured": true
+  },
+  {
+    "lat": 19.093077525285448,
+    "lon": -96.10635484192642,
+    "description": "pool700",
+    "captured": true
+  },
+  {
+    "lat": 19.093724743935127,
+    "lon": -96.10626930834387,
+    "description": "pool701",
+    "captured": true
+  },
+  {
+    "lat": 19.093980508761433,
+    "lon": -96.10695045723804,
+    "description": "pool702",
+    "captured": true
+  },
+  {
+    "lat": 19.09404257932689,
+    "lon": -96.10741818904484,
+    "description": "pool703",
+    "captured": true
+  },
+  {
+    "lat": 19.09398396661108,
+    "lon": -96.10794596666483,
+    "description": "pool704",
+    "captured": true
+  },
+  {
+    "lat": 19.094020199928753,
+    "lon": -96.10779259539065,
+    "description": "pool705",
+    "captured": true
+  },
+  {
+    "lat": 19.09403192247101,
+    "lon": -96.10772831478307,
+    "description": "pool706",
+    "captured": true
+  },
+  {
+    "lat": 19.092452803122075,
+    "lon": -96.10858142315408,
+    "description": "pool707",
+    "captured": true
+  },
+  {
+    "lat": 19.09235484019963,
+    "lon": -96.10817473614901,
+    "description": "pool708",
+    "captured": true
+  },
+  {
+    "lat": 19.092222213381483,
+    "lon": -96.10788287841598,
+    "description": "pool709",
+    "captured": true
+  },
+  {
+    "lat": 19.09196358831235,
+    "lon": -96.10735106211517,
+    "description": "pool710",
+    "captured": true
+  },
+  {
+    "lat": 19.091207582547938,
+    "lon": -96.10917015198908,
+    "description": "pool711",
+    "captured": true
+  },
+  {
+    "lat": 19.090877244088592,
+    "lon": -96.10906685627977,
+    "description": "pool712",
+    "captured": true
+  },
+  {
+    "lat": 19.090187360563387,
+    "lon": -96.10825377101365,
+    "description": "pool713",
+    "captured": true
+  },
+  {
+    "lat": 19.09131734129232,
+    "lon": -96.1096850408355,
+    "description": "pool714",
+    "captured": true
+  },
+  {
+    "lat": 19.090664616712264,
+    "lon": -96.1108361208766,
+    "description": "pool715",
+    "captured": true
+  },
+  {
+    "lat": 19.090352689150883,
+    "lon": -96.11026165051283,
+    "description": "pool716",
+    "captured": true
+  },
+  {
+    "lat": 19.090143360557654,
+    "lon": -96.10899234508987,
+    "description": "pool717",
+    "captured": true
+  },
+  {
+    "lat": 19.08955158110693,
+    "lon": -96.10942458169282,
+    "description": "pool718",
+    "captured": true
+  },
+  {
+    "lat": 19.08941970561747,
+    "lon": -96.1093137395483,
+    "description": "pool719",
+    "captured": true
+  },
+  {
+    "lat": 19.08963990206227,
+    "lon": -96.10847793943456,
+    "description": "pool720",
+    "captured": true
+  },
+  {
+    "lat": 19.088500807706016,
+    "lon": -96.10901512778625,
+    "description": "pool721",
+    "captured": true
+  },
+  {
+    "lat": 19.085814123079167,
+    "lon": -96.10762945217274,
+    "description": "pool722",
+    "captured": true
+  },
+  {
+    "lat": 19.085958604773076,
+    "lon": -96.1077870319502,
+    "description": "pool723",
+    "captured": true
+  },
+  {
+    "lat": 19.08363851723243,
+    "lon": -96.1065233376053,
+    "description": "pool724",
+    "captured": true
+  },
+  {
+    "lat": 19.08850098433569,
+    "lon": -96.10971050357006,
+    "description": "pool725",
+    "captured": true
+  },
+  {
+    "lat": 19.088106360357408,
+    "lon": -96.11029644968828,
+    "description": "pool726",
+    "captured": true
+  },
+  {
+    "lat": 19.087162053412808,
+    "lon": -96.11099315745362,
+    "description": "pool727",
+    "captured": true
+  },
+  {
+    "lat": 19.088241174518764,
+    "lon": -96.11100076734293,
+    "description": "pool728",
+    "captured": true
+  },
+  {
+    "lat": 19.088469777170594,
+    "lon": -96.1116469528708,
+    "description": "pool729",
+    "captured": true
+  },
+  {
+    "lat": 19.088669727933066,
+    "lon": -96.10999628300121,
+    "description": "pool730",
+    "captured": true
+  },
+  {
+    "lat": 19.088499457398562,
+    "lon": -96.11027982592066,
+    "description": "pool731",
+    "captured": true
+  },
+  {
+    "lat": 19.088616506287572,
+    "lon": -96.11121810563701,
+    "description": "pool732",
+    "captured": true
+  },
+  {
+    "lat": 19.08870522859788,
+    "lon": -96.11143318639601,
+    "description": "pool733",
+    "captured": true
+  },
+  {
+    "lat": 19.08880470233409,
+    "lon": -96.1114910329448,
+    "description": "pool734",
+    "captured": true
+  },
+  {
+    "lat": 19.089019487207146,
+    "lon": -96.11207622782402,
+    "description": "pool735",
+    "captured": true
+  },
+  {
+    "lat": 19.08982104974922,
+    "lon": -96.11233593054362,
+    "description": "pool736",
+    "captured": true
+  },
+  {
+    "lat": 19.090280776120704,
+    "lon": -96.11218704680331,
+    "description": "pool737",
+    "captured": true
+  },
+  {
+    "lat": 19.09046435541304,
+    "lon": -96.11141130651389,
+    "description": "pool738",
+    "captured": true
+  },
+  {
+    "lat": 19.08871132040702,
+    "lon": -96.1134190085144,
+    "description": "pool739",
+    "captured": true
+  },
+  {
+    "lat": 19.089199651668693,
+    "lon": -96.11309935116017,
+    "description": "pool740",
+    "captured": true
+  },
+  {
+    "lat": 19.089461360875916,
+    "lon": -96.11294378303838,
+    "description": "pool741",
+    "captured": true
+  },
+  {
+    "lat": 19.089606473064663,
+    "lon": -96.11286599897801,
+    "description": "pool742",
+    "captured": true
+  },
+  {
+    "lat": 19.089905207464746,
+    "lon": -96.11274880247886,
+    "description": "pool743",
+    "captured": true
+  },
+  {
+    "lat": 19.090180928381972,
+    "lon": -96.11271370209738,
+    "description": "pool744",
+    "captured": true
+  },
+  {
+    "lat": 19.090439183468796,
+    "lon": -96.11352831791883,
+    "description": "pool745",
+    "captured": true
+  },
+  {
+    "lat": 19.090352040357256,
+    "lon": -96.11367654820383,
+    "description": "pool746",
+    "captured": true
+  },
+  {
+    "lat": 19.089084163182367,
+    "lon": -96.11468580098857,
+    "description": "pool747",
+    "captured": true
+  },
+  {
+    "lat": 19.088888800622254,
+    "lon": -96.1144819156117,
+    "description": "pool748",
+    "captured": true
+  },
+  {
+    "lat": 19.088682174300427,
+    "lon": -96.11432415685567,
+    "description": "pool749",
+    "captured": true
+  },
+  {
+    "lat": 19.086372276250945,
+    "lon": -96.11588311128008,
+    "description": "pool750",
+    "captured": true
+  },
+  {
+    "lat": 19.08599713147598,
+    "lon": -96.11542177133589,
+    "description": "pool751",
+    "captured": true
+  },
+  {
+    "lat": 19.123468714582135,
+    "lon": -96.10948115243595,
+    "description": "pool752",
+    "captured": true
+  },
+  {
+    "lat": 19.123480666870336,
+    "lon": -96.10889911312074,
+    "description": "pool753",
+    "captured": true
+  },
+  {
+    "lat": 19.12255647047373,
+    "lon": -96.10874046494648,
+    "description": "pool754",
+    "captured": true
+  },
+  {
+    "lat": 19.122341534929006,
+    "lon": -96.10876207531018,
+    "description": "pool755",
+    "captured": true
+  },
+  {
+    "lat": 19.122140995713398,
+    "lon": -96.10860781026908,
+    "description": "pool756",
+    "captured": true
+  },
+  {
+    "lat": 19.122890870615265,
+    "lon": -96.10755344817618,
+    "description": "pool757",
+    "captured": true
+  },
+  {
+    "lat": 19.123390997296077,
+    "lon": -96.10708951499963,
+    "description": "pool758",
+    "captured": true
+  },
+  {
+    "lat": 19.12422512512542,
+    "lon": -96.10669256608078,
+    "description": "pool759",
+    "captured": true
+  },
+  {
+    "lat": 19.12420701177776,
+    "lon": -96.10602720538431,
+    "description": "pool760",
+    "captured": true
+  },
+  {
+    "lat": 19.12363331436635,
+    "lon": -96.10613592906317,
+    "description": "pool761",
+    "captured": true
+  },
+  {
+    "lat": 19.123358230047664,
+    "lon": -96.10677276277058,
+    "description": "pool762",
+    "captured": true
+  },
+  {
+    "lat": 19.12317117997713,
+    "lon": -96.10604454594397,
+    "description": "pool763",
+    "captured": true
+  },
+  {
+    "lat": 19.121528177245892,
+    "lon": -96.1054106321289,
+    "description": "pool764",
+    "captured": true
+  },
+  {
+    "lat": 19.12123729317932,
+    "lon": -96.10586172412859,
+    "description": "pool765",
+    "captured": true
+  },
+  {
+    "lat": 19.120793452532805,
+    "lon": -96.10616305190787,
+    "description": "pool766",
+    "captured": true
+  },
+  {
+    "lat": 19.12091377849735,
+    "lon": -96.10527031749773,
+    "description": "pool767",
+    "captured": true
+  },
+  {
+    "lat": 19.12080670724889,
+    "lon": -96.10525154203386,
+    "description": "pool768",
+    "captured": true
+  },
+  {
+    "lat": 19.12068029196151,
+    "lon": -96.10608436790007,
+    "description": "pool769",
+    "captured": true
+  },
+  {
+    "lat": 19.119827398978227,
+    "lon": -96.10636600828869,
+    "description": "pool770",
+    "captured": true
+  },
+  {
+    "lat": 19.11983938864964,
+    "lon": -96.10525119002752,
+    "description": "pool771",
+    "captured": true
+  },
+  {
+    "lat": 19.119246562102944,
+    "lon": -96.10566936240527,
+    "description": "pool772",
+    "captured": true
+  },
+  {
+    "lat": 19.119467634516674,
+    "lon": -96.10542507144025,
+    "description": "pool773",
+    "captured": true
+  },
+  {
+    "lat": 19.119489809222227,
+    "lon": -96.10515685053878,
+    "description": "pool774",
+    "captured": true
+  },
+  {
+    "lat": 19.11960466912982,
+    "lon": -96.10483657011348,
+    "description": "pool775",
+    "captured": true
+  },
+  {
+    "lat": 19.118731349194803,
+    "lon": -96.10600239698294,
+    "description": "pool776",
+    "captured": true
+  },
+  {
+    "lat": 19.118772642270855,
+    "lon": -96.1050942663183,
+    "description": "pool777",
+    "captured": true
+  },
+  {
+    "lat": 19.118793351550657,
+    "lon": -96.10460992037908,
+    "description": "pool778",
+    "captured": true
+  },
+  {
+    "lat": 19.118090631012556,
+    "lon": -96.10589748948652,
+    "description": "pool779",
+    "captured": true
+  },
+  {
+    "lat": 19.1182653510923,
+    "lon": -96.10575050234642,
+    "description": "pool780",
+    "captured": true
+  },
+  {
+    "lat": 19.118460667053075,
+    "lon": -96.10471051095264,
+    "description": "pool781",
+    "captured": true
+  },
+  {
+    "lat": 19.114238416243232,
+    "lon": -96.10376235756185,
+    "description": "pool782",
+    "captured": true
+  },
+  {
+    "lat": 19.11312722005863,
+    "lon": -96.10431973096927,
+    "description": "pool783",
+    "captured": true
+  },
+  {
+    "lat": 19.11330179770803,
+    "lon": -96.10340931029513,
+    "description": "pool784",
+    "captured": true
+  },
+  {
+    "lat": 19.112277195880292,
+    "lon": -96.10331012447618,
+    "description": "pool785",
+    "captured": true
+  },
+  {
+    "lat": 19.113646077881732,
+    "lon": -96.10575553005205,
+    "description": "pool786",
+    "captured": true
+  },
+  {
+    "lat": 19.1138252827791,
+    "lon": -96.10569294198744,
+    "description": "pool787",
+    "captured": true
+  },
+  {
+    "lat": 19.111445833991954,
+    "lon": -96.10358854037524,
+    "description": "pool788",
+    "captured": true
+  },
+  {
+    "lat": 19.11086533996634,
+    "lon": -96.10552475118723,
+    "description": "pool789",
+    "captured": true
+  },
+  {
+    "lat": 19.110698908798025,
+    "lon": -96.1042673309845,
+    "description": "pool790",
+    "captured": true
+  },
+  {
+    "lat": 19.110668481303392,
+    "lon": -96.10358420598153,
+    "description": "pool791",
+    "captured": true
+  },
+  {
+    "lat": 19.110825958079417,
+    "lon": -96.10360254676671,
+    "description": "pool792",
+    "captured": true
+  },
+  {
+    "lat": 19.11026803679974,
+    "lon": -96.10228735253861,
+    "description": "pool793",
+    "captured": true
+  },
+  {
+    "lat": 19.10902026639756,
+    "lon": -96.1050979629444,
+    "description": "pool794",
+    "captured": true
+  },
+  {
+    "lat": 19.108792139265855,
+    "lon": -96.10547561642007,
+    "description": "pool795",
+    "captured": true
+  },
+  {
+    "lat": 19.10831864664853,
+    "lon": -96.10528675016496,
+    "description": "pool796",
+    "captured": true
+  },
+  {
+    "lat": 19.10856985242276,
+    "lon": -96.10167329160397,
+    "description": "pool797",
+    "captured": true
+  },
+  {
+    "lat": 19.10813217321031,
+    "lon": -96.1020176305896,
+    "description": "pool798",
+    "captured": true
+  },
+  {
+    "lat": 19.10716080864268,
+    "lon": -96.10257420093241,
+    "description": "pool799",
+    "captured": true
+  },
+  {
+    "lat": 19.107036600840893,
+    "lon": -96.10138317660791,
+    "description": "pool800",
+    "captured": true
+  },
+  {
+    "lat": 19.10698317256279,
+    "lon": -96.10121487033705,
+    "description": "pool801",
+    "captured": true
+  },
+  {
+    "lat": 19.106904604797084,
+    "lon": -96.10124236297708,
+    "description": "pool802",
+    "captured": true
+  },
+  {
+    "lat": 19.106664599099112,
+    "lon": -96.10119558372027,
+    "description": "pool803",
+    "captured": true
+  },
+  {
+    "lat": 19.10901901110297,
+    "lon": -96.10510355499066,
+    "description": "pool804",
+    "captured": true
+  },
+  {
+    "lat": 19.10879310606157,
+    "lon": -96.10547570584946,
+    "description": "pool805",
+    "captured": true
+  },
+  {
+    "lat": 19.105410098922476,
+    "lon": -96.10081186246741,
+    "description": "pool806",
+    "captured": true
+  },
+  {
+    "lat": 19.10555117802232,
+    "lon": -96.10116297248285,
+    "description": "pool807",
+    "captured": true
+  },
+  {
+    "lat": 19.104786772524495,
+    "lon": -96.10288606940777,
+    "description": "pool808",
+    "captured": true
+  },
+  {
+    "lat": 19.10315622558039,
+    "lon": -96.10326426370962,
+    "description": "pool809",
+    "captured": true
+  },
+  {
+    "lat": 19.103451978120958,
+    "lon": -96.10215437397191,
+    "description": "pool810",
+    "captured": true
+  },
+  {
+    "lat": 19.103281533072316,
+    "lon": -96.10213895127141,
+    "description": "pool811",
+    "captured": true
+  },
+  {
+    "lat": 19.10357631803193,
+    "lon": -96.10056353465606,
+    "description": "pool812",
+    "captured": true
+  },
+  {
+    "lat": 19.103755423272208,
+    "lon": -96.10019663853689,
+    "description": "pool813",
+    "captured": true
+  },
+  {
+    "lat": 19.103800900644522,
+    "lon": -96.09971046660468,
+    "description": "pool814",
+    "captured": true
+  },
+  {
+    "lat": 19.10359877476705,
+    "lon": -96.09967962120368,
+    "description": "pool815",
+    "captured": true
+  },
+  {
+    "lat": 19.102647283915065,
+    "lon": -96.10129508209137,
+    "description": "pool816",
+    "captured": true
+  },
+  {
+    "lat": 19.102478743855567,
+    "lon": -96.10239959272772,
+    "description": "pool817",
+    "captured": true
+  },
+  {
+    "lat": 19.102461433447004,
+    "lon": -96.10293913338133,
+    "description": "pool818",
+    "captured": true
+  },
+  {
+    "lat": 19.103156015162984,
+    "lon": -96.10326397622036,
+    "description": "pool819",
+    "captured": true
+  },
+  {
+    "lat": 19.10296639386757,
+    "lon": -96.10520836984443,
+    "description": "pool820",
+    "captured": true
+  },
+  {
+    "lat": 19.100236409147396,
+    "lon": -96.1057260204567,
+    "description": "pool821",
+    "captured": true
+  },
+  {
+    "lat": 19.10028614180827,
+    "lon": -96.10504342427834,
+    "description": "pool822",
+    "captured": true
+  },
+  {
+    "lat": 19.101490817006788,
+    "lon": -96.10366279675729,
+    "description": "pool823",
+    "captured": true
+  },
+  {
+    "lat": 19.101917927097727,
+    "lon": -96.10218078741464,
+    "description": "pool824",
+    "captured": true
+  },
+  {
+    "lat": 19.101883711059866,
+    "lon": -96.10196486960764,
+    "description": "pool825",
+    "captured": true
+  },
+  {
+    "lat": 19.102035782285082,
+    "lon": -96.10188708555295,
+    "description": "pool826",
+    "captured": true
+  },
+  {
+    "lat": 19.100159046329487,
+    "lon": -96.1071827703024,
+    "description": "pool827",
+    "captured": true
+  },
+  {
+    "lat": 19.10005766437821,
+    "lon": -96.10737857154352,
+    "description": "pool828",
+    "captured": true
+  },
+  {
+    "lat": 19.100155244507427,
+    "lon": -96.10753816296607,
+    "description": "pool829",
+    "captured": true
+  },
+  {
+    "lat": 19.10014637358897,
+    "lon": -96.1077500574599,
+    "description": "pool830",
+    "captured": true
+  },
+  {
+    "lat": 19.100168787371206,
+    "lon": -96.10807640761136,
+    "description": "pool831",
+    "captured": true
+  },
+  {
+    "lat": 19.099964687697987,
+    "lon": -96.10855277989415,
+    "description": "pool832",
+    "captured": true
+  },
+  {
+    "lat": 19.10066697182176,
+    "lon": -96.10833434242475,
+    "description": "pool833",
+    "captured": true
+  },
+  {
+    "lat": 19.10089453571116,
+    "lon": -96.10756243453069,
+    "description": "pool834",
+    "captured": true
+  },
+  {
+    "lat": 19.10095783157064,
+    "lon": -96.10734393995959,
+    "description": "pool835",
+    "captured": true
+  },
+  {
+    "lat": 19.10115224013046,
+    "lon": -96.10687983835233,
+    "description": "pool836",
+    "captured": true
+  },
+  {
+    "lat": 19.10145159478873,
+    "lon": -96.10979581406231,
+    "description": "pool837",
+    "captured": true
+  },
+  {
+    "lat": 19.100904020277024,
+    "lon": -96.11196158013703,
+    "description": "pool838",
+    "captured": true
+  },
+  {
+    "lat": 19.101533445339726,
+    "lon": -96.11222988933238,
+    "description": "pool839",
+    "captured": true
+  },
+  {
+    "lat": 19.10233418971702,
+    "lon": -96.10717325150813,
+    "description": "pool840",
+    "captured": true
+  },
+  {
+    "lat": 19.102112823243882,
+    "lon": -96.1121404290473,
+    "description": "pool841",
+    "captured": true
+  },
+  {
+    "lat": 19.102901649622126,
+    "lon": -96.11270852723241,
+    "description": "pool842",
+    "captured": true
+  },
+  {
+    "lat": 19.103065915404926,
+    "lon": -96.11277870067131,
+    "description": "pool843",
+    "captured": true
+  },
+  {
+    "lat": 19.103288645400504,
+    "lon": -96.11282857549179,
+    "description": "pool844",
+    "captured": true
+  },
+  {
+    "lat": 19.103401430614785,
+    "lon": -96.11282119941764,
+    "description": "pool845",
+    "captured": true
+  },
+  {
+    "lat": 19.1034692284313,
+    "lon": -96.1128889251894,
+    "description": "pool846",
+    "captured": true
+  },
+  {
+    "lat": 19.103793908215675,
+    "lon": -96.11289303863866,
+    "description": "pool847",
+    "captured": true
+  },
+  {
+    "lat": 19.103908165996078,
+    "lon": -96.1122688116171,
+    "description": "pool848",
+    "captured": true
+  },
+  {
+    "lat": 19.105566503693396,
+    "lon": -96.10787783755319,
+    "description": "pool849",
+    "captured": true
+  },
+  {
+    "lat": 19.107941897433967,
+    "lon": -96.10937619982356,
+    "description": "pool850",
+    "captured": true
+  },
+  {
+    "lat": 19.10777877853909,
+    "lon": -96.10890911484762,
+    "description": "pool851",
+    "captured": true
+  },
+  {
+    "lat": 19.107600883096524,
+    "lon": -96.10842432690086,
+    "description": "pool852",
+    "captured": true
+  },
+  {
+    "lat": 19.107731009102547,
+    "lon": -96.10796523182934,
+    "description": "pool853",
+    "captured": true
+  },
+  {
+    "lat": 19.107699647103715,
+    "lon": -96.10805626901424,
+    "description": "pool854",
+    "captured": true
+  },
+  {
+    "lat": 19.10749677618323,
+    "lon": -96.1075195559984,
+    "description": "pool855",
+    "captured": true
+  },
+  {
+    "lat": 19.107600054400994,
+    "lon": -96.10750010998473,
+    "description": "pool856",
+    "captured": true
+  },
+  {
+    "lat": 19.107293657779753,
+    "lon": -96.10718853873004,
+    "description": "pool857",
+    "captured": true
+  },
+  {
+    "lat": 19.107707510863694,
+    "lon": -96.10713641611446,
+    "description": "pool858",
+    "captured": true
+  },
+  {
+    "lat": 19.109577220088102,
+    "lon": -96.1057693781535,
+    "description": "pool859",
+    "captured": true
+  },
+  {
+    "lat": 19.109550338675255,
+    "lon": -96.1059817982514,
+    "description": "pool860",
+    "captured": true
+  },
+  {
+    "lat": 19.10944191693249,
+    "lon": -96.10597231521133,
+    "description": "pool861",
+    "captured": true
+  },
+  {
+    "lat": 19.1094517734575,
+    "lon": -96.10584903569011,
+    "description": "pool862",
+    "captured": true
+  },
+  {
+    "lat": 19.110112318451925,
+    "lon": -96.10605188672235,
+    "description": "pool863",
+    "captured": true
+  },
+  {
+    "lat": 19.10986065584352,
+    "lon": -96.10589718618661,
+    "description": "pool864",
+    "captured": true
+  },
+  {
+    "lat": 19.109998542888967,
+    "lon": -96.10607261978384,
+    "description": "pool865",
+    "captured": true
+  },
+  {
+    "lat": 19.110063423159865,
+    "lon": -96.10646115131928,
+    "description": "pool866",
+    "captured": true
+  },
+  {
+    "lat": 19.109630507769953,
+    "lon": -96.10661835874811,
+    "description": "pool867",
+    "captured": true
+  },
+  {
+    "lat": 19.109547175402806,
+    "lon": -96.10642111151417,
+    "description": "pool868",
+    "captured": true
+  },
+  {
+    "lat": 19.109658337369122,
+    "lon": -96.10716907635928,
+    "description": "pool869",
+    "captured": true
+  },
+  {
+    "lat": 19.10957093339242,
+    "lon": -96.10723606009641,
+    "description": "pool870",
+    "captured": true
+  },
+  {
+    "lat": 19.109571590894763,
+    "lon": -96.10723652124376,
+    "description": "pool871",
+    "captured": true
+  },
+  {
+    "lat": 19.1096574879064,
+    "lon": -96.10716953750664,
+    "description": "pool872",
+    "captured": true
+  },
+  {
+    "lat": 19.108637960922348,
+    "lon": -96.10800958941635,
+    "description": "pool873",
+    "captured": true
+  },
+  {
+    "lat": 19.108106621541783,
+    "lon": -96.10780433835473,
+    "description": "pool874",
+    "captured": true
+  },
+  {
+    "lat": 19.10847782333279,
+    "lon": -96.10835389156439,
+    "description": "pool875",
+    "captured": true
+  },
+  {
+    "lat": 19.10842460049269,
+    "lon": -96.10843167561909,
+    "description": "pool876",
+    "captured": true
+  },
+  {
+    "lat": 19.10922792878613,
+    "lon": -96.1089093133842,
+    "description": "pool877",
+    "captured": true
+  },
+  {
+    "lat": 19.110239619955777,
+    "lon": -96.10945945298111,
+    "description": "pool878",
+    "captured": true
+  },
+  {
+    "lat": 19.109402213010114,
+    "lon": -96.1094767030025,
+    "description": "pool879",
+    "captured": true
+  },
+  {
+    "lat": 19.10934962406932,
+    "lon": -96.10948072631567,
+    "description": "pool880",
+    "captured": true
+  },
+  {
+    "lat": 19.108866316281013,
+    "lon": -96.10953989431198,
+    "description": "pool881",
+    "captured": true
+  },
+  {
+    "lat": 19.108697159867255,
+    "lon": -96.10948751474965,
+    "description": "pool882",
+    "captured": true
+  },
+  {
+    "lat": 19.109162703133215,
+    "lon": -96.11000749286082,
+    "description": "pool883",
+    "captured": true
+  },
+  {
+    "lat": 19.09881513434857,
+    "lon": -96.1115534174213,
+    "description": "pool884",
+    "captured": true
+  },
+  {
+    "lat": 19.09860358491536,
+    "lon": -96.11251870437633,
+    "description": "pool885",
+    "captured": true
+  },
+  {
+    "lat": 19.09863256526901,
+    "lon": -96.11336292995057,
+    "description": "pool886",
+    "captured": true
+  },
+  {
+    "lat": 19.098155375765327,
+    "lon": -96.11368661763144,
+    "description": "pool887",
+    "captured": true
+  },
+  {
+    "lat": 19.09803069360715,
+    "lon": -96.11357610010367,
+    "description": "pool888",
+    "captured": true
+  },
+  {
+    "lat": 19.097293826530773,
+    "lon": -96.11433197594586,
+    "description": "pool889",
+    "captured": true
+  },
+  {
+    "lat": 19.095572731891515,
+    "lon": -96.11539022225786,
+    "description": "pool890",
+    "captured": true
+  },
+  {
+    "lat": 19.09504433916559,
+    "lon": -96.1159671061452,
+    "description": "pool891",
+    "captured": true
+  },
+  {
+    "lat": 19.09454884743054,
+    "lon": -96.11645636657833,
+    "description": "pool892",
+    "captured": true
+  },
+  {
+    "lat": 19.09430263984181,
+    "lon": -96.11669427945178,
+    "description": "pool893",
+    "captured": true
+  },
+  {
+    "lat": 19.09407069527229,
+    "lon": -96.1169104932078,
+    "description": "pool894",
+    "captured": true
+  },
+  {
+    "lat": 19.093878539055634,
+    "lon": -96.11686822965937,
+    "description": "pool895",
+    "captured": true
+  },
+  {
+    "lat": 19.09376324521587,
+    "lon": -96.11704924524578,
+    "description": "pool896",
+    "captured": true
+  },
+  {
+    "lat": 19.09368013672434,
+    "lon": -96.11715519598445,
+    "description": "pool897",
+    "captured": true
+  },
+  {
+    "lat": 19.09414219524476,
+    "lon": -96.11644601871933,
+    "description": "pool898",
+    "captured": true
+  },
+  {
+    "lat": 19.093607964078295,
+    "lon": -96.12097775499727,
+    "description": "pool899",
+    "captured": true
+  },
+  {
+    "lat": 19.094466222353972,
+    "lon": -96.12251890114992,
+    "description": "pool900",
+    "captured": true
+  },
+  {
+    "lat": 19.09792461517278,
+    "lon": -96.11639216260757,
+    "description": "pool901",
+    "captured": true
+  },
+  {
+    "lat": 19.09845529433885,
+    "lon": -96.11746722104846,
+    "description": "pool902",
+    "captured": true
+  },
+  {
+    "lat": 19.09875792120991,
+    "lon": -96.11712432766811,
+    "description": "pool903",
+    "captured": true
+  },
+  {
+    "lat": 19.098687307755657,
+    "lon": -96.11641295982932,
+    "description": "pool904",
+    "captured": true
+  },
+  {
+    "lat": 19.099423609146477,
+    "lon": -96.11714537103062,
+    "description": "pool905",
+    "captured": true
+  },
+  {
+    "lat": 19.099747398781968,
+    "lon": -96.11705685814293,
+    "description": "pool906",
+    "captured": true
+  },
+  {
+    "lat": 19.098922635451743,
+    "lon": -96.11810194936672,
+    "description": "pool907",
+    "captured": true
+  },
+  {
+    "lat": 19.099312770123046,
+    "lon": -96.11856423380561,
+    "description": "pool908",
+    "captured": true
+  },
+  {
+    "lat": 19.099027935732842,
+    "lon": -96.1185753977618,
+    "description": "pool909",
+    "captured": true
+  },
+  {
+    "lat": 19.098874787792756,
+    "lon": -96.11903547815747,
+    "description": "pool910",
+    "captured": true
+  },
+  {
+    "lat": 19.09905791020611,
+    "lon": -96.11904285423164,
+    "description": "pool911",
+    "captured": true
+  },
+  {
+    "lat": 19.099483464508307,
+    "lon": -96.11893039661518,
+    "description": "pool912",
+    "captured": true
+  },
+  {
+    "lat": 19.09945976236941,
+    "lon": -96.11946989961861,
+    "description": "pool913",
+    "captured": true
+  },
+  {
+    "lat": 19.09918183652349,
+    "lon": -96.11994970425184,
+    "description": "pool914",
+    "captured": true
+  },
+  {
+    "lat": 19.099128475988653,
+    "lon": -96.12041711271785,
+    "description": "pool915",
+    "captured": true
+  },
+  {
+    "lat": 19.09947580973461,
+    "lon": -96.12042847663405,
+    "description": "pool916",
+    "captured": true
+  },
+  {
+    "lat": 19.09967254424594,
+    "lon": -96.12041583844382,
+    "description": "pool917",
+    "captured": true
+  },
+  {
+    "lat": 19.098994570232296,
+    "lon": -96.12136837800138,
+    "description": "pool918",
+    "captured": true
+  },
+  {
+    "lat": 19.099214443673045,
+    "lon": -96.12136569579259,
+    "description": "pool919",
+    "captured": true
+  },
+  {
+    "lat": 19.099685595545807,
+    "lon": -96.1214134046235,
+    "description": "pool920",
+    "captured": true
+  },
+  {
+    "lat": 19.099827273870208,
+    "lon": -96.12189191659755,
+    "description": "pool921",
+    "captured": true
+  },
+  {
+    "lat": 19.098951554568927,
+    "lon": -96.12180063025272,
+    "description": "pool922",
+    "captured": true
+  },
+  {
+    "lat": 19.09912475530337,
+    "lon": -96.12231873056827,
+    "description": "pool923",
+    "captured": true
+  },
+  {
+    "lat": 19.100732065760155,
+    "lon": -96.12325943868458,
+    "description": "pool924",
+    "captured": true
+  },
+  {
+    "lat": 19.100734875271545,
+    "lon": -96.12325793368753,
+    "description": "pool925",
+    "captured": true
+  },
+  {
+    "lat": 19.101147009703478,
+    "lon": -96.12338236706137,
+    "description": "pool926",
+    "captured": true
+  },
+  {
+    "lat": 19.101147905796545,
+    "lon": -96.12286174813991,
+    "description": "pool927",
+    "captured": true
+  },
+  {
+    "lat": 19.101878368993937,
+    "lon": -96.12357136460156,
+    "description": "pool928",
+    "captured": true
+  },
+  {
+    "lat": 19.10192131950296,
+    "lon": -96.12357854143053,
+    "description": "pool929",
+    "captured": true
+  },
+  {
+    "lat": 19.10161464451633,
+    "lon": -96.12274208432925,
+    "description": "pool930",
+    "captured": true
+  },
+  {
+    "lat": 19.102082900979234,
+    "lon": -96.12241772363117,
+    "description": "pool931",
+    "captured": true
+  },
+  {
+    "lat": 19.10205049975072,
+    "lon": -96.12278772903628,
+    "description": "pool932",
+    "captured": true
+  },
+  {
+    "lat": 19.102513044941563,
+    "lon": -96.12320110002808,
+    "description": "pool933",
+    "captured": true
+  },
+  {
+    "lat": 19.102500372381346,
+    "lon": -96.12310521106411,
+    "description": "pool934",
+    "captured": true
+  },
+  {
+    "lat": 19.102404345212758,
+    "lon": -96.12272560767964,
+    "description": "pool935",
+    "captured": true
+  },
+  {
+    "lat": 19.102495587677527,
+    "lon": -96.12271689050108,
+    "description": "pool936",
+    "captured": true
+  },
+  {
+    "lat": 19.10278904809569,
+    "lon": -96.12251204056521,
+    "description": "pool937",
+    "captured": true
+  },
+  {
+    "lat": 19.10282179694649,
+    "lon": -96.12465072442869,
+    "description": "pool938",
+    "captured": true
+  },
+  {
+    "lat": 19.103366880067465,
+    "lon": -96.12601532621939,
+    "description": "pool939",
+    "captured": true
+  },
+  {
+    "lat": 19.10394485109499,
+    "lon": -96.12578394003513,
+    "description": "pool940",
+    "captured": true
+  },
+  {
+    "lat": 19.10329784595955,
+    "lon": -96.1249025140081,
+    "description": "pool941",
+    "captured": true
+  },
+  {
+    "lat": 19.103480949112505,
+    "lon": -96.1249272341968,
+    "description": "pool942",
+    "captured": true
+  },
+  {
+    "lat": 19.103326267106954,
+    "lon": -96.12405691906457,
+    "description": "pool943",
+    "captured": true
+  },
+  {
+    "lat": 19.103816205600005,
+    "lon": -96.12278833932,
+    "description": "pool944",
+    "captured": true
+  },
+  {
+    "lat": 19.103822541831274,
+    "lon": -96.12237527913355,
+    "description": "pool945",
+    "captured": true
+  },
+  {
+    "lat": 19.1041253862419,
+    "lon": -96.12200484832043,
+    "description": "pool946",
+    "captured": true
+  },
+  {
+    "lat": 19.103661528336144,
+    "lon": -96.12185867744796,
+    "description": "pool947",
+    "captured": true
+  },
+  {
+    "lat": 19.10369845030797,
+    "lon": -96.12133078178637,
+    "description": "pool948",
+    "captured": true
+  },
+  {
+    "lat": 19.10410176120928,
+    "lon": -96.12075415708384,
+    "description": "pool949",
+    "captured": true
+  },
+  {
+    "lat": 19.10369811826291,
+    "lon": -96.1213308988387,
+    "description": "pool950",
+    "captured": true
+  },
+  {
+    "lat": 19.103303068303305,
+    "lon": -96.12113548075111,
+    "description": "pool951",
+    "captured": true
+  },
+  {
+    "lat": 19.103234648253117,
+    "lon": -96.12076839032619,
+    "description": "pool952",
+    "captured": true
+  },
+  {
+    "lat": 19.10189736599872,
+    "lon": -96.12078500164517,
+    "description": "pool953",
+    "captured": true
+  },
+  {
+    "lat": 19.1027876789921,
+    "lon": -96.12250862680935,
+    "description": "pool954",
+    "captured": true
+  },
+  {
+    "lat": 19.10336832606622,
+    "lon": -96.12601634979937,
+    "description": "pool955",
+    "captured": true
+  },
+  {
+    "lat": 19.103946485155717,
+    "lon": -96.12578254284165,
+    "description": "pool956",
+    "captured": true
+  },
+  {
+    "lat": 19.10329584988759,
+    "lon": -96.1249025737151,
+    "description": "pool957",
+    "captured": true
+  },
+  {
+    "lat": 19.10332455037678,
+    "lon": -96.12405220199679,
+    "description": "pool958",
+    "captured": true
+  },
+  {
+    "lat": 19.10428756789805,
+    "lon": -96.12444036840527,
+    "description": "pool959",
+    "captured": true
+  },
+  {
+    "lat": 19.103204228209727,
+    "lon": -96.12320692009979,
+    "description": "pool960",
+    "captured": true
+  },
+  {
+    "lat": 19.103815722655195,
+    "lon": -96.12278285276125,
+    "description": "pool961",
+    "captured": true
+  },
+  {
+    "lat": 19.103822435554758,
+    "lon": -96.12237517960806,
+    "description": "pool962",
+    "captured": true
+  },
+  {
+    "lat": 19.104097208702424,
+    "lon": -96.12075345143539,
+    "description": "pool963",
+    "captured": true
+  },
+  {
+    "lat": 19.103697360300277,
+    "lon": -96.12132761977763,
+    "description": "pool964",
+    "captured": true
+  },
+  {
+    "lat": 19.10366631274837,
+    "lon": -96.12185802659566,
+    "description": "pool965",
+    "captured": true
+  },
+  {
+    "lat": 19.10412961824123,
+    "lon": -96.12200173556049,
+    "description": "pool966",
+    "captured": true
+  },
+  {
+    "lat": 19.104156068456977,
+    "lon": -96.12147433467595,
+    "description": "pool967",
+    "captured": true
+  },
+  {
+    "lat": 19.10577405301934,
+    "lon": -96.12543319419568,
+    "description": "pool968",
+    "captured": true
+  },
+  {
+    "lat": 19.10581022421906,
+    "lon": -96.12482840775617,
+    "description": "pool969",
+    "captured": true
+  },
+  {
+    "lat": 19.105724052508105,
+    "lon": -96.12483779548691,
+    "description": "pool970",
+    "captured": true
+  },
+  {
+    "lat": 19.105551346101127,
+    "lon": -96.12482827812494,
+    "description": "pool971",
+    "captured": true
+  },
+  {
+    "lat": 19.105538673773676,
+    "lon": -96.12478938609759,
+    "description": "pool972",
+    "captured": true
+  },
+  {
+    "lat": 19.105270690587787,
+    "lon": -96.12483537924463,
+    "description": "pool973",
+    "captured": true
+  },
+  {
+    "lat": 19.105003688671072,
+    "lon": -96.12484546559301,
+    "description": "pool974",
+    "captured": true
+  },
+  {
+    "lat": 19.104839145210573,
+    "lon": -96.12477175686685,
+    "description": "pool975",
+    "captured": true
+  },
+  {
+    "lat": 19.105471584412037,
+    "lon": -96.12430962087186,
+    "description": "pool976",
+    "captured": true
+  },
+  {
+    "lat": 19.104655230392517,
+    "lon": -96.12383693984762,
+    "description": "pool977",
+    "captured": true
+  },
+  {
+    "lat": 19.10460580804223,
+    "lon": -96.12398244967407,
+    "description": "pool978",
+    "captured": true
+  },
+  {
+    "lat": 19.105596777029593,
+    "lon": -96.12347100285,
+    "description": "pool979",
+    "captured": true
+  },
+  {
+    "lat": 19.105475756296034,
+    "lon": -96.12341802922651,
+    "description": "pool980",
+    "captured": true
+  },
+  {
+    "lat": 19.10522008869165,
+    "lon": -96.1235002926283,
+    "description": "pool981",
+    "captured": true
+  },
+  {
+    "lat": 19.10458591664846,
+    "lon": -96.12335565522778,
+    "description": "pool982",
+    "captured": true
+  },
+  {
+    "lat": 19.104664485515542,
+    "lon": -96.12343612149127,
+    "description": "pool983",
+    "captured": true
+  },
+  {
+    "lat": 19.105135777083127,
+    "lon": -96.12244978939137,
+    "description": "pool984",
+    "captured": true
+  },
+  {
+    "lat": 19.104386464898862,
+    "lon": -96.1215180671814,
+    "description": "pool985",
+    "captured": true
+  },
+  {
+    "lat": 19.104533464861547,
+    "lon": -96.12145905858819,
+    "description": "pool986",
+    "captured": true
+  },
+  {
+    "lat": 19.104638645789162,
+    "lon": -96.12144900030525,
+    "description": "pool987",
+    "captured": true
+  },
+  {
+    "lat": 19.10467539573606,
+    "lon": -96.12155561810435,
+    "description": "pool988",
+    "captured": true
+  },
+  {
+    "lat": 19.10478503275185,
+    "lon": -96.1214567303389,
+    "description": "pool989",
+    "captured": true
+  },
+  {
+    "lat": 19.10533293421889,
+    "lon": -96.1210304683731,
+    "description": "pool990",
+    "captured": true
+  },
+  {
+    "lat": 19.10512114988284,
+    "lon": -96.12103450055243,
+    "description": "pool991",
+    "captured": true
+  },
+  {
+    "lat": 19.10480343892469,
+    "lon": -96.12109922735232,
+    "description": "pool992",
+    "captured": true
+  },
+  {
+    "lat": 19.106337220321578,
+    "lon": -96.12067563860991,
+    "description": "pool993",
+    "captured": true
+  },
+  {
+    "lat": 19.105965323280742,
+    "lon": -96.12092712237205,
+    "description": "pool994",
+    "captured": true
+  },
+  {
+    "lat": 19.106648377095542,
+    "lon": -96.12074217467892,
+    "description": "pool995",
+    "captured": true
+  },
+  {
+    "lat": 19.10647148667649,
+    "lon": -96.12120792711734,
+    "description": "pool996",
+    "captured": true
+  },
+  {
+    "lat": 19.10578413351208,
+    "lon": -96.12078227950549,
+    "description": "pool997",
+    "captured": true
+  },
+  {
+    "lat": 19.106014245312096,
+    "lon": -96.12154262935005,
+    "description": "pool998",
+    "captured": true
+  },
+  {
+    "lat": 19.105707294447107,
+    "lon": -96.12179928139636,
+    "description": "pool999",
+    "captured": true
+  },
+  {
+    "lat": 19.105846689853564,
+    "lon": -96.12209499491465,
+    "description": "pool1000",
+    "captured": true
+  },
+  {
+    "lat": 19.105775091318844,
+    "lon": -96.12243094161332,
+    "description": "pool1001",
+    "captured": true
+  },
+  {
+    "lat": 19.105927792584655,
+    "lon": -96.12266295269605,
+    "description": "pool1002",
+    "captured": true
+  },
+  {
+    "lat": 19.105906249676444,
+    "lon": -96.12290099872548,
+    "description": "pool1003",
+    "captured": true
+  },
+  {
+    "lat": 19.106329610314255,
+    "lon": -96.12284008393225,
+    "description": "pool1004",
+    "captured": true
+  },
+  {
+    "lat": 19.10635251134453,
+    "lon": -96.12227165031162,
+    "description": "pool1005",
+    "captured": true
+  },
+  {
+    "lat": 19.10600594996615,
+    "lon": -96.1239851300848,
+    "description": "pool1006",
+    "captured": true
+  },
+  {
+    "lat": 19.106178501147056,
+    "lon": -96.12425226761988,
+    "description": "pool1007",
+    "captured": true
+  },
+  {
+    "lat": 19.106128726464505,
+    "lon": -96.12445161760176,
+    "description": "pool1008",
+    "captured": true
+  },
+  {
+    "lat": 19.106673270878055,
+    "lon": -96.12558596277078,
+    "description": "pool1009",
+    "captured": true
+  },
+  {
+    "lat": 19.107071014625987,
+    "lon": -96.1256339586144,
+    "description": "pool1010",
+    "captured": true
+  },
+  {
+    "lat": 19.10721674498509,
+    "lon": -96.12521084015137,
+    "description": "pool1011",
+    "captured": true
+  },
+  {
+    "lat": 19.107281762567457,
+    "lon": -96.12444844904546,
+    "description": "pool1012",
+    "captured": true
+  },
+  {
+    "lat": 19.107670663394924,
+    "lon": -96.122707920635,
+    "description": "pool1013",
+    "captured": true
+  },
+  {
+    "lat": 19.10820297720349,
+    "lon": -96.1221391314728,
+    "description": "pool1014",
+    "captured": true
+  },
+  {
+    "lat": 19.108076527717422,
+    "lon": -96.12245145488605,
+    "description": "pool1015",
+    "captured": true
+  },
+  {
+    "lat": 19.107768111305024,
+    "lon": -96.1242369888592,
+    "description": "pool1016",
+    "captured": true
+  },
+  {
+    "lat": 19.107480034725185,
+    "lon": -96.1259447006831,
+    "description": "pool1017",
+    "captured": true
+  },
+  {
+    "lat": 19.199601569207587,
+    "lon": -96.1524128117643,
+    "description": "pool1018",
+    "captured": true
+  },
+  {
+    "lat": 19.199279712185938,
+    "lon": -96.15283286332676,
+    "description": "pool1019",
+    "captured": true
+  },
+  {
+    "lat": 19.199064045349637,
+    "lon": -96.1535359733759,
+    "description": "pool1020",
+    "captured": true
+  },
+  {
+    "lat": 19.201463999970564,
+    "lon": -96.15366626116614,
+    "description": "pool1021",
+    "captured": true
+  },
+  {
+    "lat": 19.20158556833961,
+    "lon": -96.15199097169761,
+    "description": "pool1022",
+    "captured": true
+  },
+  {
+    "lat": 19.20084775386178,
+    "lon": -96.15814497060946,
+    "description": "pool1023",
+    "captured": true
+  },
+  {
+    "lat": 19.201464662585696,
+    "lon": -96.15366506907526,
+    "description": "pool1024",
+    "captured": true
+  },
+  {
+    "lat": 19.20577496976217,
+    "lon": -96.15358952733627,
+    "description": "pool1025",
+    "captured": true
+  },
+  {
+    "lat": 19.203873084027162,
+    "lon": -96.1553958146255,
+    "description": "pool1026",
+    "captured": true
+  },
+  {
+    "lat": 19.199281308473356,
+    "lon": -96.15283331945086,
+    "description": "pool1027",
+    "captured": true
+  },
+  {
+    "lat": 19.20061570909322,
+    "lon": -96.13943944175931,
+    "description": "pool1028",
+    "captured": true
+  },
+  {
+    "lat": 19.16891341415415,
+    "lon": -96.11622616342876,
+    "description": "pool1029",
+    "captured": true
+  },
+  {
+    "lat": 19.168080102736695,
+    "lon": -96.11596723338437,
+    "description": "pool1030",
+    "captured": true
+  },
+  {
+    "lat": 19.167999533433857,
+    "lon": -96.11525329620542,
+    "description": "pool1031",
+    "captured": true
+  },
+  {
+    "lat": 19.168347776168844,
+    "lon": -96.1150247196692,
+    "description": "pool1032",
+    "captured": true
+  },
+  {
+    "lat": 19.168011159059887,
+    "lon": -96.1139115286397,
+    "description": "pool1033",
+    "captured": true
+  },
+  {
+    "lat": 19.167347860358817,
+    "lon": -96.11352020839159,
+    "description": "pool1034",
+    "captured": true
+  },
+  {
+    "lat": 19.166841957915548,
+    "lon": -96.1132790961068,
+    "description": "pool1035",
+    "captured": true
+  },
+  {
+    "lat": 19.16703381039765,
+    "lon": -96.11302860676345,
+    "description": "pool1036",
+    "captured": true
+  },
+  {
+    "lat": 19.16761791247317,
+    "lon": -96.11329401791048,
+    "description": "pool1037",
+    "captured": true
+  },
+  {
+    "lat": 19.16764939559408,
+    "lon": -96.11291902133989,
+    "description": "pool1038",
+    "captured": true
+  },
+  {
+    "lat": 19.16814171675429,
+    "lon": -96.11303616875965,
+    "description": "pool1039",
+    "captured": true
+  },
+  {
+    "lat": 19.16747130200802,
+    "lon": -96.11213920940541,
+    "description": "pool1040",
+    "captured": true
+  },
+  {
+    "lat": 19.166394919566823,
+    "lon": -96.11234481700907,
+    "description": "pool1041",
+    "captured": true
+  },
+  {
+    "lat": 19.167438227602897,
+    "lon": -96.11030697485756,
+    "description": "pool1042",
+    "captured": true
+  },
+  {
+    "lat": 19.166675567432506,
+    "lon": -96.11104604291481,
+    "description": "pool1043",
+    "captured": true
+  },
+  {
+    "lat": 19.16656270450735,
+    "lon": -96.11108113016456,
+    "description": "pool1044",
+    "captured": true
+  },
+  {
+    "lat": 19.166432824471162,
+    "lon": -96.11131463090493,
+    "description": "pool1045",
+    "captured": true
+  },
+  {
+    "lat": 19.16570979332323,
+    "lon": -96.11143504136643,
+    "description": "pool1046",
+    "captured": true
+  },
+  {
+    "lat": 19.166502864715138,
+    "lon": -96.10957923832338,
+    "description": "pool1047",
+    "captured": true
+  },
+  {
+    "lat": 19.166587016928368,
+    "lon": -96.11001228661266,
+    "description": "pool1048",
+    "captured": true
+  },
+  {
+    "lat": 19.167105549436872,
+    "lon": -96.10929832759369,
+    "description": "pool1049",
+    "captured": true
+  },
+  {
+    "lat": 19.16723496376421,
+    "lon": -96.10873803039802,
+    "description": "pool1050",
+    "captured": true
+  },
+  {
+    "lat": 19.1667732354162,
+    "lon": -96.10861463821341,
+    "description": "pool1051",
+    "captured": true
+  },
+  {
+    "lat": 19.16667079722643,
+    "lon": -96.10864813008331,
+    "description": "pool1052",
+    "captured": true
+  },
+  {
+    "lat": 19.16449037807963,
+    "lon": -96.10968181206574,
+    "description": "pool1053",
+    "captured": true
+  },
+  {
+    "lat": 19.164940338343342,
+    "lon": -96.10890858326016,
+    "description": "pool1054",
+    "captured": true
+  },
+  {
+    "lat": 19.165253766577784,
+    "lon": -96.10904332704443,
+    "description": "pool1055",
+    "captured": true
+  },
+  {
+    "lat": 19.16625062207461,
+    "lon": -96.10778404294508,
+    "description": "pool1056",
+    "captured": true
+  },
+  {
+    "lat": 19.16607630745039,
+    "lon": -96.10724193787526,
+    "description": "pool1057",
+    "captured": true
+  },
+  {
+    "lat": 19.165530729530584,
+    "lon": -96.10666115673368,
+    "description": "pool1058",
+    "captured": true
+  },
+  {
+    "lat": 19.165279151375827,
+    "lon": -96.10672973532353,
+    "description": "pool1059",
+    "captured": true
+  },
+  {
+    "lat": 19.18070018157382,
+    "lon": -96.13722901240325,
+    "description": "pool1060",
+    "captured": true
+  },
+  {
+    "lat": 19.18443335260745,
+    "lon": -96.142459731575,
+    "description": "pool1061",
+    "captured": true
+  },
+  {
+    "lat": 19.18359984022355,
+    "lon": -96.14029406575125,
+    "description": "pool1062",
+    "captured": true
+  },
+  {
+    "lat": 19.186950568740112,
+    "lon": -96.14254262012773,
+    "description": "pool1063",
+    "captured": true
+  },
+  {
+    "lat": 19.189342903115584,
+    "lon": -96.1415671691747,
+    "description": "pool1064",
+    "captured": true
+  },
+  {
+    "lat": 19.189649843999675,
+    "lon": -96.14250875266795,
+    "description": "pool1065",
+    "captured": true
+  },
+  {
+    "lat": 19.189582386895395,
+    "lon": -96.14460140299282,
+    "description": "pool1066",
+    "captured": true
+  },
+  {
+    "lat": 19.19171682639475,
+    "lon": -96.14443352183481,
+    "description": "pool1067",
+    "captured": true
+  },
+  {
+    "lat": 19.191612334243338,
+    "lon": -96.14443754514824,
+    "description": "pool1068",
+    "captured": true
+  },
+  {
+    "lat": 19.190548640927027,
+    "lon": -96.1507681982894,
+    "description": "pool1069",
+    "captured": true
+  },
+  {
+    "lat": 19.193109081370856,
+    "lon": -96.14885466735221,
+    "description": "pool1070",
+    "captured": true
+  },
+  {
+    "lat": 19.191828036326022,
+    "lon": -96.15031612172174,
+    "description": "pool1071",
+    "captured": true
+  },
+  {
+    "lat": 19.191876799274375,
+    "lon": -96.15054947389989,
+    "description": "pool1072",
+    "captured": true
+  },
+  {
+    "lat": 19.191931062731317,
+    "lon": -96.1508602694497,
+    "description": "pool1073",
+    "captured": true
+  },
+  {
+    "lat": 19.19199819090016,
+    "lon": -96.15081131913647,
+    "description": "pool1074",
+    "captured": true
+  },
+  {
+    "lat": 19.192325161111352,
+    "lon": -96.15079660241283,
+    "description": "pool1075",
+    "captured": true
+  },
+  {
+    "lat": 19.19436344553602,
+    "lon": -96.14764491989742,
+    "description": "pool1076",
+    "captured": true
+  },
+  {
+    "lat": 19.195712646108927,
+    "lon": -96.14631511979904,
+    "description": "pool1077",
+    "captured": true
+  },
+  {
+    "lat": 19.19560444948577,
+    "lon": -96.14703659215127,
+    "description": "pool1078",
+    "captured": true
+  },
+  {
+    "lat": 19.195570234147823,
+    "lon": -96.147351294385,
+    "description": "pool1079",
+    "captured": true
+  },
+  {
+    "lat": 19.19491736181394,
+    "lon": -96.14771470516628,
+    "description": "pool1080",
+    "captured": true
+  },
+  {
+    "lat": 19.19525669923517,
+    "lon": -96.14776211223062,
+    "description": "pool1081",
+    "captured": true
+  },
+  {
+    "lat": 19.19446459914889,
+    "lon": -96.14879187284596,
+    "description": "pool1082",
+    "captured": true
+  },
+  {
+    "lat": 19.19446050662013,
+    "lon": -96.14879134511357,
+    "description": "pool1083",
+    "captured": true
+  },
+  {
+    "lat": 19.197198517843617,
+    "lon": -96.1439298197342,
+    "description": "pool1084",
+    "captured": true
+  },
+  {
+    "lat": 19.19776535729138,
+    "lon": -96.14133901134632,
+    "description": "pool1085",
+    "captured": true
+  },
+  {
+    "lat": 19.18059537266823,
+    "lon": -96.1300368847274,
+    "description": "pool1086",
+    "captured": true
+  },
+  {
+    "lat": 19.181317149895502,
+    "lon": -96.12985359303131,
+    "description": "pool1087",
+    "captured": true
+  },
+  {
+    "lat": 19.182141308483775,
+    "lon": -96.1272338941982,
+    "description": "pool1088",
+    "captured": true
+  },
+  {
+    "lat": 19.18283986888508,
+    "lon": -96.12555246805725,
+    "description": "pool1089",
+    "captured": true
+  },
+  {
+    "lat": 19.18301323652562,
+    "lon": -96.12536505175788,
+    "description": "pool1090",
+    "captured": true
+  },
+  {
+    "lat": 19.184751746057874,
+    "lon": -96.12513739881298,
+    "description": "pool1091",
+    "captured": true
+  },
+  {
+    "lat": 19.184848666496965,
+    "lon": -96.12542600583295,
+    "description": "pool1092",
+    "captured": true
+  },
+  {
+    "lat": 19.1848360002568,
+    "lon": -96.12560906658666,
+    "description": "pool1093",
+    "captured": true
+  },
+  {
+    "lat": 19.184452643478675,
+    "lon": -96.12603060015616,
+    "description": "pool1094",
+    "captured": true
+  },
+  {
+    "lat": 19.184352579914158,
+    "lon": -96.1259575099651,
+    "description": "pool1095",
+    "captured": true
+  },
+  {
+    "lat": 19.185698475978498,
+    "lon": -96.12472680783236,
+    "description": "pool1096",
+    "captured": true
+  },
+  {
+    "lat": 19.185933454002797,
+    "lon": -96.12501707070005,
+    "description": "pool1097",
+    "captured": true
+  },
+  {
+    "lat": 19.181405268700626,
+    "lon": -96.1242776873129,
+    "description": "pool1098",
+    "captured": true
+  },
+  {
+    "lat": 19.180792056056276,
+    "lon": -96.12557725067062,
+    "description": "pool1099",
+    "captured": true
+  },
+  {
+    "lat": 19.180615589198382,
+    "lon": -96.12616707557316,
+    "description": "pool1100",
+    "captured": true
+  },
+  {
+    "lat": 19.180416410341852,
+    "lon": -96.12607009080165,
+    "description": "pool1101",
+    "captured": true
+  },
+  {
+    "lat": 19.181024225241266,
+    "lon": -96.12662106425142,
+    "description": "pool1102",
+    "captured": true
+  },
+  {
+    "lat": 19.181411607412965,
+    "lon": -96.12674826341289,
+    "description": "pool1103",
+    "captured": true
+  },
+  {
+    "lat": 19.18133180841825,
+    "lon": -96.1267656977704,
+    "description": "pool1104",
+    "captured": true
+  },
+  {
+    "lat": 19.180794400567212,
+    "lon": -96.12557970855093,
+    "description": "pool1105",
+    "captured": true
+  },
+  {
+    "lat": 19.17944158587902,
+    "lon": -96.12552426915344,
+    "description": "pool1106",
+    "captured": true
+  },
+  {
+    "lat": 19.179335001376106,
+    "lon": -96.1251923627424,
+    "description": "pool1107",
+    "captured": true
+  },
+  {
+    "lat": 19.17907315446598,
+    "lon": -96.13083648806939,
+    "description": "pool1108",
+    "captured": true
+  },
+  {
+    "lat": 19.179611056540242,
+    "lon": -96.1282905307122,
+    "description": "pool1109",
+    "captured": true
+  },
+  {
+    "lat": 19.179705955059585,
+    "lon": -96.12859355238729,
+    "description": "pool1110",
+    "captured": true
+  },
+  {
+    "lat": 19.179342302279444,
+    "lon": -96.12754017029634,
+    "description": "pool1111",
+    "captured": true
+  },
+  {
+    "lat": 19.18102298379491,
+    "lon": -96.1266196831292,
+    "description": "pool1112",
+    "captured": true
+  },
+  {
+    "lat": 19.18141363875126,
+    "lon": -96.12674596562556,
+    "description": "pool1113",
+    "captured": true
+  },
+  {
+    "lat": 19.18133637305949,
+    "lon": -96.12676071777422,
+    "description": "pool1114",
+    "captured": true
+  },
+  {
+    "lat": 19.180617003760815,
+    "lon": -96.12616599864035,
+    "description": "pool1115",
+    "captured": true
+  },
+  {
+    "lat": 19.18042058013806,
+    "lon": -96.12607115688893,
+    "description": "pool1116",
+    "captured": true
+  },
+  {
+    "lat": 19.18079461842881,
+    "lon": -96.12557951355235,
+    "description": "pool1117",
+    "captured": true
+  },
+  {
+    "lat": 19.178166202090985,
+    "lon": -96.1241699144961,
+    "description": "pool1118",
+    "captured": true
+  },
+  {
+    "lat": 19.177393654671256,
+    "lon": -96.12534510155359,
+    "description": "pool1119",
+    "captured": true
+  },
+  {
+    "lat": 19.177031988384027,
+    "lon": -96.1262009610166,
+    "description": "pool1120",
+    "captured": true
+  },
+  {
+    "lat": 19.176485002087613,
+    "lon": -96.12821148504474,
+    "description": "pool1121",
+    "captured": true
+  },
+  {
+    "lat": 19.176557307098435,
+    "lon": -96.1279483346427,
+    "description": "pool1122",
+    "captured": true
+  },
+  {
+    "lat": 19.1768935345016,
+    "lon": -96.12783707477175,
+    "description": "pool1123",
+    "captured": true
+  },
+  {
+    "lat": 19.175333593308594,
+    "lon": -96.13377038195976,
+    "description": "pool1124",
+    "captured": true
+  },
+  {
+    "lat": 19.174961827059445,
+    "lon": -96.13382699752512,
+    "description": "pool1125",
+    "captured": true
+  },
+  {
+    "lat": 19.174386943455104,
+    "lon": -96.13360382250376,
+    "description": "pool1126",
+    "captured": true
+  },
+  {
+    "lat": 19.17685691268373,
+    "lon": -96.12578170902994,
+    "description": "pool1127",
+    "captured": true
+  },
+  {
+    "lat": 19.177031081837864,
+    "lon": -96.1262048274753,
+    "description": "pool1128",
+    "captured": true
+  },
+  {
+    "lat": 19.17665501040392,
+    "lon": -96.12434150335523,
+    "description": "pool1129",
+    "captured": true
+  },
+  {
+    "lat": 19.17669105461333,
+    "lon": -96.12375798742076,
+    "description": "pool1130",
+    "captured": true
+  },
+  {
+    "lat": 19.1768141351013,
+    "lon": -96.12317810448658,
+    "description": "pool1131",
+    "captured": true
+  },
+  {
+    "lat": 19.175984592539436,
+    "lon": -96.1240057335922,
+    "description": "pool1132",
+    "captured": true
+  },
+  {
+    "lat": 19.174472958850256,
+    "lon": -96.12588799649774,
+    "description": "pool1133",
+    "captured": true
+  },
+  {
+    "lat": 19.175984756297456,
+    "lon": -96.12400567151123,
+    "description": "pool1134",
+    "captured": true
+  },
+  {
+    "lat": 19.176085946169362,
+    "lon": -96.12371810038633,
+    "description": "pool1135",
+    "captured": true
+  },
+  {
+    "lat": 19.17606890366898,
+    "lon": -96.12377335915151,
+    "description": "pool1136",
+    "captured": true
+  },
+  {
+    "lat": 19.173336319129593,
+    "lon": -96.12534485622975,
+    "description": "pool1137",
+    "captured": true
+  },
+  {
+    "lat": 19.17333867616609,
+    "lon": -96.12581517802467,
+    "description": "pool1138",
+    "captured": true
+  },
+  {
+    "lat": 19.173499576541282,
+    "lon": -96.12591363054807,
+    "description": "pool1139",
+    "captured": true
+  },
+  {
+    "lat": 19.17438499165419,
+    "lon": -96.13360259872694,
+    "description": "pool1140",
+    "captured": true
+  },
+  {
+    "lat": 19.17496930849173,
+    "lon": -96.13382105891901,
+    "description": "pool1141",
+    "captured": true
+  },
+  {
+    "lat": 19.175342734308163,
+    "lon": -96.13376962608118,
+    "description": "pool1142",
+    "captured": true
+  },
+  {
+    "lat": 19.17124794965387,
+    "lon": -96.13111182176712,
+    "description": "pool1143",
+    "captured": true
+  },
+  {
+    "lat": 19.171161178725573,
+    "lon": -96.13111316287154,
+    "description": "pool1144",
+    "captured": true
+  },
+  {
+    "lat": 19.171239335776786,
+    "lon": -96.12828532093215,
+    "description": "pool1145",
+    "captured": true
+  },
+  {
+    "lat": 19.170815819882666,
+    "lon": -96.12796648617271,
+    "description": "pool1146",
+    "captured": true
+  },
+  {
+    "lat": 19.17253638201251,
+    "lon": -96.12493248069993,
+    "description": "pool1147",
+    "captured": true
+  },
+  {
+    "lat": 19.172762843695406,
+    "lon": -96.12390156626019,
+    "description": "pool1148",
+    "captured": true
+  },
+  {
+    "lat": 19.17310113939978,
+    "lon": -96.12363523468579,
+    "description": "pool1149",
+    "captured": true
+  },
+  {
+    "lat": 19.173043896734757,
+    "lon": -96.12330350569412,
+    "description": "pool1150",
+    "captured": true
+  },
+  {
+    "lat": 19.173497080985292,
+    "lon": -96.12243028432961,
+    "description": "pool1151",
+    "captured": true
+  },
+  {
+    "lat": 19.1733843436448,
+    "lon": -96.1224550947614,
+    "description": "pool1152",
+    "captured": true
+  },
+  {
+    "lat": 19.173298949897557,
+    "lon": -96.1224075818947,
+    "description": "pool1153",
+    "captured": true
+  },
+  {
+    "lat": 19.173871264880784,
+    "lon": -96.12174759706238,
+    "description": "pool1154",
+    "captured": true
+  },
+  {
+    "lat": 19.174020736401975,
+    "lon": -96.12192194063734,
+    "description": "pool1155",
+    "captured": true
+  },
+  {
+    "lat": 19.17366878598761,
+    "lon": -96.12145019673522,
+    "description": "pool1156",
+    "captured": true
+  },
+  {
+    "lat": 19.174675724713445,
+    "lon": -96.12139062748767,
+    "description": "pool1157",
+    "captured": true
+  },
+  {
+    "lat": 19.17480302823503,
+    "lon": -96.12130144404354,
+    "description": "pool1158",
+    "captured": true
+  },
+  {
+    "lat": 19.174708658967262,
+    "lon": -96.1211867796154,
+    "description": "pool1159",
+    "captured": true
+  },
+  {
+    "lat": 19.174696452369094,
+    "lon": -96.12070171846557,
+    "description": "pool1160",
+    "captured": true
+  },
+  {
+    "lat": 19.174433938741668,
+    "lon": -96.12038202547042,
+    "description": "pool1161",
+    "captured": true
+  },
+  {
+    "lat": 19.17366987140497,
+    "lon": -96.1214554369031,
+    "description": "pool1162",
+    "captured": true
+  },
+  {
+    "lat": 19.173062403953725,
+    "lon": -96.11980986846149,
+    "description": "pool1163",
+    "captured": true
+  },
+  {
+    "lat": 19.173002391876437,
+    "lon": -96.11986961161547,
+    "description": "pool1164",
+    "captured": true
+  },
+  {
+    "lat": 19.172329876813727,
+    "lon": -96.12079356183054,
+    "description": "pool1165",
+    "captured": true
+  },
+  {
+    "lat": 19.172051378320386,
+    "lon": -96.12057055561802,
+    "description": "pool1166",
+    "captured": true
+  },
+  {
+    "lat": 19.17192329202969,
+    "lon": -96.12067961058166,
+    "description": "pool1167",
+    "captured": true
+  },
+  {
+    "lat": 19.171765136316257,
+    "lon": -96.12037233278407,
+    "description": "pool1168",
+    "captured": true
+  },
+  {
+    "lat": 19.17150881668362,
+    "lon": -96.1212240116771,
+    "description": "pool1169",
+    "captured": true
+  },
+  {
+    "lat": 19.172144286823563,
+    "lon": -96.12162772493097,
+    "description": "pool1170",
+    "captured": true
+  },
+  {
+    "lat": 19.17197340012647,
+    "lon": -96.12149015213714,
+    "description": "pool1171",
+    "captured": true
+  },
+  {
+    "lat": 19.17194553221875,
+    "lon": -96.12174026811199,
+    "description": "pool1172",
+    "captured": true
+  },
+  {
+    "lat": 19.17191323077438,
+    "lon": -96.12161018098298,
+    "description": "pool1173",
+    "captured": true
+  },
+  {
+    "lat": 19.171504916778346,
+    "lon": -96.12122282875691,
+    "description": "pool1174",
+    "captured": true
+  },
+  {
+    "lat": 19.17197001124075,
+    "lon": -96.12205971582921,
+    "description": "pool1175",
+    "captured": true
+  },
+  {
+    "lat": 19.171297040615293,
+    "lon": -96.12209195440872,
+    "description": "pool1176",
+    "captured": true
+  },
+  {
+    "lat": 19.171106844210595,
+    "lon": -96.12295111274904,
+    "description": "pool1177",
+    "captured": true
+  },
+  {
+    "lat": 19.17106102749708,
+    "lon": -96.12389860880077,
+    "description": "pool1178",
+    "captured": true
+  },
+  {
+    "lat": 19.170385422518624,
+    "lon": -96.1254086896047,
+    "description": "pool1179",
+    "captured": true
+  },
+  {
+    "lat": 19.167735087303253,
+    "lon": -96.13202503220876,
+    "description": "pool1180",
+    "captured": true
+  },
+  {
+    "lat": 19.16830644404726,
+    "lon": -96.13066198220287,
+    "description": "pool1181",
+    "captured": true
+  },
+  {
+    "lat": 19.16818538290278,
+    "lon": -96.12734705882133,
+    "description": "pool1182",
+    "captured": true
+  },
+  {
+    "lat": 19.168081522177523,
+    "lon": -96.12649222636969,
+    "description": "pool1183",
+    "captured": true
+  },
+  {
+    "lat": 19.168569601572397,
+    "lon": -96.12616153335506,
+    "description": "pool1184",
+    "captured": true
+  },
+  {
+    "lat": 19.168038082255627,
+    "lon": -96.12594646326488,
+    "description": "pool1185",
+    "captured": true
+  },
+  {
+    "lat": 19.16933150992162,
+    "lon": -96.12273142106694,
+    "description": "pool1186",
+    "captured": true
+  },
+  {
+    "lat": 19.16963819782397,
+    "lon": -96.12237700061819,
+    "description": "pool1187",
+    "captured": true
+  },
+  {
+    "lat": 19.170890052550025,
+    "lon": -96.11831801948253,
+    "description": "pool1188",
+    "captured": true
+  },
+  {
+    "lat": 19.165416657775356,
+    "lon": -96.12721861829236,
+    "description": "pool1189",
+    "captured": true
+  },
+  {
+    "lat": 19.16566155267099,
+    "lon": -96.12513882120147,
+    "description": "pool1190",
+    "captured": true
+  },
+  {
+    "lat": 19.167034308008777,
+    "lon": -96.11998131204167,
+    "description": "pool1191",
+    "captured": true
+  },
+  {
+    "lat": 19.167063443507644,
+    "lon": -96.11975734760307,
+    "description": "pool1192",
+    "captured": true
+  },
+  {
+    "lat": 19.167332561918737,
+    "lon": -96.1196778323747,
+    "description": "pool1193",
+    "captured": true
+  },
+  {
+    "lat": 19.16815810165662,
+    "lon": -96.11748417575414,
+    "description": "pool1194",
+    "captured": true
+  },
+  {
+    "lat": 19.167939274386157,
+    "lon": -96.11949805428814,
+    "description": "pool1195",
+    "captured": true
+  },
+  {
+    "lat": 19.167059859105354,
+    "lon": -96.11975482856924,
+    "description": "pool1196",
+    "captured": true
+  },
+  {
+    "lat": 19.16703424960841,
+    "lon": -96.11997571542189,
+    "description": "pool1197",
+    "captured": true
+  },
+  {
+    "lat": 19.167328758583054,
+    "lon": -96.11967747829956,
+    "description": "pool1198",
+    "captured": true
+  },
+  {
+    "lat": 19.167487920904076,
+    "lon": -96.11689568737133,
+    "description": "pool1199",
+    "captured": true
+  },
+  {
+    "lat": 19.1665868617924,
+    "lon": -96.11626416406229,
+    "description": "pool1200",
+    "captured": true
+  },
+  {
+    "lat": 19.166864885947458,
+    "lon": -96.11584047692601,
+    "description": "pool1201",
+    "captured": true
+  },
+  {
+    "lat": 19.16563056956615,
+    "lon": -96.11591345435302,
+    "description": "pool1202",
+    "captured": true
+  },
+  {
+    "lat": 19.16412670443366,
+    "lon": -96.11613280133382,
+    "description": "pool1203",
+    "captured": true
+  },
+  {
+    "lat": 19.162346560763726,
+    "lon": -96.11604955538759,
+    "description": "pool1204",
+    "captured": true
+  },
+  {
+    "lat": 19.164721955841014,
+    "lon": -96.1131347280339,
+    "description": "pool1205",
+    "captured": true
+  },
+  {
+    "lat": 19.16639350760003,
+    "lon": -96.11235038291925,
+    "description": "pool1206",
+    "captured": true
+  },
+  {
+    "lat": 19.167475129857678,
+    "lon": -96.11213685848594,
+    "description": "pool1207",
+    "captured": true
+  },
+  {
+    "lat": 19.166841268622925,
+    "lon": -96.11327818212449,
+    "description": "pool1208",
+    "captured": true
+  },
+  {
+    "lat": 19.167032956078398,
+    "lon": -96.11303067477225,
+    "description": "pool1209",
+    "captured": true
+  },
+  {
+    "lat": 19.167349387030953,
+    "lon": -96.11352243665974,
+    "description": "pool1210",
+    "captured": true
+  },
+  {
+    "lat": 19.167613958650406,
+    "lon": -96.11329687200097,
+    "description": "pool1211",
+    "captured": true
+  },
+  {
+    "lat": 19.16764879445305,
+    "lon": -96.1129193510891,
+    "description": "pool1212",
+    "captured": true
+  },
+  {
+    "lat": 19.16814035283621,
+    "lon": -96.11303483543819,
+    "description": "pool1213",
+    "captured": true
+  },
+  {
+    "lat": 19.16801018262704,
+    "lon": -96.11391038813866,
+    "description": "pool1214",
+    "captured": true
+  },
+  {
+    "lat": 19.16835184269725,
+    "lon": -96.11502559769953,
+    "description": "pool1215",
+    "captured": true
+  },
+  {
+    "lat": 19.1679998484119,
+    "lon": -96.1152578597506,
+    "description": "pool1216",
+    "captured": true
+  },
+  {
+    "lat": 19.16807353351828,
+    "lon": -96.11594665473852,
+    "description": "pool1217",
+    "captured": true
+  },
+  {
+    "lat": 19.154113280098265,
+    "lon": -96.14762643518678,
+    "description": "pool1218",
+    "captured": true
+  },
+  {
+    "lat": 19.15586123353084,
+    "lon": -96.14575267380917,
+    "description": "pool1219",
+    "captured": true
+  },
+  {
+    "lat": 19.156790852998668,
+    "lon": -96.14532040367855,
+    "description": "pool1220",
+    "captured": true
+  },
+  {
+    "lat": 19.161258412746857,
+    "lon": -96.14346760478931,
+    "description": "pool1221",
+    "captured": true
+  },
+  {
+    "lat": 19.162066953709274,
+    "lon": -96.14362875953329,
+    "description": "pool1222",
+    "captured": true
+  },
+  {
+    "lat": 19.169340114400878,
+    "lon": -96.1439913361358,
+    "description": "pool1223",
+    "captured": true
+  },
+  {
+    "lat": 19.17606477228014,
+    "lon": -96.13959704483669,
+    "description": "pool1224",
+    "captured": true
+  },
+  {
+    "lat": 19.17630604662187,
+    "lon": -96.14197747481474,
+    "description": "pool1225",
+    "captured": true
+  },
+  {
+    "lat": 19.175326544001965,
+    "lon": -96.14241581500305,
+    "description": "pool1226",
+    "captured": true
+  },
+  {
+    "lat": 19.166203359222497,
+    "lon": -96.14020572349534,
+    "description": "pool1227",
+    "captured": true
+  },
+  {
+    "lat": 19.16644825856915,
+    "lon": -96.14047728234402,
+    "description": "pool1228",
+    "captured": true
+  },
+  {
+    "lat": 19.172891307654314,
+    "lon": -96.14145772079704,
+    "description": "pool1229",
+    "captured": true
+  },
+  {
+    "lat": 19.17434606006602,
+    "lon": -96.14572191325247,
+    "description": "pool1230",
+    "captured": true
+  },
+  {
+    "lat": 19.161254493273574,
+    "lon": -96.14346017191771,
+    "description": "pool1231",
+    "captured": true
+  },
+  {
+    "lat": 19.15769909982339,
+    "lon": -96.14656311215617,
+    "description": "pool1232",
+    "captured": true
+  },
+  {
+    "lat": 19.158123075392428,
+    "lon": -96.1465966571545,
+    "description": "pool1233",
+    "captured": true
+  },
+  {
+    "lat": 19.16219740361607,
+    "lon": -96.1480389853904,
+    "description": "pool1234",
+    "captured": true
+  },
+  {
+    "lat": 19.156376782030268,
+    "lon": -96.14883512733317,
+    "description": "pool1235",
+    "captured": true
+  },
+  {
+    "lat": 19.16219980906049,
+    "lon": -96.14803543828599,
+    "description": "pool1236",
+    "captured": true
+  },
+  {
+    "lat": 19.164457933833674,
+    "lon": -96.15080831249082,
+    "description": "pool1237",
+    "captured": true
+  },
+  {
+    "lat": 19.1644455952684,
+    "lon": -96.15135733277536,
+    "description": "pool1238",
+    "captured": true
+  },
+  {
+    "lat": 19.166660531480908,
+    "lon": -96.149118115523,
+    "description": "pool1239",
+    "captured": true
+  },
+  {
+    "lat": 19.17514259419899,
+    "lon": -96.14787038794273,
+    "description": "pool1240",
+    "captured": true
+  },
+  {
+    "lat": 19.175117473094478,
+    "lon": -96.14920198499601,
+    "description": "pool1241",
+    "captured": true
+  },
+  {
+    "lat": 19.174539282169704,
+    "lon": -96.1501524514386,
+    "description": "pool1242",
+    "captured": true
+  },
+  {
+    "lat": 19.17392365692797,
+    "lon": -96.1519089678502,
+    "description": "pool1243",
+    "captured": true
+  },
+  {
+    "lat": 19.17334321023701,
+    "lon": -96.15297788451595,
+    "description": "pool1244",
+    "captured": true
+  },
+  {
+    "lat": 19.174344457674838,
+    "lon": -96.14571895135718,
+    "description": "pool1245",
+    "captured": true
+  },
+  {
+    "lat": 19.17007026352361,
+    "lon": -96.14485482722044,
+    "description": "pool1246",
+    "captured": true
+  },
+  {
+    "lat": 19.176117790183028,
+    "lon": -96.1857879967719,
+    "description": "pool1247",
+    "captured": true
+  },
+  {
+    "lat": 19.176197591703616,
+    "lon": -96.18562907589546,
+    "description": "pool1248",
+    "captured": true
+  },
+  {
+    "lat": 19.178702089043302,
+    "lon": -96.19228747732694,
+    "description": "pool1249",
+    "captured": true
+  },
+  {
+    "lat": 19.180144239122217,
+    "lon": -96.19234992459711,
+    "description": "pool1250",
+    "captured": true
+  },
+  {
+    "lat": 19.179691014176317,
+    "lon": -96.18961747661182,
+    "description": "pool1251",
+    "captured": true
+  },
+  {
+    "lat": 19.181976395878532,
+    "lon": -96.1916237312336,
+    "description": "pool1252",
+    "captured": true
+  },
+  {
+    "lat": 19.184591733059815,
+    "lon": -96.19317290105491,
+    "description": "pool1253",
+    "captured": true
+  },
+  {
+    "lat": 19.145544534465007,
+    "lon": -96.15468416480924,
+    "description": "pool1254",
+    "captured": true
+  },
+  {
+    "lat": 19.150633556471984,
+    "lon": -96.15468761607981,
+    "description": "pool1255",
+    "captured": true
+  },
+  {
+    "lat": 19.14748125459439,
+    "lon": -96.1559333727899,
+    "description": "pool1256",
+    "captured": true
+  },
+  {
+    "lat": 19.14815075142274,
+    "lon": -96.16182738222201,
+    "description": "pool1257",
+    "captured": true
+  },
+  {
+    "lat": 19.14355009766072,
+    "lon": -96.19987917054866,
+    "description": "pool1258",
+    "captured": true
+  },
+  {
+    "lat": 19.147730031150033,
+    "lon": -96.21205705440919,
+    "description": "pool1259",
+    "captured": true
+  },
+  {
+    "lat": 19.149298156904145,
+    "lon": -96.21319396261724,
+    "description": "pool1260",
+    "captured": true
+  },
+  {
+    "lat": 19.150170670638072,
+    "lon": -96.21493239038334,
+    "description": "pool1261",
+    "captured": true
+  },
+  {
+    "lat": 19.147211837655238,
+    "lon": -96.21488809937226,
+    "description": "pool1262",
+    "captured": true
+  },
+  {
+    "lat": 19.146713344013055,
+    "lon": -96.2148333764882,
+    "description": "pool1263",
+    "captured": true
+  },
+  {
+    "lat": 19.147063187529415,
+    "lon": -96.2157138365038,
+    "description": "pool1264",
+    "captured": true
+  },
+  {
+    "lat": 19.148572558401394,
+    "lon": -96.21574446266186,
+    "description": "pool1265",
+    "captured": true
+  },
+  {
+    "lat": 19.149328063284674,
+    "lon": -96.2161673253111,
+    "description": "pool1266",
+    "captured": true
+  },
+  {
+    "lat": 19.140677830851754,
+    "lon": -96.22158197998274,
+    "description": "pool1267",
+    "captured": true
+  },
+  {
+    "lat": 19.141032067537733,
+    "lon": -96.22106756303256,
+    "description": "pool1268",
+    "captured": true
+  },
+  {
+    "lat": 19.141595522600504,
+    "lon": -96.22230019508157,
+    "description": "pool1269",
+    "captured": true
+  },
+  {
+    "lat": 19.146274211017417,
+    "lon": -96.22159221777027,
+    "description": "pool1270",
+    "captured": true
+  },
+  {
+    "lat": 19.146601333992972,
+    "lon": -96.22109850838656,
+    "description": "pool1271",
+    "captured": true
+  },
+  {
+    "lat": 19.14660766858225,
+    "lon": -96.22116958692202,
+    "description": "pool1272",
+    "captured": true
+  },
+  {
+    "lat": 19.157355739380026,
+    "lon": -96.16672720438078,
+    "description": "pool1273",
+    "captured": true
+  },
+  {
+    "lat": 19.141554110925004,
+    "lon": -96.10582261768664,
+    "description": "pool1274",
+    "captured": true
+  },
+  {
+    "lat": 19.141681324929763,
+    "lon": -96.10597529463799,
+    "description": "pool1275",
+    "captured": true
+  },
+  {
+    "lat": 19.14260787299919,
+    "lon": -96.10453614104173,
+    "description": "pool1276",
+    "captured": true
+  },
+  {
+    "lat": 19.14464071938855,
+    "lon": -96.1057388843646,
+    "description": "pool1277",
+    "captured": true
+  },
+  {
+    "lat": 19.141688334035262,
+    "lon": -96.10597244491296,
+    "description": "pool1278",
+    "captured": true
+  },
+  {
+    "lat": 19.141547681931666,
+    "lon": -96.10583114761015,
+    "description": "pool1279",
+    "captured": true
+  },
+  {
+    "lat": 19.144181202045864,
+    "lon": -96.10848652185093,
+    "description": "pool1280",
+    "captured": true
+  },
+  {
+    "lat": 19.147292969124155,
+    "lon": -96.1070445299896,
+    "description": "pool1281",
+    "captured": true
+  },
+  {
+    "lat": 19.147595620611888,
+    "lon": -96.10673362617932,
+    "description": "pool1282",
+    "captured": true
+  },
+  {
+    "lat": 19.149022894958808,
+    "lon": -96.10602612272005,
+    "description": "pool1283",
+    "captured": true
+  },
+  {
+    "lat": 19.148934097808773,
+    "lon": -96.10810805266756,
+    "description": "pool1284",
+    "captured": true
+  },
+  {
+    "lat": 19.14904178427092,
+    "lon": -96.10812883978642,
+    "description": "pool1285",
+    "captured": true
+  },
+  {
+    "lat": 19.15053726922887,
+    "lon": -96.10945686368353,
+    "description": "pool1286",
+    "captured": true
+  },
+  {
+    "lat": 19.15063677298589,
+    "lon": -96.10947112606245,
+    "description": "pool1287",
+    "captured": true
+  },
+  {
+    "lat": 19.1508403843763,
+    "lon": -96.10944489440794,
+    "description": "pool1288",
+    "captured": true
+  },
+  {
+    "lat": 19.15083278306414,
+    "lon": -96.1095159729434,
+    "description": "pool1289",
+    "captured": true
+  },
+  {
+    "lat": 19.15132676303483,
+    "lon": -96.10945044053223,
+    "description": "pool1290",
+    "captured": true
+  },
+  {
+    "lat": 19.151836147481163,
+    "lon": -96.10917217587685,
+    "description": "pool1291",
+    "captured": true
+  },
+  {
+    "lat": 19.151934963910968,
+    "lon": -96.10910713231141,
+    "description": "pool1292",
+    "captured": true
+  },
+  {
+    "lat": 19.152637857602105,
+    "lon": -96.10920158466587,
+    "description": "pool1293",
+    "captured": true
+  },
+  {
+    "lat": 19.152603652067302,
+    "lon": -96.10933033069236,
+    "description": "pool1294",
+    "captured": true
+  },
+  {
+    "lat": 19.15343747606014,
+    "lon": -96.10973052552659,
+    "description": "pool1295",
+    "captured": true
+  },
+  {
+    "lat": 19.15346376941252,
+    "lon": -96.11010850396515,
+    "description": "pool1296",
+    "captured": true
+  },
+  {
+    "lat": 19.15348150552416,
+    "lon": -96.11003004935525,
+    "description": "pool1297",
+    "captured": true
+  },
+  {
+    "lat": 19.153147424047482,
+    "lon": -96.11064153731837,
+    "description": "pool1298",
+    "captured": true
+  },
+  {
+    "lat": 19.15262396919587,
+    "lon": -96.1104937226635,
+    "description": "pool1299",
+    "captured": true
+  },
+  {
+    "lat": 19.152130384231647,
+    "lon": -96.11053123667716,
+    "description": "pool1300",
+    "captured": true
+  },
+  {
+    "lat": 19.14780919970683,
+    "lon": -96.1227074684554,
+    "description": "pool1301",
+    "captured": true
+  },
+  {
+    "lat": 19.148888971935193,
+    "lon": -96.12563768810271,
+    "description": "pool1302",
+    "captured": true
+  },
+  {
+    "lat": 19.1575784413875,
+    "lon": -96.11871557122268,
+    "description": "pool1303",
+    "captured": true
+  },
+  {
+    "lat": 19.1580855159428,
+    "lon": -96.11785519942059,
+    "description": "pool1304",
+    "captured": true
+  },
+  {
+    "lat": 19.157943630956773,
+    "lon": -96.1177163951108,
+    "description": "pool1305",
+    "captured": true
+  },
+  {
+    "lat": 19.15871061043,
+    "lon": -96.11684598302982,
+    "description": "pool1306",
+    "captured": true
+  },
+  {
+    "lat": 19.15664185875248,
+    "lon": -96.1149600434231,
+    "description": "pool1307",
+    "captured": true
+  },
+  {
+    "lat": 19.156644392434014,
+    "lon": -96.1150981771807,
+    "description": "pool1308",
+    "captured": true
+  },
+  {
+    "lat": 19.157799464669427,
+    "lon": -96.11516082900783,
+    "description": "pool1309",
+    "captured": true
+  },
+  {
+    "lat": 19.160024733880714,
+    "lon": -96.11686069109624,
+    "description": "pool1310",
+    "captured": true
+  },
+  {
+    "lat": 19.160028605248336,
+    "lon": -96.1168621249315,
+    "description": "pool1311",
+    "captured": true
+  },
+  {
+    "lat": 19.160012580714582,
+    "lon": -96.1157174987458,
+    "description": "pool1312",
+    "captured": true
+  },
+  {
+    "lat": 19.142002739767435,
+    "lon": -96.10137304957009,
+    "description": "pool1313",
+    "captured": true
+  },
+  {
+    "lat": 19.14189198370712,
+    "lon": -96.10190120215829,
+    "description": "pool1314",
+    "captured": true
+  },
+  {
+    "lat": 19.141933654312783,
+    "lon": -96.10197084865345,
+    "description": "pool1315",
+    "captured": true
+  },
+  {
+    "lat": 19.141901857901438,
+    "lon": -96.1030288119471,
+    "description": "pool1316",
+    "captured": true
+  },
+  {
+    "lat": 19.142291871567046,
+    "lon": -96.10126502233017,
+    "description": "pool1317",
+    "captured": true
+  },
+  {
+    "lat": 19.142410364650093,
+    "lon": -96.10128852403135,
+    "description": "pool1318",
+    "captured": true
+  },
+  {
+    "lat": 19.142774762668928,
+    "lon": -96.10111043541045,
+    "description": "pool1319",
+    "captured": true
+  },
+  {
+    "lat": 19.14293693183752,
+    "lon": -96.10108696608269,
+    "description": "pool1320",
+    "captured": true
+  },
+  {
+    "lat": 19.143224069569193,
+    "lon": -96.10105723754747,
+    "description": "pool1321",
+    "captured": true
+  },
+  {
+    "lat": 19.143314022554705,
+    "lon": -96.10096738354981,
+    "description": "pool1322",
+    "captured": true
+  },
+  {
+    "lat": 19.14347175690038,
+    "lon": -96.10097475962048,
+    "description": "pool1323",
+    "captured": true
+  },
+  {
+    "lat": 19.143506597799007,
+    "lon": -96.10076755898412,
+    "description": "pool1324",
+    "captured": true
+  },
+  {
+    "lat": 19.143774492173666,
+    "lon": -96.10076420073527,
+    "description": "pool1325",
+    "captured": true
+  },
+  {
+    "lat": 19.143874580370703,
+    "lon": -96.10047653382881,
+    "description": "pool1326",
+    "captured": true
+  },
+  {
+    "lat": 19.143971501163392,
+    "lon": -96.10040947860324,
+    "description": "pool1327",
+    "captured": true
+  },
+  {
+    "lat": 19.144171628619326,
+    "lon": -96.10046328020408,
+    "description": "pool1328",
+    "captured": true
+  },
+  {
+    "lat": 19.144710189533377,
+    "lon": -96.09991301463722,
+    "description": "pool1329",
+    "captured": true
+  },
+  {
+    "lat": 19.144846002340973,
+    "lon": -96.09975113402568,
+    "description": "pool1330",
+    "captured": true
+  },
+  {
+    "lat": 19.145196677309123,
+    "lon": -96.09947085831254,
+    "description": "pool1331",
+    "captured": true
+  },
+  {
+    "lat": 19.145406030392877,
+    "lon": -96.09936981574188,
+    "description": "pool1332",
+    "captured": true
+  },
+  {
+    "lat": 19.145432635858867,
+    "lon": -96.09911701755446,
+    "description": "pool1333",
+    "captured": true
+  },
+  {
+    "lat": 19.146193106530315,
+    "lon": -96.09828097683815,
+    "description": "pool1334",
+    "captured": true
+  },
+  {
+    "lat": 19.146432850982293,
+    "lon": -96.09721212820197,
+    "description": "pool1335",
+    "captured": true
+  },
+  {
+    "lat": 19.146868274064172,
+    "lon": -96.09845821755407,
+    "description": "pool1336",
+    "captured": true
+  },
+  {
+    "lat": 19.14708981518761,
+    "lon": -96.0983781721161,
+    "description": "pool1337",
+    "captured": true
+  },
+  {
+    "lat": 19.14716363971254,
+    "lon": -96.09858231303707,
+    "description": "pool1338",
+    "captured": true
+  },
+  {
+    "lat": 19.147426756378938,
+    "lon": -96.09888743130087,
+    "description": "pool1339",
+    "captured": true
+  },
+  {
+    "lat": 19.147417369424247,
+    "lon": -96.09845330178146,
+    "description": "pool1340",
+    "captured": true
+  },
+  {
+    "lat": 19.14767634829004,
+    "lon": -96.09851489979714,
+    "description": "pool1341",
+    "captured": true
+  },
+  {
+    "lat": 19.147821409378317,
+    "lon": -96.09847466666388,
+    "description": "pool1342",
+    "captured": true
+  },
+  {
+    "lat": 19.148134829419877,
+    "lon": -96.09852291763566,
+    "description": "pool1343",
+    "captured": true
+  },
+  {
+    "lat": 19.148307336604518,
+    "lon": -96.09856199148382,
+    "description": "pool1344",
+    "captured": true
+  },
+  {
+    "lat": 19.149174429075334,
+    "lon": -96.09757722151744,
+    "description": "pool1345",
+    "captured": true
+  },
+  {
+    "lat": 19.14899167919437,
+    "lon": -96.09791102454149,
+    "description": "pool1346",
+    "captured": true
+  },
+  {
+    "lat": 19.148562695517214,
+    "lon": -96.09740225763896,
+    "description": "pool1347",
+    "captured": true
+  },
+  {
+    "lat": 19.148779604993507,
+    "lon": -96.09684302195681,
+    "description": "pool1348",
+    "captured": true
+  },
+  {
+    "lat": 19.148662149560337,
+    "lon": -96.09669748650344,
+    "description": "pool1349",
+    "captured": true
+  },
+  {
+    "lat": 19.148772131976234,
+    "lon": -96.09644231035224,
+    "description": "pool1350",
+    "captured": true
+  },
+  {
+    "lat": 19.14801678030335,
+    "lon": -96.09700223473219,
+    "description": "pool1351",
+    "captured": true
+  },
+  {
+    "lat": 19.147835233116282,
+    "lon": -96.09664897524786,
+    "description": "pool1352",
+    "captured": true
+  },
+  {
+    "lat": 19.148358110695593,
+    "lon": -96.09603633084758,
+    "description": "pool1353",
+    "captured": true
+  },
+  {
+    "lat": 19.14831630284541,
+    "lon": -96.09617714681406,
+    "description": "pool1354",
+    "captured": true
+  },
+  {
+    "lat": 19.14833681428734,
+    "lon": -96.09539824394675,
+    "description": "pool1355",
+    "captured": true
+  },
+  {
+    "lat": 19.1482486774671,
+    "lon": -96.09542296413639,
+    "description": "pool1356",
+    "captured": true
+  },
+  {
+    "lat": 19.14784446704362,
+    "lon": -96.09568932991553,
+    "description": "pool1357",
+    "captured": true
+  },
+  {
+    "lat": 19.147149557161864,
+    "lon": -96.09630055695881,
+    "description": "pool1358",
+    "captured": true
+  },
+  {
+    "lat": 19.14708420903962,
+    "lon": -96.09663358914672,
+    "description": "pool1359",
+    "captured": true
+  },
+  {
+    "lat": 19.148473693373095,
+    "lon": -96.09450922672877,
+    "description": "pool1360",
+    "captured": true
+  },
+  {
+    "lat": 19.146543960424474,
+    "lon": -96.09901538100601,
+    "description": "pool1361",
+    "captured": true
+  },
+  {
+    "lat": 19.14632634542795,
+    "lon": -96.09935213256263,
+    "description": "pool1362",
+    "captured": true
+  },
+  {
+    "lat": 19.147095869197944,
+    "lon": -96.0993733245569,
+    "description": "pool1363",
+    "captured": true
+  },
+  {
+    "lat": 19.147743106419973,
+    "lon": -96.09939367253278,
+    "description": "pool1364",
+    "captured": true
+  },
+  {
+    "lat": 19.148043397818146,
+    "lon": -96.09952380114564,
+    "description": "pool1365",
+    "captured": true
+  },
+  {
+    "lat": 19.148199227281797,
+    "lon": -96.0994815563557,
+    "description": "pool1366",
+    "captured": true
+  },
+  {
+    "lat": 19.148407347833135,
+    "lon": -96.09957124585482,
+    "description": "pool1367",
+    "captured": true
+  },
+  {
+    "lat": 19.14841526189155,
+    "lon": -96.10017647654938,
+    "description": "pool1368",
+    "captured": true
+  },
+  {
+    "lat": 19.14874686648455,
+    "lon": -96.0996099867686,
+    "description": "pool1369",
+    "captured": true
+  },
+  {
+    "lat": 19.14902752116985,
+    "lon": -96.0995326898362,
+    "description": "pool1370",
+    "captured": true
+  },
+  {
+    "lat": 19.14949673436118,
+    "lon": -96.0996030762122,
+    "description": "pool1371",
+    "captured": true
+  },
+  {
+    "lat": 19.14933730923466,
+    "lon": -96.09968126342793,
+    "description": "pool1372",
+    "captured": true
+  },
+  {
+    "lat": 19.149268896789376,
+    "lon": -96.09962828980247,
+    "description": "pool1373",
+    "captured": true
+  },
+  {
+    "lat": 19.14926446264843,
+    "lon": -96.09954447077479,
+    "description": "pool1374",
+    "captured": true
+  },
+  {
+    "lat": 19.14955446578059,
+    "lon": -96.1004128743702,
+    "description": "pool1375",
+    "captured": true
+  },
+  {
+    "lat": 19.149356225496966,
+    "lon": -96.10021263520335,
+    "description": "pool1376",
+    "captured": true
+  },
+  {
+    "lat": 19.149366360670466,
+    "lon": -96.10033266405094,
+    "description": "pool1377",
+    "captured": true
+  },
+  {
+    "lat": 19.14951961474394,
+    "lon": -96.10145839514378,
+    "description": "pool1378",
+    "captured": true
+  },
+  {
+    "lat": 19.14910130629033,
+    "lon": -96.10164136386626,
+    "description": "pool1379",
+    "captured": true
+  },
+  {
+    "lat": 19.1487585680509,
+    "lon": -96.1017007536971,
+    "description": "pool1380",
+    "captured": true
+  },
+  {
+    "lat": 19.148545095041097,
+    "lon": -96.10143186225638,
+    "description": "pool1381",
+    "captured": true
+  },
+  {
+    "lat": 19.148401934943394,
+    "lon": -96.10161827577592,
+    "description": "pool1382",
+    "captured": true
+  },
+  {
+    "lat": 19.148180852787455,
+    "lon": -96.10190486733585,
+    "description": "pool1383",
+    "captured": true
+  },
+  {
+    "lat": 19.14792400145386,
+    "lon": -96.10215839496593,
+    "description": "pool1384",
+    "captured": true
+  },
+  {
+    "lat": 19.146966790149428,
+    "lon": -96.10198344905025,
+    "description": "pool1385",
+    "captured": true
+  },
+  {
+    "lat": 19.146205399649087,
+    "lon": -96.1027349189111,
+    "description": "pool1386",
+    "captured": true
+  },
+  {
+    "lat": 19.146400505355057,
+    "lon": -96.10246200415703,
+    "description": "pool1387",
+    "captured": true
+  },
+  {
+    "lat": 19.146583575114924,
+    "lon": -96.10255319926013,
+    "description": "pool1388",
+    "captured": true
+  },
+  {
+    "lat": 19.14704024278639,
+    "lon": -96.10264306913216,
+    "description": "pool1389",
+    "captured": true
+  },
+  {
+    "lat": 19.147199873937243,
+    "lon": -96.10259814213332,
+    "description": "pool1390",
+    "captured": true
+  },
+  {
+    "lat": 19.1475613994756,
+    "lon": -96.10284547980542,
+    "description": "pool1391",
+    "captured": true
+  },
+  {
+    "lat": 19.148123386468157,
+    "lon": -96.10249711788559,
+    "description": "pool1392",
+    "captured": true
+  },
+  {
+    "lat": 19.14781097215292,
+    "lon": -96.1032343392774,
+    "description": "pool1393",
+    "captured": true
+  },
+  {
+    "lat": 19.147627582734344,
+    "lon": -96.10322069589121,
+    "description": "pool1394",
+    "captured": true
+  },
+  {
+    "lat": 19.147281732913335,
+    "lon": -96.10324962406455,
+    "description": "pool1395",
+    "captured": true
+  },
+  {
+    "lat": 19.147189881720326,
+    "lon": -96.10324962406455,
+    "description": "pool1396",
+    "captured": true
+  },
+  {
+    "lat": 19.146556399492475,
+    "lon": -96.10332379318265,
+    "description": "pool1397",
+    "captured": true
+  },
+  {
+    "lat": 19.146421971089335,
+    "lon": -96.10311173319853,
+    "description": "pool1398",
+    "captured": true
+  },
+  {
+    "lat": 19.14190644782159,
+    "lon": -96.10302272490107,
+    "description": "pool1399",
+    "captured": true
+  },
+  {
+    "lat": 19.1423986512649,
+    "lon": -96.1027328983121,
+    "description": "pool1400",
+    "captured": true
+  },
+  {
+    "lat": 19.04877461818534,
+    "lon": -96.03750087724187,
+    "description": "pool1401",
+    "captured": false
+  },
+  {
+    "lat": 19.048952725310826,
+    "lon": -96.03737347231554,
+    "description": "pool1402",
+    "captured": false
+  }
+]
