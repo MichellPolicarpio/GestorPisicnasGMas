@@ -41,7 +41,7 @@ export function LoginForm() {
           <div className="mb-6">
             <Image
               src="/logo-gmas.png"
-              alt="Grupo MAs Agua"
+              alt="Grupo Mas Agua"
               width={200}
               height={80}
               className="mx-auto"
@@ -141,4 +141,3 @@ export function LoginForm() {
     </div>
   )
 }
-

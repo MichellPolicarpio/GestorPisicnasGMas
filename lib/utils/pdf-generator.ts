@@ -40,7 +40,7 @@ export const generatePoolPDF = (pool: PoolData) => {
   // Subtítulo
   doc.setFontSize(12)
   doc.setFont('helvetica', 'normal')
-  doc.text('Grupo MAs Agua - Reporte de Piscina', 20, 25)
+  doc.text('Grupo Mas Agua - Reporte de Piscina', 20, 25)
   
   // Fecha de generación (simplificada para que quepa)
   const currentDate = new Date().toLocaleDateString('es-ES', {
@@ -249,7 +249,7 @@ export const generatePoolPDF = (pool: PoolData) => {
   doc.setTextColor(0, 0, 0)
   doc.setFontSize(10)
   doc.setFont('helvetica', 'normal')
-  doc.text('Sistema de Identificación de Piscinas - Grupo MAs Agua', 20, pageHeight - 10)
+  doc.text('Sistema de Identificación de Piscinas - Grupo Mas Agua', 20, pageHeight - 10)
   doc.text(`Página 1 de 1`, 180, pageHeight - 10)
   
   // QR Code removido por petición del usuario
@@ -262,4 +262,3 @@ export const downloadPoolPDF = (pool: PoolData) => {
   const fileName = `piscina_${pool.description}_${new Date().toISOString().split('T')[0]}.pdf`
   doc.save(fileName)
 }
-

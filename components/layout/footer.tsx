@@ -11,7 +11,7 @@ export function Footer() {
           {/* Información de la empresa */}
           <div className="space-y-4">
             <div>
-              <h3 className="text-lg font-semibold text-foreground mb-2">Grupo MAs Agua</h3>
+              <h3 className="text-lg font-semibold text-foreground mb-2">Grupo Mas Agua</h3>
               <p className="text-sm text-muted-foreground">
                 Soluciones integrales para el monitoreo y gestión de piscinas en Veracruz.
               </p>
@@ -60,7 +60,7 @@ export function Footer() {
         <div className="border-t border-border mt-8 pt-6">
           <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
             <div className="flex items-center space-x-4 text-sm text-muted-foreground">
-              <p>&copy; 2024 Grupo MAs Agua de Veracruz. Todos los derechos reservados.</p>
+              <p>&copy; 2024 Grupo Mas Agua de Veracruz. Todos los derechos reservados.</p>
             </div>
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">
               <span>Versión 1.0.0</span>

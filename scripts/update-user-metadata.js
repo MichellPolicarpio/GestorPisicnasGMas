@@ -27,7 +27,7 @@ async function updateUserMetadata() {
       data: {
         name: 'Miguel Moran',
         role: 'admin',
-        company: 'Grupo MAs Agua'
+        company: 'Grupo Mas Agua'
       }
     })
     

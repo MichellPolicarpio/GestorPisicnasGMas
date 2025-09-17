@@ -25,7 +25,7 @@ export default function MobilePage() {
       <div className="sticky top-0 z-40 bg-card border-b border-border p-4">
         <div className="flex items-center justify-between mb-3">
           <div>
-            <h1 className="text-lg font-bold">Grupo MAs Agua</h1>
+            <h1 className="text-lg font-bold">Grupo Mas Agua</h1>
             <p className="text-xs text-muted-foreground">Sistema de Piscinas</p>
           </div>
           <div className="flex items-center gap-2">

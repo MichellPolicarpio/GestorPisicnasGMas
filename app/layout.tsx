@@ -9,8 +9,8 @@ import { AuthProvider } from "@/lib/contexts/auth-context"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Grupo MAs Agua - Sistema de Piscinas",
-  description: "Sistema de visualización de piscinas para Grupo MAs Agua de Veracruz",
+  title: "Grupo Mas Agua - Sistema de Piscinas",
+  description: "Sistema de visualización de piscinas para Grupo Mas Agua de Veracruz",
   generator: "v0.app",
 }
 

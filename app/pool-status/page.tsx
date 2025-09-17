@@ -54,88 +54,92 @@ const PoolEditForm = memo(({
   }, [localOwner, localConsumptionType, localStatus, localNotes, onSave])
 
   return (
-    <div className="space-y-6">
-      {/* Información básica de la piscina */}
-      <div className="space-y-4">
-        <h4 className="text-md font-semibold border-b border-border pb-2">📊 Información Básica</h4>
-        
-        <div>
-          <label className="text-sm font-medium">Propietario</label>
-          <Input
-            value={localOwner}
-            onChange={(e) => setLocalOwner(e.target.value)}
-            placeholder="Nombre del propietario"
-          />
-        </div>
+    <div className="flex min-h-full flex-col">
+      <div className="flex-1 space-y-6 px-5 py-4">
+        <section className="rounded-lg border border-border/60 bg-card/40 p-4 shadow-sm">
+          <h4 className="text-md font-semibold mb-4">📊 Información Básica</h4>
+          <div className="grid gap-4 md:grid-cols-2">
+            <div className="md:col-span-2 space-y-2">
+              <label className="text-sm font-medium">Propietario</label>
+              <Input
+                value={localOwner}
+                onChange={(e) => setLocalOwner(e.target.value)}
+                placeholder="Nombre del propietario"
+              />
+            </div>
+            <div className="space-y-2">
+              <label className="text-sm font-medium">Modalidad de Consumo</label>
+              <Select 
+                value={localConsumptionType} 
+                onValueChange={setLocalConsumptionType}
+              >
+                <SelectTrigger>
+                  <SelectValue placeholder="Seleccionar modalidad" />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="residencial">Residencial</SelectItem>
+                  <SelectItem value="comercial">Comercial</SelectItem>
+                  <SelectItem value="industrial">Industrial</SelectItem>
+                  <SelectItem value="publico">Público</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="space-y-2">
+              <label className="text-sm font-medium">Estatus</label>
+              <Select 
+                value={localStatus} 
+                onValueChange={(value) => setLocalStatus(value as "revisada" | "no-revisada")}
+              >
+                <SelectTrigger>
+                  <SelectValue />
+                </SelectTrigger>
+                <SelectContent>
+                  <SelectItem value="revisada">Revisada</SelectItem>
+                  <SelectItem value="no-revisada">No Revisada</SelectItem>
+                </SelectContent>
+              </Select>
+            </div>
+            <div className="md:col-span-2 space-y-2">
+              <label className="text-sm font-medium">Notas</label>
+              <Textarea
+                value={localNotes}
+                onChange={(e) => setLocalNotes(e.target.value)}
+                placeholder="Notas adicionales..."
+                rows={4}
+              />
+            </div>
+          </div>
+        </section>
 
-        <div>
-          <label className="text-sm font-medium">Modalidad de Consumo</label>
-          <Select 
-            value={localConsumptionType} 
-            onValueChange={setLocalConsumptionType}
-          >
-            <SelectTrigger>
-              <SelectValue placeholder="Seleccionar modalidad" />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="residencial">Residencial</SelectItem>
-              <SelectItem value="comercial">Comercial</SelectItem>
-              <SelectItem value="industrial">Industrial</SelectItem>
-              <SelectItem value="publico">Público</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
+        <section className="rounded-lg border border-border/60 bg-card/40 p-4 shadow-sm">
+          <h4 className="text-md font-semibold mb-3 flex items-center gap-2">
+            <MapPin className="h-4 w-4" />
+            📍 Dirección
+          </h4>
+          <AddressManager poolId={pool.id} showBatchActions={false} />
+        </section>
 
-        <div>
-          <label className="text-sm font-medium">Estatus</label>
-          <Select 
-            value={localStatus} 
-            onValueChange={(value) => setLocalStatus(value as "revisada" | "no-revisada")}
-          >
-            <SelectTrigger>
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent>
-              <SelectItem value="revisada">Revisada</SelectItem>
-              <SelectItem value="no-revisada">No Revisada</SelectItem>
-            </SelectContent>
-          </Select>
-        </div>
-
-        <div>
-          <label className="text-sm font-medium">Notas</label>
-          <Textarea
-            value={localNotes}
-            onChange={(e) => setLocalNotes(e.target.value)}
-            placeholder="Notas adicionales..."
-            rows={3}
-          />
-        </div>
+        <section className="rounded-lg border border-border/60 bg-muted/30 p-4">
+          <h5 className="text-sm font-semibold mb-3">🌍 Coordenadas GPS</h5>
+          <div className="grid gap-3 text-sm text-muted-foreground sm:grid-cols-2">
+            <div>
+              <p className="font-medium text-foreground">Latitud</p>
+              <p>{pool.lat.toFixed(6)}°</p>
+            </div>
+            <div>
+              <p className="font-medium text-foreground">Longitud</p>
+              <p>{pool.lon.toFixed(6)}°</p>
+            </div>
+            <div className="sm:col-span-2">
+              <p className="font-medium text-foreground">Estado</p>
+              <p>{pool.status === "revisada" ? "✅ Revisada" : "⏳ Pendiente de revisión"}</p>
+            </div>
+          </div>
+        </section>
       </div>
 
-      {/* Direcciones integrada */}
-      <div className="border-t border-border pt-3">
-        <h4 className="text-md font-semibold mb-2 flex items-center gap-2">
-          <MapPin className="h-4 w-4" />
-          📍 Dirección
-        </h4>
-        <AddressManager poolId={pool.id} showBatchActions={false} />
-      </div>
-
-      {/* Coordenadas */}
-      <div className="bg-muted p-3 rounded-lg">
-        <h5 className="text-sm font-medium mb-1">🌍 Coordenadas GPS</h5>
-        <div className="text-sm text-muted-foreground space-y-1">
-          <p><strong>Latitud:</strong> {pool.lat.toFixed(6)}°</p>
-          <p><strong>Longitud:</strong> {pool.lon.toFixed(6)}°</p>
-          <p><strong>Estado:</strong> {pool.status === "revisada" ? "✅ Revisada" : "⏳ Pendiente de revisión"}</p>
-        </div>
-      </div>
-
-      {/* Botones de acción */}
-      <div className="space-y-2 mt-5 pt-3 border-t border-border">
-        {/* Botones principales */}
-        <div className="flex gap-2">
+      <div className="sticky bottom-0 left-0 right-0 z-10 border-t border-border bg-card/95 px-5 py-4 backdrop-blur">
+        <div className="flex flex-col gap-2 sm:flex-row">
           <Button 
             onClick={handleSave}
             className="flex-1"
@@ -491,51 +495,51 @@ export default function PoolStatusPage() {
             </Button>
             
             {/* RECUADRO 1: Edición de Piscina + Gestión de Direcciones */}
-            <Card className="w-full overflow-hidden flex flex-col">
-              <div className="p-5 overflow-y-auto flex-1">
-                <h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
+            <Card className="flex h-full flex-col overflow-hidden">
+              <div className="flex flex-col gap-3 border-b border-border/60 px-5 py-4">
+                <div className="flex flex-wrap items-center gap-2 text-lg font-semibold">
                   <Edit className="h-5 w-5" />
-                  Editar Piscina: {selectedPool.description}
-                </h3>
-                
+                  <span>Editar Piscina: {selectedPool.description}</span>
+                </div>
+                <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-end">
+                  <Button 
+                    variant="outline"
+                    onClick={() => handlePrintPDF(selectedPool)}
+                    title="Imprimir PDF de esta piscina"
+                    className="w-full sm:w-auto"
+                  >
+                    <Printer className="h-4 w-4 mr-2" />
+                    📄 Imprimir PDF
+                  </Button>
+                </div>
+              </div>
+              <div className="flex-1 overflow-y-auto">
                 <PoolEditForm 
                   pool={selectedPool}
                   onSave={handleSavePool}
                   onCancel={handleCancel}
                 />
-                
-                {/* Botones secundarios */}
-                <div className="flex gap-2 mt-4 pt-3 border-t border-border">
-                  <Button 
-                    variant="outline"
-                    onClick={() => handlePrintPDF(selectedPool)}
-                    title="Imprimir PDF de esta piscina"
-                    className="flex-1"
-                  >
-                    <Printer className="h-4 w-4 mr-2" />
-                    📄 Imprimir PDF
-                  </Button>
-                  <Link href={`/pools?pool=${selectedPool.id}`} className="flex-1">
-                    <Button 
-                      variant="outline"
-                      title="Ver en el mapa completo"
-                      className="w-full"
-                    >
-                      <ExternalLink className="h-4 w-4 mr-2" />
-                      🗺️ Mapa Completo
-                    </Button>
-                  </Link>
-                </div>
               </div>
             </Card>
 
             {/* RECUADRO 2: Mapa - ESTÁTICO */}
             <Card className="w-full h-full flex flex-col">
-              <div className="p-4 flex-shrink-0">
-                <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
+              <div className="flex flex-wrap items-center justify-between gap-2 p-4 pb-0">
+                <h4 className="text-lg font-semibold flex items-center gap-2">
                   <MapPin className="h-5 w-5" />
                   🗺️ Ubicación de la Piscina
                 </h4>
+                <Button 
+                  variant="outline"
+                  size="sm"
+                  title="Ver en el mapa completo"
+                  asChild
+                >
+                  <Link href={`/pools?pool=${selectedPool.id}`}>
+                    <ExternalLink className="h-4 w-4 mr-2" />
+                    Mapa Completo
+                  </Link>
+                </Button>
               </div>
               <div className="flex-1 px-4 pb-4">
                 <div className="h-full rounded-lg overflow-hidden border">

@@ -22,7 +22,7 @@ export default function HomePage() {
             {/* Welcome Section */}
             <div>
               <h1 className="text-3xl font-bold text-foreground mb-2">Sistema de Identificación de Piscinas</h1>
-              <p className="text-muted-foreground">Mapeo y captura de ubicaciones de piscinas en la ciudad - Grupo MAs Agua</p>
+              <p className="text-muted-foreground">Mapeo y captura de ubicaciones de piscinas en la ciudad - Grupo Mas Agua</p>
             </div>
 
             {/* Quick Stats */}
